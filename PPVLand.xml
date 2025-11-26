@@ -1,5 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14240">
+    <display-name>Utah Utes vs. Kansas Jayhawks</display-name>
+  </channel>
+  <programme start="20251128170000 +0000" stop="20251128203000 +0000" channel="ppv-14240">
+    <title lang="en">Utah Utes vs. Kansas Jayhawks</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14246">
+    <display-name>Texas Tech Red Raiders vs. West Virginia Mountaineers</display-name>
+  </channel>
+  <programme start="20251129170000 +0000" stop="20251129203000 +0000" channel="ppv-14246">
+    <title lang="en">Texas Tech Red Raiders vs. West Virginia Mountaineers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/59d8f2219d43ae76966f2c400bee49c0-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14248">
+    <display-name>UCF Knights vs. BYU Cougars</display-name>
+  </channel>
+  <programme start="20251129180000 +0000" stop="20251129213000 +0000" channel="ppv-14248">
+    <title lang="en">UCF Knights vs. BYU Cougars</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/f5d795dfc56f708ddc12ac8dd61e61c7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14251">
+    <display-name>Vanderbilt Commodores vs. Tennessee Volunteers</display-name>
+  </channel>
+  <programme start="20251129203000 +0000" stop="20251130000000 +0000" channel="ppv-14251">
+    <title lang="en">Vanderbilt Commodores vs. Tennessee Volunteers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/f04b56ec34d5537c4df137a0885ac52a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14252">
+    <display-name>Virginia Tech Hokies vs. Virginia Cavaliers</display-name>
+  </channel>
+  <programme start="20251130000000 +0000" stop="20251130033000 +0000" channel="ppv-14252">
+    <title lang="en">Virginia Tech Hokies vs. Virginia Cavaliers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/2ba287a2a58ce000b3782f1acc6fca8c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14256">
+    <display-name>SMU Mustangs vs. California Golden Bears</display-name>
+  </channel>
+  <programme start="20251130010000 +0000" stop="20251130043000 +0000" channel="ppv-14256">
+    <title lang="en">SMU Mustangs vs. California Golden Bears</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/edb225d8661a2935b216a2524c5e2596-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14257">
+    <display-name>Notre Dame Fighting Irish vs. Stanford Cardinal</display-name>
+  </channel>
+  <programme start="20251130033000 +0000" stop="20251130070000 +0000" channel="ppv-14257">
+    <title lang="en">Notre Dame Fighting Irish vs. Stanford Cardinal</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14228">
+    <display-name>Vanderbilt Commodores vs. Western Kentucky Hilltoppers</display-name>
+  </channel>
+  <programme start="20251126170000 +0000" stop="20251126203000 +0000" channel="ppv-14228">
+    <title lang="en">Vanderbilt Commodores vs. Western Kentucky Hilltoppers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/e7c06573b8ae26c27c135536fb2d6d9f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14229">
+    <display-name>Syracuse Orange vs. Iowa State Cyclones</display-name>
+  </channel>
+  <programme start="20251126180000 +0000" stop="20251126213000 +0000" channel="ppv-14229">
+    <title lang="en">Syracuse Orange vs. Iowa State Cyclones</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/56fed9df3b8cb004e0c65bcfe50da1a5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14230">
+    <display-name>New Orleans Privateers vs. Texas Tech Red Raiders</display-name>
+  </channel>
+  <programme start="20251126180000 +0000" stop="20251126213000 +0000" channel="ppv-14230">
+    <title lang="en">New Orleans Privateers vs. Texas Tech Red Raiders</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/d91a7a2743c9810a42d735572c677edd-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14231">
+    <display-name>Notre Dame Fighting Irish vs. Houston Cougars</display-name>
+  </channel>
+  <programme start="20251126203000 +0000" stop="20251127000000 +0000" channel="ppv-14231">
+    <title lang="en">Notre Dame Fighting Irish vs. Houston Cougars</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/81e085b951fb7cba284cce2e2f9b5cdf-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14232">
+    <display-name>Kansas Jayhawks vs. Tennessee Volunteers</display-name>
+  </channel>
+  <programme start="20251127000000 +0000" stop="20251127033000 +0000" channel="ppv-14232">
+    <title lang="en">Kansas Jayhawks vs. Tennessee Volunteers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/74aa5aa0eac456d88f079b28cab5a514-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14233">
+    <display-name>Tennessee Tech Golden Eagles vs. Kentucky Wildcats</display-name>
+  </channel>
+  <programme start="20251127000000 +0000" stop="20251127033000 +0000" channel="ppv-14233">
+    <title lang="en">Tennessee Tech Golden Eagles vs. Kentucky Wildcats</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/e471046e5e923689edc6e05a631aa41e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14234">
+    <display-name>St. John&#x27;s Red Storm vs. Auburn Tigers</display-name>
+  </channel>
+  <programme start="20251127010000 +0000" stop="20251127043000 +0000" channel="ppv-14234">
+    <title lang="en">St. John&#x27;s Red Storm vs. Auburn Tigers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/d44f906cdbc9c0aa49ac30ed1fcb0f4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14235">
+    <display-name>NJIT Highlanders vs. Louisville Cardinals</display-name>
+  </channel>
+  <programme start="20251127020000 +0000" stop="20251127053000 +0000" channel="ppv-14235">
+    <title lang="en">NJIT Highlanders vs. Louisville Cardinals</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/7b7a1abb89d176044eb53752cc5d367e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14236">
+    <display-name>Gonzaga Bulldogs vs. Michigan Wolverines</display-name>
+  </channel>
+  <programme start="20251127023000 +0000" stop="20251127060000 +0000" channel="ppv-14236">
+    <title lang="en">Gonzaga Bulldogs vs. Michigan Wolverines</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/cb5e86a808cfce7d5514527be1b5c864-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14237">
+    <display-name>NC State Wolfpack vs. Texas Longhorns</display-name>
+  </channel>
+  <programme start="20251127023000 +0000" stop="20251127060000 +0000" channel="ppv-14237">
+    <title lang="en">NC State Wolfpack vs. Texas Longhorns</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/fb4ec1ab25c4f95db6f03d71aae65389-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14238">
+    <display-name>Maryland Terrapins vs. Alabama Crimson Tide</display-name>
+  </channel>
+  <programme start="20251127045900 +0000" stop="20251127082900 +0000" channel="ppv-14238">
+    <title lang="en">Maryland Terrapins vs. Alabama Crimson Tide</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14064">
     <display-name>Copenhagen vs. Kairat Almaty</display-name>
   </channel>
@@ -17,6 +179,24 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-12737">
+    <display-name>CBS Sports Golazo Show</display-name>
+  </channel>
+  <programme start="20251126200000 +0000" stop="20251127000000 +0000" channel="ppv-12737">
+    <title lang="en">CBS Sports Golazo Show</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-13195">
+    <display-name>TNT Sports Goals Show</display-name>
+  </channel>
+  <programme start="20251126200000 +0000" stop="20251126230000 +0000" channel="ppv-13195">
+    <title lang="en">TNT Sports Goals Show</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/a1ffcb323db604d728eb84a29c7d3df0-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14066">
     <display-name>Paris vs. Tottenham</display-name>
@@ -130,10 +310,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​‌‌​‌‌‌​​​​​ Guy</display-name>
+    <display-name>24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​​‌‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​‌‌​‌‌‌​​​​​ Guy</title>
+    <title lang="en">24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​​‌‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
