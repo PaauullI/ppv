@@ -63,15 +63,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14228">
-    <display-name>Vanderbilt Commodores vs. Western Kentucky Hilltoppers</display-name>
-  </channel>
-  <programme start="20251126170000 +0000" stop="20251126203000 +0000" channel="ppv-14228">
-    <title lang="en">Vanderbilt Commodores vs. Western Kentucky Hilltoppers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/e7c06573b8ae26c27c135536fb2d6d9f-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14229">
     <display-name>Syracuse Orange vs. Iowa State Cyclones</display-name>
   </channel>
@@ -98,6 +89,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/81e085b951fb7cba284cce2e2f9b5cdf-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14202">
+    <display-name>Detroit Pistons vs. Boston Celtics (East Group B)</display-name>
+  </channel>
+  <programme start="20251126220000 +0000" stop="20251127004800 +0000" channel="ppv-14202">
+    <title lang="en">Detroit Pistons vs. Boston Celtics (East Group B)</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/a39725f5e21195dd6e8435ec69d2108a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14232">
     <display-name>Kansas Jayhawks vs. Tennessee Volunteers</display-name>
@@ -161,24 +161,6 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14064">
-    <display-name>Copenhagen vs. Kairat Almaty</display-name>
-  </channel>
-  <programme start="20251126174500 +0000" stop="20251126194500 +0000" channel="ppv-14064">
-    <title lang="en">Copenhagen vs. Kairat Almaty</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/a7554f725552531f5d7a12ef9e61f931-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14065">
-    <display-name>Pafos vs. Monaco</display-name>
-  </channel>
-  <programme start="20251126174500 +0000" stop="20251126194500 +0000" channel="ppv-14065">
-    <title lang="en">Pafos vs. Monaco</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg" />
   </programme>
   <channel id="ppv-12737">
     <display-name>CBS Sports Golazo Show</display-name>
@@ -310,10 +292,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​​‌‌ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌‌​​‌‌‌‌​​‌​​‌‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​‌​​‌​‌​‌‌‌​‌​‌‌​‌‌‌‌​‌‌​​​​​​‌‌ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌‌​​‌‌‌‌​​‌​​‌‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
