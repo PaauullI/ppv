@@ -63,69 +63,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14203">
-    <display-name>New York Knicks vs. Charlotte Hornets (East Group C)</display-name>
-  </channel>
-  <programme start="20251127000000 +0000" stop="20251127024800 +0000" channel="ppv-14203">
-    <title lang="en">New York Knicks vs. Charlotte Hornets (East Group C)</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/a7f0d6b3a875bf84b2a010860cf9d818-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14232">
-    <display-name>Kansas Jayhawks vs. Tennessee Volunteers</display-name>
-  </channel>
-  <programme start="20251127000000 +0000" stop="20251127033000 +0000" channel="ppv-14232">
-    <title lang="en">Kansas Jayhawks vs. Tennessee Volunteers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/74aa5aa0eac456d88f079b28cab5a514-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14233">
-    <display-name>Tennessee Tech Golden Eagles vs. Kentucky Wildcats</display-name>
-  </channel>
-  <programme start="20251127000000 +0000" stop="20251127033000 +0000" channel="ppv-14233">
-    <title lang="en">Tennessee Tech Golden Eagles vs. Kentucky Wildcats</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/e471046e5e923689edc6e05a631aa41e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14204">
-    <display-name>Milwaukee Bucks vs. Miami Heat (East Group C)</display-name>
-  </channel>
-  <programme start="20251127003000 +0000" stop="20251127031800 +0000" channel="ppv-14204">
-    <title lang="en">Milwaukee Bucks vs. Miami Heat (East Group C)</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/fecd6a8293c1820150ca3ffc86205247-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14205">
-    <display-name>Indiana Pacers vs. Toronto Raptors (East Group A)</display-name>
-  </channel>
-  <programme start="20251127003000 +0000" stop="20251127031800 +0000" channel="ppv-14205">
-    <title lang="en">Indiana Pacers vs. Toronto Raptors (East Group A)</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/6e8f6b4a5e59bf3221455a49d5e6f559-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14206">
-    <display-name>Minnesota Timberwolves vs. Oklahoma City Thunder (West Group A)</display-name>
-  </channel>
-  <programme start="20251127003000 +0000" stop="20251127031800 +0000" channel="ppv-14206">
-    <title lang="en">Minnesota Timberwolves vs. Oklahoma City Thunder (West Group A)</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/57b946ba98e16c66d801a653da24a6b5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14207">
-    <display-name>Memphis Grizzlies vs. New Orleans Pelicans (West Group B)</display-name>
-  </channel>
-  <programme start="20251127010000 +0000" stop="20251127034800 +0000" channel="ppv-14207">
-    <title lang="en">Memphis Grizzlies vs. New Orleans Pelicans (West Group B)</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/d2d0f04c9915520463b5eee762edbdd6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14234">
     <display-name>St. John&#x27;s Red Storm vs. Auburn Tigers</display-name>
   </channel>
@@ -198,42 +135,6 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14213">
-    <display-name>Nashville Predators vs. Detroit Red Wings</display-name>
-  </channel>
-  <programme start="20251127000000 +0000" stop="20251127030000 +0000" channel="ppv-14213">
-    <title lang="en">Nashville Predators vs. Detroit Red Wings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/c2114aead5284f9e8786e7df3f25f919-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14214">
-    <display-name>Calgary Flames vs. Tampa Bay Lightning</display-name>
-  </channel>
-  <programme start="20251127000000 +0000" stop="20251127030000 +0000" channel="ppv-14214">
-    <title lang="en">Calgary Flames vs. Tampa Bay Lightning</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/a1e3a6e3ef1af616a3e6e390460408e7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14219">
-    <display-name>Winnipeg Jets vs. Washington Capitals</display-name>
-  </channel>
-  <programme start="20251127000000 +0000" stop="20251127030000 +0000" channel="ppv-14219">
-    <title lang="en">Winnipeg Jets vs. Washington Capitals</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/157673abb61c158f46585788284a6056-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14221">
-    <display-name>Toronto Maple Leafs vs. Columbus Blue Jackets</display-name>
-  </channel>
-  <programme start="20251127000000 +0000" stop="20251127030000 +0000" channel="ppv-14221">
-    <title lang="en">Toronto Maple Leafs vs. Columbus Blue Jackets</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/f4a7314b4b776a1bffad0661f28524d2-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14222">
     <display-name>Minnesota Wild vs. Chicago Blackhawks</display-name>
   </channel>
@@ -288,15 +189,6 @@
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/5a4ab2bb1d9071ef167537238213d780-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14023">
-    <display-name>AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <programme start="20251127010000 +0000" stop="20251127040000 +0000" channel="ppv-14023">
-    <title lang="en">AEW: Wednesday Night Dynamite</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://ppv.to/assets/thumb/939d74f529afb1d0c8674c3a27434196-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14024">
     <display-name>TNA: Impact</display-name>
   </channel>
@@ -337,10 +229,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌​‌‌​‌‌​​​​​‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​​​‌​‌​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌​‌‌​‌‌​​​​​‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​​​‌​‌​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
