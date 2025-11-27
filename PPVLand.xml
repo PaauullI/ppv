@@ -378,6 +378,15 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/1a1b960c2e6b1f99fc0266566f5c232f-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14108">
+    <display-name>Breiðablik vs. Samsunspor</display-name>
+  </channel>
+  <programme start="20251127200000 +0000" stop="20251127220000 +0000" channel="ppv-14108">
+    <title lang="en">Breiðablik vs. Samsunspor</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/46315f77f8bfc34d11a396790914ee38-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14024">
     <display-name>TNA: Impact</display-name>
   </channel>
@@ -386,6 +395,15 @@
     <sub-title>Wrestling</sub-title>
     <category>Wrestling</category>
     <icon src="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14025">
+    <display-name>WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <programme start="20251129010000 +0000" stop="20251129040000 +0000" channel="ppv-14025">
+    <title lang="en">WWE: Friday Night Smackdown</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14026">
     <display-name>AEW: Saturday Night Collision</display-name>
@@ -409,10 +427,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌‌​​​ Guy</display-name>
+    <display-name>24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​‌‌‌​​‌‌​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌‌​​​ Guy</title>
+    <title lang="en">24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​‌‌‌​​‌‌​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
