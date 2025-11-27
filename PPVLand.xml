@@ -63,15 +63,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14231">
-    <display-name>Notre Dame Fighting Irish vs. Houston Cougars</display-name>
-  </channel>
-  <programme start="20251126203000 +0000" stop="20251127000000 +0000" channel="ppv-14231">
-    <title lang="en">Notre Dame Fighting Irish vs. Houston Cougars</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/81e085b951fb7cba284cce2e2f9b5cdf-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14202">
     <display-name>Detroit Pistons vs. Boston Celtics (East Group B)</display-name>
   </channel>
@@ -134,6 +125,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/57b946ba98e16c66d801a653da24a6b5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14207">
+    <display-name>Memphis Grizzlies vs. New Orleans Pelicans (West Group B)</display-name>
+  </channel>
+  <programme start="20251127010000 +0000" stop="20251127034800 +0000" channel="ppv-14207">
+    <title lang="en">Memphis Grizzlies vs. New Orleans Pelicans (West Group B)</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/d2d0f04c9915520463b5eee762edbdd6-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14234">
     <display-name>St. John&#x27;s Red Storm vs. Auburn Tigers</display-name>
@@ -261,6 +261,15 @@
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/f4a7314b4b776a1bffad0661f28524d2-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14222">
+    <display-name>Minnesota Wild vs. Chicago Blackhawks</display-name>
+  </channel>
+  <programme start="20251127013000 +0000" stop="20251127043000 +0000" channel="ppv-14222">
+    <title lang="en">Minnesota Wild vs. Chicago Blackhawks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/21745d96647b324ac0957067c983f483-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14023">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -310,10 +319,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌‌​‌‌​‌‌‌​​‌‌​‌‌ Guy</display-name>
+    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌‌‌‌​‌​​​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌‌​‌‌​‌‌‌​​‌‌​‌‌ Guy</title>
+    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌‌‌‌​‌​​​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
