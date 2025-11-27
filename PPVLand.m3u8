@@ -13,7 +13,7 @@ https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ESPN2/index.m3u8
+https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-14251" tvg-name="Vanderbilt Commodores vs. Tennessee Volunteers" tvg-logo="https://ppv.to/assets/thumb/f04b56ec34d5537c4df137a0885ac52a-thumbnail.jpg" group-title="🏈 NCAA College Football",Vanderbilt Commodores vs. Tennessee Volunteers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -28,23 +28,188 @@ https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ESPN2/index.m3u8
+https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-14257" tvg-name="Notre Dame Fighting Irish vs. Stanford Cardinal" tvg-logo="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" group-title="🏈 NCAA College Football",Notre Dame Fighting Irish vs. Stanford Cardinal
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ppv-14238" tvg-name="Maryland Terrapins vs. Alabama Crimson Tide" tvg-logo="https://ppv.to/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg" group-title="🏈 NCAA College Football",Maryland Terrapins vs. Alabama Crimson Tide
+#EXTINF:-1 tvg-id="ppv-14073" tvg-name="Roma vs. Midtjylland" tvg-logo="https://ppv.to/assets/thumb/a4d0c4ccfce27de01da30f51df44fac4-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Roma vs. Midtjylland
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/TNT/index.m3u8
+https://gg.poocloud.in/uel_rom/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14074" tvg-name="Porto vs. Nice" tvg-logo="https://ppv.to/assets/thumb/ba65b168a1e9922f9edfcecc73f7dc08-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Porto vs. Nice
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_por/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14075" tvg-name="Feyenoord vs. Celtic" tvg-logo="https://ppv.to/assets/thumb/5ffbcde3ab2622cd15d871c7423a4e85-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Feyenoord vs. Celtic
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_fey/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14076" tvg-name="Lille vs. GNK Dinamo" tvg-logo="https://ppv.to/assets/thumb/99354569bdd5473544d45aabf618d47f-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Lille vs. GNK Dinamo
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_lil/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14077" tvg-name="Aston Villa vs. Young Boys" tvg-logo="https://ppv.to/assets/thumb/f29da0f1fda7770793e0a140411f2475-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Aston Villa vs. Young Boys
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_avl/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14078" tvg-name="Fenerbahçe vs. Ferencváros" tvg-logo="https://ppv.to/assets/thumb/87cc43eff36b4a06b6835f04f520f653-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Fenerbahçe vs. Ferencváros
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_fen/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14079" tvg-name="PAOK vs. Brann" tvg-logo="https://ppv.to/assets/thumb/695eb93a23621bc84f9c35b3060b3a5d-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",PAOK vs. Brann
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_paok/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14080" tvg-name="Viktoria Plzeň vs. Freiburg" tvg-logo="https://ppv.to/assets/thumb/e3e126348ded5742c2fe7a9519ebd26a-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Viktoria Plzeň vs. Freiburg
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_plz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14081" tvg-name="Ludogorets vs. Celta" tvg-logo="https://ppv.to/assets/thumb/d6a7928ef9ed612250357ea81f58a8cf-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Ludogorets vs. Celta
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_lud/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14091" tvg-name="AZ Alkmaar vs. Shelbourne" tvg-logo="https://ppv.to/assets/thumb/2ef5afa4dc44b663cf07bb167c9d2348-thumbnail.jpg" group-title="UECL",AZ Alkmaar vs. Shelbourne
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_az/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14092" tvg-name="S. Bratislava vs. Rayo Vallecano" tvg-logo="https://ppv.to/assets/thumb/edb782ccf9ddc8b2d918000e3889be6f-thumbnail.jpg" group-title="UECL",S. Bratislava vs. Rayo Vallecano
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_slb/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14093" tvg-name="Lech Poznań vs. Lausanne-Sport" tvg-logo="https://ppv.to/assets/thumb/4e09e896cdf6a5d13b3736376b79db6d-thumbnail.jpg" group-title="UECL",Lech Poznań vs. Lausanne-Sport
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_lpo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14094" tvg-name="Omonoia vs. Dynamo Kyiv" tvg-logo="https://ppv.to/assets/thumb/a11152648250a360b3827ab0814243c5-thumbnail.jpg" group-title="UECL",Omonoia vs. Dynamo Kyiv
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_omo/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14095" tvg-name="Zrinjski vs. Häcken" tvg-logo="https://ppv.to/assets/thumb/1a76fa1076058b6a47884593138493b6-thumbnail.jpg" group-title="UECL",Zrinjski vs. Häcken
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_zri/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14096" tvg-name="Sigma Olomouc vs. Celje" tvg-logo="https://ppv.to/assets/thumb/5e1605c90223f4394a58ab0a9a93d716-thumbnail.jpg" group-title="UECL",Sigma Olomouc vs. Celje
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_sig/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14097" tvg-name="Raków vs. SK Rapid" tvg-logo="https://ppv.to/assets/thumb/6af0d08310f9bf3a142c8951d978ae62-thumbnail.jpg" group-title="UECL",Raków vs. SK Rapid
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_rak/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14098" tvg-name="U. Craiova vs. Mainz" tvg-logo="https://ppv.to/assets/thumb/995fc14b827caea98a3de0be73498c43-thumbnail.jpg" group-title="UECL",U. Craiova vs. Mainz
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_ucr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14099" tvg-name="Hamrun Spartans  vs. L. Red Imps" tvg-logo="https://ppv.to/assets/thumb/f00dc17e52657d466c447370d2a36ea0-thumbnail.jpg" group-title="UECL",Hamrun Spartans  vs. L. Red Imps
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_hsp/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14082" tvg-name="Rangers vs. Braga" tvg-logo="https://ppv.to/assets/thumb/6ace06b4ab7cc10ed503b28fea81ded1-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Rangers vs. Braga
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_ran/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14083" tvg-name="Real Betis vs. Utrecht" tvg-logo="https://ppv.to/assets/thumb/abab2e8c842437ad5212eacd638372e2-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Real Betis vs. Utrecht
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_bet/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14084" tvg-name="Crvena Zvezda vs. FCSB" tvg-logo="https://ppv.to/assets/thumb/e613b63f6c679e6035c230c317083f16-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Crvena Zvezda vs. FCSB
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_zve/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14085" tvg-name="M. Tel-Aviv vs. Lyon" tvg-logo="https://ppv.to/assets/thumb/1da8e19716e6834e1df2275975b9bd71-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",M. Tel-Aviv vs. Lyon
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_mta/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14086" tvg-name="Nott'm Forest vs. Malmö" tvg-logo="https://ppv.to/assets/thumb/63720f1f418c403e2551841b0dc3eb98-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Nott'm Forest vs. Malmö
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_nfo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14087" tvg-name="Bologna vs. Salzburg" tvg-logo="https://ppv.to/assets/thumb/ef13fea7ec1684b689eb6f3aa04ad807-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Bologna vs. Salzburg
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_bol/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14088" tvg-name="Panathinaikos vs. Sturm Graz" tvg-logo="https://ppv.to/assets/thumb/95501f28387e791138875fb941c9e366-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Panathinaikos vs. Sturm Graz
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_pan/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14089" tvg-name="Go Ahead Eagles vs. Stuttgart" tvg-logo="https://ppv.to/assets/thumb/212bcc81525230fbb58c39a74d5dc4f4-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Go Ahead Eagles vs. Stuttgart
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_gae/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14090" tvg-name="Genk vs. Basel" tvg-logo="https://ppv.to/assets/thumb/50121ecd74a4de1f87258e9dce71717d-thumbnail.jpg" group-title="🇪🇺 UEFA Europa League",Genk vs. Basel
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uel_gen/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14100" tvg-name="Fiorentina vs. AEK Athens" tvg-logo="https://ppv.to/assets/thumb/2cafd41017a4ef5aa9407df255da016f-thumbnail.jpg" group-title="UECL",Fiorentina vs. AEK Athens
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_fio/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14101" tvg-name="Legia Warszawa vs. Sparta Praha" tvg-logo="https://ppv.to/assets/thumb/2ff8e6d73a9eb74c1d90f9a1279ba179-thumbnail.jpg" group-title="UECL",Legia Warszawa vs. Sparta Praha
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_leg/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14102" tvg-name="Shamrock Rovers vs. Shakhtar" tvg-logo="https://ppv.to/assets/thumb/066c09f4aed4bfd351c9f85bc03ae0de-thumbnail.jpg" group-title="UECL",Shamrock Rovers vs. Shakhtar
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_shr/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14103" tvg-name="Strasbourg vs. Crystal Palace" tvg-logo="https://ppv.to/assets/thumb/c3095df7f0f590b4e1abf7bf5f18c4ac-thumbnail.jpg" group-title="UECL",Strasbourg vs. Crystal Palace
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_rcs/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14104" tvg-name="Jagiellonia vs. KuPS Kuopio" tvg-logo="https://ppv.to/assets/thumb/76aeac3e8a5874572046e86e768b0703-thumbnail.jpg" group-title="UECL",Jagiellonia vs. KuPS Kuopio
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_jag/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14105" tvg-name="Rijeka vs. AEK Larnaca" tvg-logo="https://ppv.to/assets/thumb/d17e5afc5eecf445ffc4c2c19449a763-thumbnail.jpg" group-title="UECL",Rijeka vs. AEK Larnaca
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_rij/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14106" tvg-name="Aberdeen vs. Noah" tvg-logo="https://ppv.to/assets/thumb/3f1dc01f9da5c31b33782821d955fdb5-thumbnail.jpg" group-title="UECL",Aberdeen vs. Noah
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_abe/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-14107" tvg-name="Drita vs. Shkëndija" tvg-logo="https://ppv.to/assets/thumb/1a1b960c2e6b1f99fc0266566f5c232f-thumbnail.jpg" group-title="UECL",Drita vs. Shkëndija
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/uecl_dri/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-14024" tvg-name="TNA: Impact" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling Events",TNA: Impact
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14025" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="🤼 WWE",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -63,12 +228,12 @@ https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​​‌‌​​​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​​‌‌​​​​​ Guy
+https://gg.poocloud.in/cows/index.m3u8
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌‌​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌‌​​​ Guy
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/familyguy/index.m3u8
+https://gg.poocloud.in/familyguy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
