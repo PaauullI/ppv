@@ -9,6 +9,15 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/9ccdd52f6ef55678ec64bf62e415313a-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14166">
+    <display-name>Cincinnati Bengals vs. Baltimore Ravens</display-name>
+  </channel>
+  <programme start="20251128012000 +0000" stop="20251128045000 +0000" channel="ppv-14166">
+    <title lang="en">Cincinnati Bengals vs. Baltimore Ravens</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/129b854bdfa2b62a83f328202a1a90ca-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14240">
     <display-name>Utah Utes vs. Kansas Jayhawks</display-name>
   </channel>
@@ -99,15 +108,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14264">
-    <display-name>TCU Horned Frogs vs. Florida Gators</display-name>
-  </channel>
-  <programme start="20251127200000 +0000" stop="20251127233000 +0000" channel="ppv-14264">
-    <title lang="en">TCU Horned Frogs vs. Florida Gators</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/3e3ae7d9bd3afef2f2990917694c4db4-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14265">
     <display-name>North Carolina Tar Heels vs. Michigan State Spartans</display-name>
   </channel>
@@ -175,10 +175,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​​​​‌‌​​‌​ Guy</display-name>
+    <display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌​‌​‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​​​​‌‌​​‌​ Guy</title>
+    <title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌​‌​‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
