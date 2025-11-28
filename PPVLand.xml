@@ -9,6 +9,24 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14244">
+    <display-name>Arizona Wildcats vs. Arizona State Sun Devils</display-name>
+  </channel>
+  <programme start="20251129020000 +0000" stop="20251129053000 +0000" channel="ppv-14244">
+    <title lang="en">Arizona Wildcats vs. Arizona State Sun Devils</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/181aafc9d212c9e8d537c4f978695437-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14245">
+    <display-name>Ohio State Buckeyes vs. Michigan Wolverines</display-name>
+  </channel>
+  <programme start="20251129170000 +0000" stop="20251129203000 +0000" channel="ppv-14245">
+    <title lang="en">Ohio State Buckeyes vs. Michigan Wolverines</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/8c83ea5c2c4765d68dd699010a5f5fef-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14246">
     <display-name>Texas Tech Red Raiders vs. West Virginia Mountaineers</display-name>
   </channel>
@@ -72,6 +90,15 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14046">
+    <display-name>Gladbach vs. RB Leipzig</display-name>
+  </channel>
+  <programme start="20251128193000 +0000" stop="20251128220000 +0000" channel="ppv-14046">
+    <title lang="en">Gladbach vs. RB Leipzig</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/023a790d6578107f9a340751320e69d4-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14296">
     <display-name>Getafe CF vs. Elche CF</display-name>
   </channel>
@@ -112,10 +139,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌‌‌​‌​‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌‌‌‌​‌‌‌‌​​‌​‌​​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​​‌‌‌​‌​‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌‌‌‌​‌‌‌‌​​‌​‌​​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
