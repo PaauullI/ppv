@@ -108,14 +108,14 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/8b26b67f5b87dd59c65be1d8fc982c45-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14016">
-    <display-name>Qatar Grand Prix - FP1</display-name>
+  <channel id="ppv-14268">
+    <display-name>Tampa Bay Lightning vs. Detroit Red Wings</display-name>
   </channel>
-  <programme start="20251128133000 +0000" stop="20251128153000 +0000" channel="ppv-14016">
-    <title lang="en">Qatar Grand Prix - FP1</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/44ed6d2c095fdebeee9d33c803225830-thumbnail.jpg" />
+  <programme start="20251128170000 +0000" stop="20251128200000 +0000" channel="ppv-14268">
+    <title lang="en">Tampa Bay Lightning vs. Detroit Red Wings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14017">
     <display-name>Qatar Grand Prix - Sprint Q</display-name>
@@ -184,10 +184,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​​​​‌‌​​‌‌​​‌‌​​‌​​‌‌​‌‌​ Guy</display-name>
+    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​​‌​​‌​‌​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​​​​‌‌​​‌‌​​‌‌​​‌​​‌‌​‌‌​ Guy</title>
+    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​​‌​​‌​‌​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
