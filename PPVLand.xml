@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14239">
+    <display-name>Ole Miss Rebels vs. Mississippi State Bulldogs</display-name>
+  </channel>
+  <programme start="20251128170000 +0000" stop="20251128203000 +0000" channel="ppv-14239">
+    <title lang="en">Ole Miss Rebels vs. Mississippi State Bulldogs</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/2f72b60449932e89e830fee1aa9853ff-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14240">
     <display-name>Utah Utes vs. Kansas Jayhawks</display-name>
   </channel>
@@ -8,6 +17,24 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14241">
+    <display-name>Georgia Bulldogs vs. Georgia Tech Yellow Jackets</display-name>
+  </channel>
+  <programme start="20251128203000 +0000" stop="20251129000000 +0000" channel="ppv-14241">
+    <title lang="en">Georgia Bulldogs vs. Georgia Tech Yellow Jackets</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/7fdfa81d8dfd79421f2951cadc85f000-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14243">
+    <display-name>Texas A&amp;M Aggies vs. Texas Longhorns</display-name>
+  </channel>
+  <programme start="20251129003000 +0000" stop="20251129040000 +0000" channel="ppv-14243">
+    <title lang="en">Texas A&amp;M Aggies vs. Texas Longhorns</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/ff015cef0b1983a81844ee62c71e2fe1-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14244">
     <display-name>Arizona Wildcats vs. Arizona State Sun Devils</display-name>
@@ -36,6 +63,15 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/59d8f2219d43ae76966f2c400bee49c0-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14247">
+    <display-name>Miami Hurricanes vs. Pittsburgh Panthers</display-name>
+  </channel>
+  <programme start="20251129170000 +0000" stop="20251129203000 +0000" channel="ppv-14247">
+    <title lang="en">Miami Hurricanes vs. Pittsburgh Panthers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/1fca0136bfdd632b85760027ec4776ec-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14248">
     <display-name>UCF Knights vs. BYU Cougars</display-name>
   </channel>
@@ -54,6 +90,15 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/8b8c9968597e3854f95077f51353d9dd-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14250">
+    <display-name>LSU Tigers vs. Oklahoma Sooners</display-name>
+  </channel>
+  <programme start="20251129203000 +0000" stop="20251130000000 +0000" channel="ppv-14250">
+    <title lang="en">LSU Tigers vs. Oklahoma Sooners</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/ea15cd170343202bd2fa8875a6912977-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14251">
     <display-name>Vanderbilt Commodores vs. Tennessee Volunteers</display-name>
   </channel>
@@ -71,6 +116,15 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/2ba287a2a58ce000b3782f1acc6fca8c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14253">
+    <display-name>Alabama Crimson Tide vs. Auburn Tigers</display-name>
+  </channel>
+  <programme start="20251130003000 +0000" stop="20251130040000 +0000" channel="ppv-14253">
+    <title lang="en">Alabama Crimson Tide vs. Auburn Tigers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/87f282a0580830a9c003c9075f790e32-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14256">
     <display-name>SMU Mustangs vs. California Golden Bears</display-name>
@@ -116,6 +170,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14269">
+    <display-name>New York Rangers vs. Boston Bruins</display-name>
+  </channel>
+  <programme start="20251128180000 +0000" stop="20251128210000 +0000" channel="ppv-14269">
+    <title lang="en">New York Rangers vs. Boston Bruins</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/36e10c488b59f869c4897eed68b5bfc6-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14017">
     <display-name>Qatar Grand Prix - Sprint Q</display-name>
@@ -184,10 +247,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​​‌​​‌​‌​​ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​​​‌​‌‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌​​‌​​‌​‌​​ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​​​‌​‌‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
