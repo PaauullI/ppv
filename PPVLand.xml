@@ -108,6 +108,51 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/8b26b67f5b87dd59c65be1d8fc982c45-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14016">
+    <display-name>Qatar Grand Prix - FP1</display-name>
+  </channel>
+  <programme start="20251128133000 +0000" stop="20251128153000 +0000" channel="ppv-14016">
+    <title lang="en">Qatar Grand Prix - FP1</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/44ed6d2c095fdebeee9d33c803225830-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14017">
+    <display-name>Qatar Grand Prix - Sprint Q</display-name>
+  </channel>
+  <programme start="20251128173000 +0000" stop="20251128191400 +0000" channel="ppv-14017">
+    <title lang="en">Qatar Grand Prix - Sprint Q</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/a2f76cc9c1d88fdcd9ba1e36510ce4af-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14018">
+    <display-name>Qatar Grand Prix - Sprint</display-name>
+  </channel>
+  <programme start="20251129140000 +0000" stop="20251129160000 +0000" channel="ppv-14018">
+    <title lang="en">Qatar Grand Prix - Sprint</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14019">
+    <display-name>Qatar Grand Prix - Qualifying</display-name>
+  </channel>
+  <programme start="20251129180000 +0000" stop="20251129200000 +0000" channel="ppv-14019">
+    <title lang="en">Qatar Grand Prix - Qualifying</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14020">
+    <display-name>Qatar Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20251130160000 +0000" stop="20251130190000 +0000" channel="ppv-14020">
+    <title lang="en">Qatar Grand Prix - Race</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14025">
     <display-name>WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -139,10 +184,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​​​‌‌‌‌​​​‌‌​‌‌​ Guy</display-name>
+    <display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌​‌​‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​​​‌‌‌‌​​​‌‌​‌‌​ Guy</title>
+    <title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌​‌​‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
