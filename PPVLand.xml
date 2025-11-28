@@ -135,15 +135,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14324">
-    <display-name>Saint Mary&#x27;s Gaels vs. Vanderbilt Commodores</display-name>
-  </channel>
-  <programme start="20251128180000 +0000" stop="20251128213000 +0000" channel="ppv-14324">
-    <title lang="en">Saint Mary&#x27;s Gaels vs. Vanderbilt Commodores</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/40d6707d9582cdfee45bebb01c627390-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14325">
     <display-name>Providence Friars vs. Florida Gators</display-name>
   </channel>
@@ -161,33 +152,6 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/53bb2bbd257a26897bad5c1cca4b8395-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14046">
-    <display-name>Gladbach vs. RB Leipzig</display-name>
-  </channel>
-  <programme start="20251128193000 +0000" stop="20251128220000 +0000" channel="ppv-14046">
-    <title lang="en">Gladbach vs. RB Leipzig</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/023a790d6578107f9a340751320e69d4-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14109">
-    <display-name>Como vs. Sassuolo</display-name>
-  </channel>
-  <programme start="20251128194500 +0000" stop="20251128221500 +0000" channel="ppv-14109">
-    <title lang="en">Como vs. Sassuolo</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/55401ac2aad0825bddd57a9aeb1df35a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14119">
-    <display-name>FC Metz vs. Rennes</display-name>
-  </channel>
-  <programme start="20251128194500 +0000" stop="20251128221500 +0000" channel="ppv-14119">
-    <title lang="en">FC Metz vs. Rennes</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/30820a39dbdc363ae35845aeea09919b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14296">
     <display-name>Getafe CF vs. Elche CF</display-name>
@@ -346,10 +310,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​‌​​‌​​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​‌​​‌​​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
