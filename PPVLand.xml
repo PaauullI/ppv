@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14248">
-    <display-name>UCF Knights vs. BYU Cougars</display-name>
-  </channel>
-  <programme start="20251129180000 +0000" stop="20251129213000 +0000" channel="ppv-14248">
-    <title lang="en">UCF Knights vs. BYU Cougars</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://ppv.to/assets/thumb/f5d795dfc56f708ddc12ac8dd61e61c7-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14249">
     <display-name>Oregon Ducks vs. Washington Huskies</display-name>
   </channel>
@@ -81,6 +72,15 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/077e57a9e85fb8e7bdf2eebb6ab8beea-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14328">
+    <display-name>Toronto Raptors vs. Charlotte Hornets</display-name>
+  </channel>
+  <programme start="20251129230000 +0000" stop="20251130014800 +0000" channel="ppv-14328">
+    <title lang="en">Toronto Raptors vs. Charlotte Hornets</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/8b34e999f9ab4e78773dd558f833687a-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14337">
     <display-name>Ben Whittaker vs. Benjamin Gavazi</display-name>
   </channel>
@@ -89,15 +89,6 @@
     <sub-title>Combat Sports</sub-title>
     <category>Combat Sports</category>
     <icon src="https://ppv.to/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14113">
-    <display-name>Milan vs. Lazio</display-name>
-  </channel>
-  <programme start="20251129194500 +0000" stop="20251129221500 +0000" channel="ppv-14113">
-    <title lang="en">Milan vs. Lazio</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/e11d6414013fb2f7deffff9a6d5628fe-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14035">
     <display-name>Tottenham Hotspur vs. Fulham</display-name>
@@ -116,24 +107,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/68e89148f5383518af4d8f8dc769c5c4-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14122">
-    <display-name>OM vs. Toulouse FC</display-name>
-  </channel>
-  <programme start="20251129200500 +0000" stop="20251129223500 +0000" channel="ppv-14122">
-    <title lang="en">OM vs. Toulouse FC</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/4700fa6357f71b2df4d1699091118e91-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14338">
-    <display-name>Tampa Bay Lightning vs. New York Rangers</display-name>
-  </channel>
-  <programme start="20251129190000 +0000" stop="20251129220000 +0000" channel="ppv-14338">
-    <title lang="en">Tampa Bay Lightning vs. New York Rangers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/56e31d29626a245f88719cdf03ceb1b9-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14339">
     <display-name>Montreal Canadiens vs. Colorado Avalanche</display-name>
@@ -162,6 +135,15 @@
     <category>Motorsports</category>
     <icon src="https://ppv.to/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14336">
+    <display-name>WWE Survivor Series: WarGames</display-name>
+  </channel>
+  <programme start="20251130000000 +0000" stop="20251130040000 +0000" channel="ppv-14336">
+    <title lang="en">WWE Survivor Series: WarGames</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://ppv.to/assets/thumb/7d6f7de69f4d95bd349c049aa735537d-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
@@ -175,10 +157,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌​‌​‌‌‌​‌​‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌​​​‌​‌​‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌​‌​‌‌‌​‌​‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌​​​‌​‌​‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
