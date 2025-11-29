@@ -135,33 +135,6 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14047">
-    <display-name>Union Berlin vs. Heidenheim</display-name>
-  </channel>
-  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14047">
-    <title lang="en">Union Berlin vs. Heidenheim</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/7b5c99b786bcec44b30949d5cae0ba5e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14048">
-    <display-name>Bayern vs. St. Pauli</display-name>
-  </channel>
-  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14048">
-    <title lang="en">Bayern vs. St. Pauli</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/3bf1111d678c97e060e2fbb460a0fd97-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14049">
-    <display-name>Hoffenheim vs. Augsburg</display-name>
-  </channel>
-  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14049">
-    <title lang="en">Hoffenheim vs. Augsburg</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/cce26bd25d0c7b5f6da8af14f48668c8-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14050">
     <display-name>Bremen vs. Cologne</display-name>
   </channel>
@@ -170,6 +143,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/8ae402b888869c02484ffe824d2f75bb-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-5193">
+    <display-name>Goal Rush</display-name>
+  </channel>
+  <programme start="20251129150000 +0000" stop="20251129173000 +0000" channel="ppv-5193">
+    <title lang="en">Goal Rush</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14028">
     <display-name>Brentford vs. Burnley</display-name>
@@ -292,10 +274,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​​‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​​​‌​​​‌​​​​‌‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​​‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​​​‌​​​‌​​​​‌‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
