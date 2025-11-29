@@ -108,51 +108,6 @@
     <category>Combat Sports</category>
     <icon src="https://ppv.to/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14112">
-    <display-name>Juventus vs. Cagliari</display-name>
-  </channel>
-  <programme start="20251129170000 +0000" stop="20251129193000 +0000" channel="ppv-14112">
-    <title lang="en">Juventus vs. Cagliari</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/e1b4c81c443ec470f685fe6e743c1a0f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14031">
-    <display-name>Everton vs. Newcastle United</display-name>
-  </channel>
-  <programme start="20251129173000 +0000" stop="20251129200000 +0000" channel="ppv-14031">
-    <title lang="en">Everton vs. Newcastle United</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14051">
-    <display-name>Leverkusen vs. Dortmund</display-name>
-  </channel>
-  <programme start="20251129173000 +0000" stop="20251129200000 +0000" channel="ppv-14051">
-    <title lang="en">Leverkusen vs. Dortmund</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/812137bd71af9b691c616f5ec3077fb7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14299">
-    <display-name>Levante UD vs. Athletic Club</display-name>
-  </channel>
-  <programme start="20251129173000 +0000" stop="20251129200000 +0000" channel="ppv-14299">
-    <title lang="en">Levante UD vs. Athletic Club</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/5a54a4b329385b8b72e158c90cffbcde-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14121">
-    <display-name>Paris FC vs. AJ Auxerre</display-name>
-  </channel>
-  <programme start="20251129180000 +0000" stop="20251129203000 +0000" channel="ppv-14121">
-    <title lang="en">Paris FC vs. AJ Auxerre</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/5dea2507af3cb3dfac2f76281c516c8a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14113">
     <display-name>Milan vs. Lazio</display-name>
   </channel>
@@ -180,6 +135,15 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/68e89148f5383518af4d8f8dc769c5c4-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14122">
+    <display-name>OM vs. Toulouse FC</display-name>
+  </channel>
+  <programme start="20251129200500 +0000" stop="20251129223500 +0000" channel="ppv-14122">
+    <title lang="en">OM vs. Toulouse FC</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/4700fa6357f71b2df4d1699091118e91-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14338">
     <display-name>Tampa Bay Lightning vs. New York Rangers</display-name>
   </channel>
@@ -198,14 +162,14 @@
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/7cb336efb6e0dfe19672f1c1a3c2f51e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14019">
-    <display-name>Qatar Grand Prix - Qualifying</display-name>
+  <channel id="ppv-14340">
+    <display-name>Edmonton Oilers vs. Seattle Kraken</display-name>
   </channel>
-  <programme start="20251129180000 +0000" stop="20251129200000 +0000" channel="ppv-14019">
-    <title lang="en">Qatar Grand Prix - Qualifying</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg" />
+  <programme start="20251129210000 +0000" stop="20251130000000 +0000" channel="ppv-14340">
+    <title lang="en">Edmonton Oilers vs. Seattle Kraken</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/69b70cecf1e88b5138dc541e140dcc11-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14020">
     <display-name>Qatar Grand Prix - Race</display-name>
@@ -229,10 +193,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌​​​​​​‌​‌ Guy</display-name>
+    <display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​‌​‌​​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​‌​​​​​​‌​‌ Guy</title>
+    <title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​‌​‌​​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
