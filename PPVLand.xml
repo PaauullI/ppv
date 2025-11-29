@@ -171,6 +171,33 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/3c73618c3841367e757f9c0b6b9de9ae-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14291">
+    <display-name>Phoenix Suns vs. Oklahoma City Thunder (West Group A)</display-name>
+  </channel>
+  <programme start="20251129023000 +0000" stop="20251129051800 +0000" channel="ppv-14291">
+    <title lang="en">Phoenix Suns vs. Oklahoma City Thunder (West Group A)</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/4332ec189375aad1f2f07d68cc848856-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14292">
+    <display-name>San Antonio Spurs vs. Denver Nuggets (West Group C)</display-name>
+  </channel>
+  <programme start="20251129023000 +0000" stop="20251129051800 +0000" channel="ppv-14292">
+    <title lang="en">San Antonio Spurs vs. Denver Nuggets (West Group C)</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/77b51512098a633d72158be08097586f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14293">
+    <display-name>Sacramento Kings vs. Utah Jazz (West Group A)</display-name>
+  </channel>
+  <programme start="20251129023000 +0000" stop="20251129051800 +0000" channel="ppv-14293">
+    <title lang="en">Sacramento Kings vs. Utah Jazz (West Group A)</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/0c3d1a2dfdfe7262187694105fa05a51-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14326">
     <display-name>BYU Cougars vs. Dayton Flyers</display-name>
   </channel>
@@ -180,23 +207,14 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/53bb2bbd257a26897bad5c1cca4b8395-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14277">
-    <display-name>Toronto Maple Leafs vs. Washington Capitals</display-name>
+  <channel id="ppv-14295">
+    <display-name>Memphis Grizzlies vs. LA Clippers (West Group B)</display-name>
   </channel>
-  <programme start="20251128220000 +0000" stop="20251129010000 +0000" channel="ppv-14277">
-    <title lang="en">Toronto Maple Leafs vs. Washington Capitals</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/fd4fb01715acf07af621396161eb4eb3-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14278">
-    <display-name>Winnipeg Jets vs. Carolina Hurricanes</display-name>
-  </channel>
-  <programme start="20251128220000 +0000" stop="20251129010000 +0000" channel="ppv-14278">
-    <title lang="en">Winnipeg Jets vs. Carolina Hurricanes</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/519658ef5aeb63ee04db910f273e90af-thumbnail.jpg" />
+  <programme start="20251129030000 +0000" stop="20251129054800 +0000" channel="ppv-14295">
+    <title lang="en">Memphis Grizzlies vs. LA Clippers (West Group B)</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/0d8bdff7b1cb5b2343b6a5c392aac5d3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14279">
     <display-name>Pittsburgh Penguins vs. Columbus Blue Jackets</display-name>
@@ -243,6 +261,24 @@
     <category>Motorsports</category>
     <icon src="https://ppv.to/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14020">
+    <display-name>Qatar Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20251130160000 +0000" stop="20251130190000 +0000" channel="ppv-14020">
+    <title lang="en">Qatar Grand Prix - Race</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14025">
+    <display-name>WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <programme start="20251129010000 +0000" stop="20251129040000 +0000" channel="ppv-14025">
+    <title lang="en">WWE: Friday Night Smackdown</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14026">
     <display-name>AEW: Saturday Night Collision</display-name>
   </channel>
@@ -265,10 +301,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌‌​‌‌‌​​​‌​​‌​ Guy</display-name>
+    <display-name>24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌​​‌​​‌‌​​​‌​​​‌‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌‌​‌‌‌​​​‌​​‌​ Guy</title>
+    <title lang="en">24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌​​‌​​‌‌​​​‌​​​‌‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
