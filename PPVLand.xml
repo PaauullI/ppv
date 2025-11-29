@@ -108,42 +108,6 @@
     <category>Combat Sports</category>
     <icon src="https://ppv.to/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-12822">
-    <display-name>Goal Arena</display-name>
-  </channel>
-  <programme start="20251129143000 +0000" stop="20251129173000 +0000" channel="ppv-12822">
-    <title lang="en">Goal Arena</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-5193">
-    <display-name>Goal Rush</display-name>
-  </channel>
-  <programme start="20251129150000 +0000" stop="20251129173000 +0000" channel="ppv-5193">
-    <title lang="en">Goal Rush</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14028">
-    <display-name>Brentford vs. Burnley</display-name>
-  </channel>
-  <programme start="20251129150000 +0000" stop="20251129173000 +0000" channel="ppv-14028">
-    <title lang="en">Brentford vs. Burnley</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/d63a054b4be4b55891b2ef31fdf3a5e7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14298">
-    <display-name>FC Barcelona vs. Deportivo Alavés</display-name>
-  </channel>
-  <programme start="20251129151500 +0000" stop="20251129174500 +0000" channel="ppv-14298">
-    <title lang="en">FC Barcelona vs. Deportivo Alavés</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/07bb654b5028efcb4ca3117292ab1bff-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14120">
     <display-name>AS Monaco vs. PSG</display-name>
   </channel>
@@ -216,6 +180,15 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/68e89148f5383518af4d8f8dc769c5c4-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14338">
+    <display-name>Tampa Bay Lightning vs. New York Rangers</display-name>
+  </channel>
+  <programme start="20251129190000 +0000" stop="20251129220000 +0000" channel="ppv-14338">
+    <title lang="en">Tampa Bay Lightning vs. New York Rangers</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/56e31d29626a245f88719cdf03ceb1b9-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14019">
     <display-name>Qatar Grand Prix - Qualifying</display-name>
   </channel>
@@ -245,6 +218,15 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family​​‌‌​​‌‌​​​​‌​​​​‌‌‌‌​​‌‌​‌​​​‌​ Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family​​‌‌​​‌‌​​​​‌​​​​‌‌‌‌​​‌‌​‌​​​‌​ Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
