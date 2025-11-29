@@ -99,6 +99,141 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14297">
+    <display-name>RCD Mallorca vs. CA Osasuna</display-name>
+  </channel>
+  <programme start="20251129130000 +0000" stop="20251129153000 +0000" channel="ppv-14297">
+    <title lang="en">RCD Mallorca vs. CA Osasuna</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/78753432b4a43bdb78d99c6a00e322c9-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14110">
+    <display-name>Genoa vs. Hellas Verona</display-name>
+  </channel>
+  <programme start="20251129140000 +0000" stop="20251129163000 +0000" channel="ppv-14110">
+    <title lang="en">Genoa vs. Hellas Verona</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/6519e5dc8efdff99e03b0e10f6b1a9ef-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14111">
+    <display-name>Parma vs. Udinese</display-name>
+  </channel>
+  <programme start="20251129140000 +0000" stop="20251129163000 +0000" channel="ppv-14111">
+    <title lang="en">Parma vs. Udinese</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/1d485895fae1410dc708a9e85102af16-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-12822">
+    <display-name>Goal Arena</display-name>
+  </channel>
+  <programme start="20251129143000 +0000" stop="20251129173000 +0000" channel="ppv-12822">
+    <title lang="en">Goal Arena</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14047">
+    <display-name>Union Berlin vs. Heidenheim</display-name>
+  </channel>
+  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14047">
+    <title lang="en">Union Berlin vs. Heidenheim</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/7b5c99b786bcec44b30949d5cae0ba5e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14048">
+    <display-name>Bayern vs. St. Pauli</display-name>
+  </channel>
+  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14048">
+    <title lang="en">Bayern vs. St. Pauli</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/3bf1111d678c97e060e2fbb460a0fd97-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14049">
+    <display-name>Hoffenheim vs. Augsburg</display-name>
+  </channel>
+  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14049">
+    <title lang="en">Hoffenheim vs. Augsburg</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/cce26bd25d0c7b5f6da8af14f48668c8-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14050">
+    <display-name>Bremen vs. Cologne</display-name>
+  </channel>
+  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14050">
+    <title lang="en">Bremen vs. Cologne</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/8ae402b888869c02484ffe824d2f75bb-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14028">
+    <display-name>Brentford vs. Burnley</display-name>
+  </channel>
+  <programme start="20251129150000 +0000" stop="20251129173000 +0000" channel="ppv-14028">
+    <title lang="en">Brentford vs. Burnley</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/d63a054b4be4b55891b2ef31fdf3a5e7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14298">
+    <display-name>FC Barcelona vs. Deportivo Alavés</display-name>
+  </channel>
+  <programme start="20251129151500 +0000" stop="20251129174500 +0000" channel="ppv-14298">
+    <title lang="en">FC Barcelona vs. Deportivo Alavés</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/07bb654b5028efcb4ca3117292ab1bff-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14031">
+    <display-name>Everton vs. Newcastle United</display-name>
+  </channel>
+  <programme start="20251129173000 +0000" stop="20251129200000 +0000" channel="ppv-14031">
+    <title lang="en">Everton vs. Newcastle United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14051">
+    <display-name>Leverkusen vs. Dortmund</display-name>
+  </channel>
+  <programme start="20251129173000 +0000" stop="20251129200000 +0000" channel="ppv-14051">
+    <title lang="en">Leverkusen vs. Dortmund</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/812137bd71af9b691c616f5ec3077fb7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14299">
+    <display-name>Levante UD vs. Athletic Club</display-name>
+  </channel>
+  <programme start="20251129173000 +0000" stop="20251129200000 +0000" channel="ppv-14299">
+    <title lang="en">Levante UD vs. Athletic Club</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/5a54a4b329385b8b72e158c90cffbcde-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14035">
+    <display-name>Tottenham Hotspur vs. Fulham</display-name>
+  </channel>
+  <programme start="20251129200000 +0000" stop="20251129223000 +0000" channel="ppv-14035">
+    <title lang="en">Tottenham Hotspur vs. Fulham</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/e975867a8109f72dfc522c2e9cdce86c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14300">
+    <display-name>Atlético de Madrid vs. Real Oviedo</display-name>
+  </channel>
+  <programme start="20251129200000 +0000" stop="20251129223000 +0000" channel="ppv-14300">
+    <title lang="en">Atlético de Madrid vs. Real Oviedo</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/68e89148f5383518af4d8f8dc769c5c4-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14018">
     <display-name>Qatar Grand Prix - Sprint</display-name>
   </channel>
@@ -139,10 +274,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​​​​‌​​‌‌​‌​​​​‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​​​​‌​​‌‌​‌​​​​‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
