@@ -180,6 +180,24 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/d63a054b4be4b55891b2ef31fdf3a5e7-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14032">
+    <display-name>Manchester City vs. Leeds United</display-name>
+  </channel>
+  <programme start="20251129150000 +0000" stop="20251129173000 +0000" channel="ppv-14032">
+    <title lang="en">Manchester City vs. Leeds United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/d78b4345ac6732cc81b1e4e87f97ddf7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14034">
+    <display-name>Sunderland vs. Bournemouth</display-name>
+  </channel>
+  <programme start="20251129150000 +0000" stop="20251129173000 +0000" channel="ppv-14034">
+    <title lang="en">Sunderland vs. Bournemouth</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/a75c05a8d1919d876c0f9e72f5310c35-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14298">
     <display-name>FC Barcelona vs. Deportivo Alavés</display-name>
   </channel>
@@ -274,10 +292,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​​​​‌​​‌‌​‌​​​​‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​​‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​​​​‌​​‌‌​‌​​​​‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​​‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
