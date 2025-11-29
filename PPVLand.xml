@@ -99,33 +99,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14297">
-    <display-name>RCD Mallorca vs. CA Osasuna</display-name>
-  </channel>
-  <programme start="20251129130000 +0000" stop="20251129153000 +0000" channel="ppv-14297">
-    <title lang="en">RCD Mallorca vs. CA Osasuna</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/78753432b4a43bdb78d99c6a00e322c9-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14110">
-    <display-name>Genoa vs. Hellas Verona</display-name>
-  </channel>
-  <programme start="20251129140000 +0000" stop="20251129163000 +0000" channel="ppv-14110">
-    <title lang="en">Genoa vs. Hellas Verona</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/6519e5dc8efdff99e03b0e10f6b1a9ef-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14111">
-    <display-name>Parma vs. Udinese</display-name>
-  </channel>
-  <programme start="20251129140000 +0000" stop="20251129163000 +0000" channel="ppv-14111">
-    <title lang="en">Parma vs. Udinese</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/1d485895fae1410dc708a9e85102af16-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-12822">
     <display-name>Goal Arena</display-name>
   </channel>
@@ -134,6 +107,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14049">
+    <display-name>Hoffenheim vs. Augsburg</display-name>
+  </channel>
+  <programme start="20251129143000 +0000" stop="20251129170000 +0000" channel="ppv-14049">
+    <title lang="en">Hoffenheim vs. Augsburg</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/cce26bd25d0c7b5f6da8af14f48668c8-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14050">
     <display-name>Bremen vs. Cologne</display-name>
@@ -189,6 +171,24 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/07bb654b5028efcb4ca3117292ab1bff-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14120">
+    <display-name>AS Monaco vs. PSG</display-name>
+  </channel>
+  <programme start="20251129160000 +0000" stop="20251129183000 +0000" channel="ppv-14120">
+    <title lang="en">AS Monaco vs. PSG</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/e162f021800b1888fd57b239b8e49eb5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14112">
+    <display-name>Juventus vs. Cagliari</display-name>
+  </channel>
+  <programme start="20251129170000 +0000" stop="20251129193000 +0000" channel="ppv-14112">
+    <title lang="en">Juventus vs. Cagliari</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/e1b4c81c443ec470f685fe6e743c1a0f-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14031">
     <display-name>Everton vs. Newcastle United</display-name>
   </channel>
@@ -234,15 +234,6 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/68e89148f5383518af4d8f8dc769c5c4-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14018">
-    <display-name>Qatar Grand Prix - Sprint</display-name>
-  </channel>
-  <programme start="20251129140000 +0000" stop="20251129160000 +0000" channel="ppv-14018">
-    <title lang="en">Qatar Grand Prix - Sprint</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14019">
     <display-name>Qatar Grand Prix - Qualifying</display-name>
   </channel>
@@ -274,10 +265,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​​​‌​​​‌​​​​‌‌ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​​​‌‌​‌​‌‌​​‌‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​​​‌​​​‌​​​​‌‌ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌‌​​​​‌‌​‌​‌‌​​‌‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
