@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14244">
-    <display-name>Arizona Wildcats vs. Arizona State Sun Devils</display-name>
-  </channel>
-  <programme start="20251129020000 +0000" stop="20251129053000 +0000" channel="ppv-14244">
-    <title lang="en">Arizona Wildcats vs. Arizona State Sun Devils</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://ppv.to/assets/thumb/181aafc9d212c9e8d537c4f978695437-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14245">
     <display-name>Ohio State Buckeyes vs. Michigan Wolverines</display-name>
   </channel>
@@ -108,33 +99,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14326">
-    <display-name>BYU Cougars vs. Dayton Flyers</display-name>
-  </channel>
-  <programme start="20251129023000 +0000" stop="20251129060000 +0000" channel="ppv-14326">
-    <title lang="en">BYU Cougars vs. Dayton Flyers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/53bb2bbd257a26897bad5c1cca4b8395-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14294">
-    <display-name>Dallas Mavericks vs. Los Angeles Lakers (West Group B)</display-name>
-  </channel>
-  <programme start="20251129030000 +0000" stop="20251129054800 +0000" channel="ppv-14294">
-    <title lang="en">Dallas Mavericks vs. Los Angeles Lakers (West Group B)</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/6e4c4c718f5b51c2f2cd30e0735b0076-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14295">
-    <display-name>Memphis Grizzlies vs. LA Clippers (West Group B)</display-name>
-  </channel>
-  <programme start="20251129030000 +0000" stop="20251129054800 +0000" channel="ppv-14295">
-    <title lang="en">Memphis Grizzlies vs. LA Clippers (West Group B)</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/0d8bdff7b1cb5b2343b6a5c392aac5d3-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14335">
     <display-name>Dallas Mavericks vs. LA Clippers</display-name>
   </channel>
@@ -193,10 +157,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌‌​​‌​​​‌‌ Guy</display-name>
+    <display-name>24/7 Family​​​‌​‌​​​‌​‌​​​‌‌​​‌‌‌‌​‌​​‌​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌‌​​‌​​​‌‌ Guy</title>
+    <title lang="en">24/7 Family​​​‌​‌​​​‌​‌​​​‌‌​​‌‌‌‌​‌​​‌​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
