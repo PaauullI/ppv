@@ -126,15 +126,6 @@
     <category>Motorsports</category>
     <icon src="https://ppv.to/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14026">
-    <display-name>AEW: Saturday Night Collision</display-name>
-  </channel>
-  <programme start="20251130010000 +0000" stop="20251130040000 +0000" channel="ppv-14026">
-    <title lang="en">AEW: Saturday Night Collision</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
@@ -148,10 +139,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​‌​​‌‌‌​‌​​​​​​‌‌ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​‌​​‌‌‌​‌​​​​​​‌‌ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
