@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14252">
-    <display-name>Virginia Tech Hokies vs. Virginia Cavaliers</display-name>
-  </channel>
-  <programme start="20251130000000 +0000" stop="20251130033000 +0000" channel="ppv-14252">
-    <title lang="en">Virginia Tech Hokies vs. Virginia Cavaliers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://ppv.to/assets/thumb/2ba287a2a58ce000b3782f1acc6fca8c-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14253">
     <display-name>Alabama Crimson Tide vs. Auburn Tigers</display-name>
   </channel>
@@ -35,15 +26,6 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14330">
-    <display-name>Chicago Bulls vs. Indiana Pacers</display-name>
-  </channel>
-  <programme start="20251130003000 +0000" stop="20251130031800 +0000" channel="ppv-14330">
-    <title lang="en">Chicago Bulls vs. Indiana Pacers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/faf79841ad738af38ebecf4fd5fa365d-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14331">
     <display-name>Detroit Pistons vs. Miami Heat</display-name>
@@ -89,42 +71,6 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/496f01aa8e846417fe0caae58bb418dc-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14341">
-    <display-name>Detroit Red Wings vs. Boston Bruins</display-name>
-  </channel>
-  <programme start="20251130000000 +0000" stop="20251130030000 +0000" channel="ppv-14341">
-    <title lang="en">Detroit Red Wings vs. Boston Bruins</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/cb22e8da7764f77a7d1fea331b9fe336-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14342">
-    <display-name>Philadelphia Flyers vs. New Jersey Devils</display-name>
-  </channel>
-  <programme start="20251130000000 +0000" stop="20251130030000 +0000" channel="ppv-14342">
-    <title lang="en">Philadelphia Flyers vs. New Jersey Devils</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/c596950a835ab804eee314ca1b8c64e9-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14343">
-    <display-name>Toronto Maple Leafs vs. Pittsburgh Penguins</display-name>
-  </channel>
-  <programme start="20251130000000 +0000" stop="20251130030000 +0000" channel="ppv-14343">
-    <title lang="en">Toronto Maple Leafs vs. Pittsburgh Penguins</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/76ec39eb51618a8a7a4aedf55b718df3-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14344">
-    <display-name>Winnipeg Jets vs. Nashville Predators</display-name>
-  </channel>
-  <programme start="20251130000000 +0000" stop="20251130030000 +0000" channel="ppv-14344">
-    <title lang="en">Winnipeg Jets vs. Nashville Predators</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/13e0930de9815236766091e116209464-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14345">
     <display-name>Utah Mammoth vs. St. Louis Blues</display-name>
@@ -202,10 +148,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​‌​​‌​​​‌​ Guy</display-name>
+    <display-name>24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌​​​‌‌‌​​​​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​‌​​‌​​​‌​ Guy</title>
+    <title lang="en">24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌​​​‌‌‌​​​​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
