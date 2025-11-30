@@ -90,15 +90,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/c5415e2258c8dbdf9552e469c768b1cd-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14177">
-    <display-name>Las Vegas Raiders vs. Los Angeles Chargers</display-name>
-  </channel>
-  <programme start="20251130212500 +0000" stop="20251201005500 +0000" channel="ppv-14177">
-    <title lang="en">Las Vegas Raiders vs. Los Angeles Chargers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://ppv.to/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14349">
     <display-name>Houston Rockets vs. Utah Jazz</display-name>
   </channel>
@@ -107,15 +98,6 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14054">
-    <display-name>Freiburg vs. Mainz</display-name>
-  </channel>
-  <programme start="20251130183000 +0000" stop="20251130210000 +0000" channel="ppv-14054">
-    <title lang="en">Freiburg vs. Mainz</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/0fb3be3aa77a99874386128dbe28a5fb-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14117">
     <display-name>Roma vs. Napoli</display-name>
@@ -144,15 +126,6 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14359">
-    <display-name>Washington Capitals vs. New York Islanders</display-name>
-  </channel>
-  <programme start="20251130180000 +0000" stop="20251130210000 +0000" channel="ppv-14359">
-    <title lang="en">Washington Capitals vs. New York Islanders</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/bb0832e6b2b9263140cae69d45b773f6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14360">
     <display-name>Anaheim Ducks vs. Chicago Blackhawks</display-name>
   </channel>
@@ -175,10 +148,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌​‌​​​​​‌​‌​​‌​​​‌‌‌​​​‌ Guy</display-name>
+    <display-name>24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​‌​‌‌‌‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​​​​‌​‌​​‌​​​‌‌‌​​​‌ Guy</title>
+    <title lang="en">24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​‌​‌‌‌‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
