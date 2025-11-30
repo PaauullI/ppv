@@ -117,6 +117,15 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/c75254cae3208fe57c05dc2de6cfd545-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14115">
+    <display-name>Pisa vs. Inter</display-name>
+  </channel>
+  <programme start="20251130140000 +0000" stop="20251130163000 +0000" channel="ppv-14115">
+    <title lang="en">Pisa vs. Inter</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/a2e1d62326acd5e9cd2f079b6cac81f5-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14027">
     <display-name>Aston Villa vs. Wolverhampton Wanderers</display-name>
   </channel>
@@ -125,6 +134,24 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/ced9dd919a05884303c449a4a0c48f7d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14033">
+    <display-name>Nottingham Forest vs. Brighton and Hove Albion</display-name>
+  </channel>
+  <programme start="20251130140500 +0000" stop="20251130163500 +0000" channel="ppv-14033">
+    <title lang="en">Nottingham Forest vs. Brighton and Hove Albion</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/1259e063f2a4e6c1a14d80b447c94633-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14036">
+    <display-name>West Ham United vs. Liverpool</display-name>
+  </channel>
+  <programme start="20251130140500 +0000" stop="20251130163500 +0000" channel="ppv-14036">
+    <title lang="en">West Ham United vs. Liverpool</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/f226466f23a2793376df162439d1f1d3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14052">
     <display-name>Hamburg vs. Stuttgart</display-name>
@@ -211,10 +238,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌‌​​‌​​‌‌​​‌ Guy</display-name>
+    <display-name>24/7 Family‌​​​​​​​​​​‌‌​​​‌​‌​​​​​‌‌‌‌​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌‌‌​​‌​​‌‌​​‌ Guy</title>
+    <title lang="en">24/7 Family‌​​​​​​​​​​‌‌​​​‌​‌​​​​​‌‌‌‌​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
