@@ -99,33 +99,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14335">
-    <display-name>Dallas Mavericks vs. LA Clippers</display-name>
-  </channel>
-  <programme start="20251130030000 +0000" stop="20251130054800 +0000" channel="ppv-14335">
-    <title lang="en">Dallas Mavericks vs. LA Clippers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/496f01aa8e846417fe0caae58bb418dc-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14347">
-    <display-name>San Jose Sharks vs. Vegas Golden Knights</display-name>
-  </channel>
-  <programme start="20251130030000 +0000" stop="20251130060000 +0000" channel="ppv-14347">
-    <title lang="en">San Jose Sharks vs. Vegas Golden Knights</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/ffda1990f8aeeb0db7ede8468d3c14b5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14348">
-    <display-name>Vancouver Canucks vs. Los Angeles Kings</display-name>
-  </channel>
-  <programme start="20251130030000 +0000" stop="20251130060000 +0000" channel="ppv-14348">
-    <title lang="en">Vancouver Canucks vs. Los Angeles Kings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/01f7c2d0825bda3585872cdae9576346-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14020">
     <display-name>Qatar Grand Prix - Race</display-name>
   </channel>
@@ -148,10 +121,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌​‌‌‌‌​​​​‌ Guy</display-name>
+    <display-name>24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​​​‌‌‌​​​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌​‌‌‌‌​​​​‌ Guy</title>
+    <title lang="en">24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​​​‌‌‌​​​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
