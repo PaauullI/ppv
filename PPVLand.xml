@@ -36,15 +36,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14349">
-    <display-name>Houston Rockets vs. Utah Jazz</display-name>
-  </channel>
-  <programme start="20251130200000 +0000" stop="20251130224800 +0000" channel="ppv-14349">
-    <title lang="en">Houston Rockets vs. Utah Jazz</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14350">
     <display-name>Boston Celtics vs. Cleveland Cavaliers</display-name>
   </channel>
@@ -81,14 +72,14 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/a49e229e429e858265d0e08947cdc77e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14304">
-    <display-name>Girona FC vs. Real Madrid</display-name>
+  <channel id="ppv-14355">
+    <display-name>San Antonio Spurs vs. Minnesota Timberwolves</display-name>
   </channel>
-  <programme start="20251130200000 +0000" stop="20251130223000 +0000" channel="ppv-14304">
-    <title lang="en">Girona FC vs. Real Madrid</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/07b6052b9c0e7c323c46cad950fd27bd-thumbnail.jpg" />
+  <programme start="20251201000000 +0000" stop="20251201024800 +0000" channel="ppv-14355">
+    <title lang="en">San Antonio Spurs vs. Minnesota Timberwolves</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/a1327457e6a92ac15be948dc78ebe22f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14360">
     <display-name>Anaheim Ducks vs. Chicago Blackhawks</display-name>
@@ -108,6 +99,15 @@
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/8baaf6b4fee7bfc735c8fb789183a422-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14362">
+    <display-name>Ottawa Senators vs. Dallas Stars</display-name>
+  </channel>
+  <programme start="20251130230000 +0000" stop="20251201020000 +0000" channel="ppv-14362">
+    <title lang="en">Ottawa Senators vs. Dallas Stars</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/3090fb20e9011924f2d652b83442e603-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
@@ -121,10 +121,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​​‌​‌​​​‌‌​‌‌​‌‌‌​‌​‌​​​​ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​‌‌​​​​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​​‌​‌​​​‌‌​‌‌​‌‌‌​‌​‌​​​​ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​‌‌​​​​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
