@@ -90,51 +90,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14115">
-    <display-name>Pisa vs. Inter</display-name>
-  </channel>
-  <programme start="20251130140000 +0000" stop="20251130163000 +0000" channel="ppv-14115">
-    <title lang="en">Pisa vs. Inter</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/a2e1d62326acd5e9cd2f079b6cac81f5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14123">
-    <display-name>Strasbourg vs. Brest</display-name>
-  </channel>
-  <programme start="20251130140000 +0000" stop="20251130163000 +0000" channel="ppv-14123">
-    <title lang="en">Strasbourg vs. Brest</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/fcf27aaf5b0a265b7d030e6e0d43961a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14027">
-    <display-name>Aston Villa vs. Wolverhampton Wanderers</display-name>
-  </channel>
-  <programme start="20251130140500 +0000" stop="20251130163500 +0000" channel="ppv-14027">
-    <title lang="en">Aston Villa vs. Wolverhampton Wanderers</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/ced9dd919a05884303c449a4a0c48f7d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14052">
-    <display-name>Hamburg vs. Stuttgart</display-name>
-  </channel>
-  <programme start="20251130143000 +0000" stop="20251130170000 +0000" channel="ppv-14052">
-    <title lang="en">Hamburg vs. Stuttgart</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/9f9be14dff938458eb6efd9f37db772e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14302">
-    <display-name>Sevilla FC vs. Real Betis</display-name>
-  </channel>
-  <programme start="20251130151500 +0000" stop="20251130174500 +0000" channel="ppv-14302">
-    <title lang="en">Sevilla FC vs. Real Betis</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/48a64babc93e1177993d060becb7cc47-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14124">
     <display-name>Angers SCO vs. RC Lens</display-name>
   </channel>
@@ -238,10 +193,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌​‌​​‌​‌‌‌‌‌‌​‌‌‌‌‌‌​​‌‌ Guy</display-name>
+    <display-name>24/7 Family​​‌​‌​​​​‌​​​​​‌​​‌‌‌‌​‌‌​​‌​​​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​‌​‌‌‌‌‌‌​‌‌‌‌‌‌​​‌‌ Guy</title>
+    <title lang="en">24/7 Family​​‌​‌​​​​‌​​​​​‌​​‌‌‌‌​‌‌​​‌​​​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
