@@ -90,6 +90,15 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14114">
+    <display-name>Lecce vs. Torino</display-name>
+  </channel>
+  <programme start="20251130113000 +0000" stop="20251130140000 +0000" channel="ppv-14114">
+    <title lang="en">Lecce vs. Torino</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/97a13a87877cfce033e848fc823e758f-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14030">
     <display-name>Crystal Palace vs. Manchester United</display-name>
   </channel>
@@ -200,6 +209,15 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​​‌​ Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​​‌​ Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
