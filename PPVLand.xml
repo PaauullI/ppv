@@ -108,24 +108,6 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14116">
-    <display-name>Atalanta vs. Fiorentina</display-name>
-  </channel>
-  <programme start="20251130170000 +0000" stop="20251130193000 +0000" channel="ppv-14116">
-    <title lang="en">Atalanta vs. Fiorentina</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/754bcd30717fad739088122c171af917-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14303">
-    <display-name>Celta vs. RCD Espanyol de Barcelona</display-name>
-  </channel>
-  <programme start="20251130173000 +0000" stop="20251130200000 +0000" channel="ppv-14303">
-    <title lang="en">Celta vs. RCD Espanyol de Barcelona</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/c0ca68f189daccb8074e9a2aa9ce6d36-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14054">
     <display-name>Freiburg vs. Mainz</display-name>
   </channel>
@@ -143,6 +125,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/5c67947a03fbfaac9b424f5b115b20d3-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14127">
+    <display-name>OL vs. FC Nantes</display-name>
+  </channel>
+  <programme start="20251130194500 +0000" stop="20251130221500 +0000" channel="ppv-14127">
+    <title lang="en">OL vs. FC Nantes</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/1df2cc5e91d86f622c1df186d25f804e-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14304">
     <display-name>Girona FC vs. Real Madrid</display-name>
@@ -162,6 +153,15 @@
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/bb0832e6b2b9263140cae69d45b773f6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14360">
+    <display-name>Anaheim Ducks vs. Chicago Blackhawks</display-name>
+  </channel>
+  <programme start="20251130203000 +0000" stop="20251130233000 +0000" channel="ppv-14360">
+    <title lang="en">Anaheim Ducks vs. Chicago Blackhawks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/aab8d6bb0a3c967dcc01e2d98b370b4d-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
@@ -173,6 +173,15 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family​​‌‌​‌​​‌​‌​​​​​‌​‌​​‌​​​‌‌‌​​​‌ Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family​​‌‌​‌​​‌​‌​​​​​‌​‌​​‌​​​‌‌‌​​​‌ Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
