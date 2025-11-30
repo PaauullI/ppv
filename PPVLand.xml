@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-11090">
+    <display-name>NFL RedZone</display-name>
+  </channel>
+  <programme start="20251130180000 +0000" stop="20251201010000 +0000" channel="ppv-11090">
+    <title lang="en">NFL RedZone</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14168">
+    <display-name>San Francisco 49ers vs. Cleveland Browns</display-name>
+  </channel>
+  <programme start="20251130180000 +0000" stop="20251130213000 +0000" channel="ppv-14168">
+    <title lang="en">San Francisco 49ers vs. Cleveland Browns</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/f298e56333ec62add67554ea34214c8b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14169">
+    <display-name>Jacksonville Jaguars vs. Tennessee Titans</display-name>
+  </channel>
+  <programme start="20251130180000 +0000" stop="20251130213000 +0000" channel="ppv-14169">
+    <title lang="en">Jacksonville Jaguars vs. Tennessee Titans</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/19d4e7bc03aa58e24ae7004dde416ff4-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14170">
+    <display-name>Houston Texans vs. Indianapolis Colts</display-name>
+  </channel>
+  <programme start="20251130180000 +0000" stop="20251130213000 +0000" channel="ppv-14170">
+    <title lang="en">Houston Texans vs. Indianapolis Colts</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://ppv.to/assets/thumb/f0503e2165032c46b9db453cdddbb7e8-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14171">
     <display-name>New Orleans Saints vs. Miami Dolphins</display-name>
   </channel>
@@ -63,50 +99,14 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/2b762796825206742229bd6f2daabe6e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14124">
-    <display-name>Angers SCO vs. RC Lens</display-name>
+  <channel id="ppv-14349">
+    <display-name>Houston Rockets vs. Utah Jazz</display-name>
   </channel>
-  <programme start="20251130161500 +0000" stop="20251130184500 +0000" channel="ppv-14124">
-    <title lang="en">Angers SCO vs. RC Lens</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/b0bf567b230eb2d22b6d9c5385a7139c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14125">
-    <display-name>Havre AC vs. LOSC</display-name>
-  </channel>
-  <programme start="20251130161500 +0000" stop="20251130184500 +0000" channel="ppv-14125">
-    <title lang="en">Havre AC vs. LOSC</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/912501e9c6daa42e95e5000864f2a29e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14126">
-    <display-name>FC Lorient vs. OGC Nice</display-name>
-  </channel>
-  <programme start="20251130161500 +0000" stop="20251130184500 +0000" channel="ppv-14126">
-    <title lang="en">FC Lorient vs. OGC Nice</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/eccaec2ce0531f5d98be254f4304888d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14029">
-    <display-name>Chelsea vs. Arsenal</display-name>
-  </channel>
-  <programme start="20251130163000 +0000" stop="20251130190000 +0000" channel="ppv-14029">
-    <title lang="en">Chelsea vs. Arsenal</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/d706e1e97f8d2fe4dca33452797ee724-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14053">
-    <display-name>Frankfurt vs. Wolfsburg</display-name>
-  </channel>
-  <programme start="20251130163000 +0000" stop="20251130190000 +0000" channel="ppv-14053">
-    <title lang="en">Frankfurt vs. Wolfsburg</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/eec7b16d38cbf032206df4641fe12555-thumbnail.jpg" />
+  <programme start="20251130200000 +0000" stop="20251130224800 +0000" channel="ppv-14349">
+    <title lang="en">Houston Rockets vs. Utah Jazz</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14116">
     <display-name>Atalanta vs. Fiorentina</display-name>
@@ -135,6 +135,15 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/0fb3be3aa77a99874386128dbe28a5fb-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14117">
+    <display-name>Roma vs. Napoli</display-name>
+  </channel>
+  <programme start="20251130194500 +0000" stop="20251130221500 +0000" channel="ppv-14117">
+    <title lang="en">Roma vs. Napoli</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/5c67947a03fbfaac9b424f5b115b20d3-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14304">
     <display-name>Girona FC vs. Real Madrid</display-name>
   </channel>
@@ -153,15 +162,6 @@
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/bb0832e6b2b9263140cae69d45b773f6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14020">
-    <display-name>Qatar Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20251130160000 +0000" stop="20251130190000 +0000" channel="ppv-14020">
-    <title lang="en">Qatar Grand Prix - Race</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/25fcfc6e44ab81e3872f319f0bad17d5-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
@@ -173,15 +173,6 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​​‌​​​​​​​‌​ Guy</display-name>
-  </channel>
-  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​​‌​​​​​​​‌​ Guy</title>
-    <sub-title>24/7 Streams</sub-title>
-    <category>24/7 Streams</category>
-    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
