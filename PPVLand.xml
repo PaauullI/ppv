@@ -36,15 +36,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14327">
-    <display-name>Boston Celtics vs. Minnesota Timberwolves</display-name>
-  </channel>
-  <programme start="20251129220000 +0000" stop="20251130004800 +0000" channel="ppv-14327">
-    <title lang="en">Boston Celtics vs. Minnesota Timberwolves</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/077e57a9e85fb8e7bdf2eebb6ab8beea-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14328">
     <display-name>Toronto Raptors vs. Charlotte Hornets</display-name>
   </channel>
@@ -98,6 +89,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/e98f65e52b00a890f61f39a760c8006c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14335">
+    <display-name>Dallas Mavericks vs. LA Clippers</display-name>
+  </channel>
+  <programme start="20251130030000 +0000" stop="20251130054800 +0000" channel="ppv-14335">
+    <title lang="en">Dallas Mavericks vs. LA Clippers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/496f01aa8e846417fe0caae58bb418dc-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14341">
     <display-name>Detroit Red Wings vs. Boston Bruins</display-name>
@@ -193,10 +193,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​​‌‌​‌‌​​​​ Guy</display-name>
+    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​​‌‌​‌‌​​​​ Guy</title>
+    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
