@@ -36,15 +36,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14328">
-    <display-name>Toronto Raptors vs. Charlotte Hornets</display-name>
-  </channel>
-  <programme start="20251129230000 +0000" stop="20251130014800 +0000" channel="ppv-14328">
-    <title lang="en">Toronto Raptors vs. Charlotte Hornets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/8b34e999f9ab4e78773dd558f833687a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14330">
     <display-name>Chicago Bulls vs. Indiana Pacers</display-name>
   </channel>
@@ -153,6 +144,24 @@
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/d6c5414743400d48eb8b9911d1e2f4e5-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14347">
+    <display-name>San Jose Sharks vs. Vegas Golden Knights</display-name>
+  </channel>
+  <programme start="20251130030000 +0000" stop="20251130060000 +0000" channel="ppv-14347">
+    <title lang="en">San Jose Sharks vs. Vegas Golden Knights</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/ffda1990f8aeeb0db7ede8468d3c14b5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14348">
+    <display-name>Vancouver Canucks vs. Los Angeles Kings</display-name>
+  </channel>
+  <programme start="20251130030000 +0000" stop="20251130060000 +0000" channel="ppv-14348">
+    <title lang="en">Vancouver Canucks vs. Los Angeles Kings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/01f7c2d0825bda3585872cdae9576346-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14020">
     <display-name>Qatar Grand Prix - Race</display-name>
   </channel>
@@ -193,10 +202,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌​​‌​ Guy</display-name>
+    <display-name>24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​‌​​‌​​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌​​‌​ Guy</title>
+    <title lang="en">24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌​‌​​‌​​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
