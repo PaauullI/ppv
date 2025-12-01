@@ -9,6 +9,15 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/f617e815d7ce9cb63a72d0da5c1f6788-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14118">
+    <display-name>Bologna vs. Cremonese</display-name>
+  </channel>
+  <programme start="20251201194500 +0000" stop="20251201221500 +0000" channel="ppv-14118">
+    <title lang="en">Bologna vs. Cremonese</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/c3da8a232eb9f915c0e9ebfc30d92da3-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14305">
     <display-name>Rayo Vallecano vs. Valencia CF</display-name>
   </channel>
@@ -130,10 +139,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌​​​‌​‌‌​​​​​​​‌‌​ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​​​‌​‌​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌​​​‌​‌‌​​​​​​​‌‌​ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌‌​​​‌​‌​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
