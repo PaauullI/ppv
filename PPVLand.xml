@@ -81,15 +81,6 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/a1327457e6a92ac15be948dc78ebe22f-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14360">
-    <display-name>Anaheim Ducks vs. Chicago Blackhawks</display-name>
-  </channel>
-  <programme start="20251130203000 +0000" stop="20251130233000 +0000" channel="ppv-14360">
-    <title lang="en">Anaheim Ducks vs. Chicago Blackhawks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/aab8d6bb0a3c967dcc01e2d98b370b4d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14361">
     <display-name>Calgary Flames vs. Carolina Hurricanes</display-name>
   </channel>
@@ -121,10 +112,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​‌‌​​​​​​‌ Guy</display-name>
+    <display-name>24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​​‌​‌​‌​​​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​​‌‌​​​​​​‌ Guy</title>
+    <title lang="en">24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​​‌​‌​‌​​​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
