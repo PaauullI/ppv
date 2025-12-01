@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14394">
+    <display-name>Aston Villa vs. Arsenal</display-name>
+  </channel>
+  <programme start="20251206123000 +0000" stop="20251206150000 +0000" channel="ppv-14394">
+    <title lang="en">Aston Villa vs. Arsenal</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/5669eb4d695b129543260e546460c3d9-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14419">
+    <display-name>Hamburg vs. Bremen</display-name>
+  </channel>
+  <programme start="20251207143000 +0000" stop="20251207170000 +0000" channel="ppv-14419">
+    <title lang="en">Hamburg vs. Bremen</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/44829ee3ffe2fedce3c5a6c46f5ceaa1-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14372">
+    <display-name>Abu Dhabi Grand Prix - FP1</display-name>
+  </channel>
+  <programme start="20251205093000 +0000" stop="20251205113000 +0000" channel="ppv-14372">
+    <title lang="en">Abu Dhabi Grand Prix - FP1</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14373">
+    <display-name>Abu Dhabi Grand Prix - FP2</display-name>
+  </channel>
+  <programme start="20251205130000 +0000" stop="20251205150000 +0000" channel="ppv-14373">
+    <title lang="en">Abu Dhabi Grand Prix - FP2</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14374">
+    <display-name>Abu Dhabi Grand Prix - FP3</display-name>
+  </channel>
+  <programme start="20251206103000 +0000" stop="20251206123000 +0000" channel="ppv-14374">
+    <title lang="en">Abu Dhabi Grand Prix - FP3</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/e691fdcd52c74ad7a1f499ce87247c61-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14375">
+    <display-name>Abu Dhabi Grand Prix - Qualifying</display-name>
+  </channel>
+  <programme start="20251206140000 +0000" stop="20251206160000 +0000" channel="ppv-14375">
+    <title lang="en">Abu Dhabi Grand Prix - Qualifying</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/e53715e90a78c2d744d6ebad3cac4082-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14376">
+    <display-name>Abu Dhabi Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20251207130000 +0000" stop="20251207160000 +0000" channel="ppv-14376">
+    <title lang="en">Abu Dhabi Grand Prix - Race</title>
+    <sub-title>Motorsports</sub-title>
+    <category>Motorsports</category>
+    <icon src="https://ppv.to/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
@@ -13,10 +76,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​​​​‌‌​‌‌​​‌‌​​​‌‌​​‌‌‌​​​‌‌ Guy</display-name>
+    <display-name>24/7 Family​​​​​‌​​‌‌‌​​​‌‌‌​‌​‌‌‌​‌​‌‌​‌‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​​​​‌‌​‌‌​​‌‌​​​‌‌​​‌‌‌​​​‌‌ Guy</title>
+    <title lang="en">24/7 Family​​​​​‌​​‌‌‌​​​‌‌‌​‌​‌‌‌​‌​‌‌​‌‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
