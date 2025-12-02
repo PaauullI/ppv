@@ -1,29 +1,14 @@
 #EXTM3U url-tvg="PPVLand.xml"
-#EXTINF:-1 tvg-id="ppv-14179" tvg-name="New York Giants vs. New England Patriots" tvg-logo="https://ppv.to/assets/thumb/f617e815d7ce9cb63a72d0da5c1f6788-thumbnail.jpg" group-title="🏈 NFL",New York Giants vs. New England Patriots
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/newenglandpatriots/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14369" tvg-name="Dallas Mavericks vs. Denver Nuggets" tvg-logo="https://ppv.to/assets/thumb/18ef6b07b6b3413797e0c186c6b8e9e8-thumbnail.jpg" group-title="🏀 NBA",Dallas Mavericks vs. Denver Nuggets
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14370" tvg-name="Houston Rockets vs. Utah Jazz" tvg-logo="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" group-title="🏀 NBA",Houston Rockets vs. Utah Jazz
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_utahjazz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-14371" tvg-name="Phoenix Suns vs. Los Angeles Lakers" tvg-logo="https://ppv.to/assets/thumb/d4eab29ee32129c51ccd7dc025c98183-thumbnail.jpg" group-title="🏀 NBA",Phoenix Suns vs. Los Angeles Lakers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_losangeleslakers/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14443" tvg-name="Utah Mammoth vs. San Jose Sharks" tvg-logo="https://ppv.to/assets/thumb/08bc6329c8a7a39debe15f8f335e98f0-thumbnail.jpg" group-title="🏒 NHL",Utah Mammoth vs. San Jose Sharks
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/sanjosesharks/index.m3u8
+https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-14378" tvg-name="WWE: NXT" tvg-logo="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="🤼 WWE",WWE: NXT
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -58,8 +43,8 @@ https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌‌‌‌‌​‌​​‌‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​‌​​‌​​‌‌​‌​​‌‌‌​‌‌‌‌‌​‌​​‌‌ Guy
+https://gg.poocloud.in/cows/index.m3u8
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌​​‌‌​​​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌​​‌‌​​​‌ Guy
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -68,4 +53,4 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/thesimpsons/index.m3u8
+https://gg.poocloud.in/thesimpsons/tracks-v1a1/mono.ts.m3u8
