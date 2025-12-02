@@ -9,60 +9,6 @@
     <category>American Football</category>
     <icon src="https://ppv.to/assets/thumb/f617e815d7ce9cb63a72d0da5c1f6788-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14363">
-    <display-name>Atlanta Hawks vs. Detroit Pistons</display-name>
-  </channel>
-  <programme start="20251202000000 +0000" stop="20251202024800 +0000" channel="ppv-14363">
-    <title lang="en">Atlanta Hawks vs. Detroit Pistons</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/77f4b9491d064e643437a1311a715741-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14364">
-    <display-name>Cleveland Cavaliers vs. Indiana Pacers</display-name>
-  </channel>
-  <programme start="20251202000000 +0000" stop="20251202024800 +0000" channel="ppv-14364">
-    <title lang="en">Cleveland Cavaliers vs. Indiana Pacers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/438016dd01e1f16105a512fc270a2718-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14365">
-    <display-name>Milwaukee Bucks vs. Washington Wizards</display-name>
-  </channel>
-  <programme start="20251202000000 +0000" stop="20251202024800 +0000" channel="ppv-14365">
-    <title lang="en">Milwaukee Bucks vs. Washington Wizards</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/8fa6db478a86c431917eef1651c72579-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14366">
-    <display-name>Charlotte Hornets vs. Brooklyn Nets</display-name>
-  </channel>
-  <programme start="20251202003000 +0000" stop="20251202031800 +0000" channel="ppv-14366">
-    <title lang="en">Charlotte Hornets vs. Brooklyn Nets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/b2a898e84f62293c4f145a469d7c3901-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14367">
-    <display-name>LA Clippers vs. Miami Heat</display-name>
-  </channel>
-  <programme start="20251202003000 +0000" stop="20251202031800 +0000" channel="ppv-14367">
-    <title lang="en">LA Clippers vs. Miami Heat</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/d3dbfd36e36affe163f1badf9c86be24-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14368">
-    <display-name>Chicago Bulls vs. Orlando Magic</display-name>
-  </channel>
-  <programme start="20251202003000 +0000" stop="20251202031800 +0000" channel="ppv-14368">
-    <title lang="en">Chicago Bulls vs. Orlando Magic</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/6f5e61a0bae2f6ecebf9152f30618621-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14369">
     <display-name>Dallas Mavericks vs. Denver Nuggets</display-name>
   </channel>
@@ -90,33 +36,6 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/d4eab29ee32129c51ccd7dc025c98183-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14440">
-    <display-name>Columbus Blue Jackets vs. New Jersey Devils</display-name>
-  </channel>
-  <programme start="20251202000000 +0000" stop="20251202030000 +0000" channel="ppv-14440">
-    <title lang="en">Columbus Blue Jackets vs. New Jersey Devils</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/8b8cfda23cfa7bdbf61edae508f53d19-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14441">
-    <display-name>Pittsburgh Penguins vs. Philadelphia Flyers</display-name>
-  </channel>
-  <programme start="20251202000000 +0000" stop="20251202030000 +0000" channel="ppv-14441">
-    <title lang="en">Pittsburgh Penguins vs. Philadelphia Flyers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/0139ca0cfef580ba62833d2df91b7d50-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14442">
-    <display-name>Winnipeg Jets vs. Buffalo Sabres</display-name>
-  </channel>
-  <programme start="20251202003000 +0000" stop="20251202033000 +0000" channel="ppv-14442">
-    <title lang="en">Winnipeg Jets vs. Buffalo Sabres</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/809968bee2ff8e303f55da27e8b95e3d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14443">
     <display-name>Utah Mammoth vs. San Jose Sharks</display-name>
   </channel>
@@ -125,51 +44,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/08bc6329c8a7a39debe15f8f335e98f0-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14372">
-    <display-name>Abu Dhabi Grand Prix - FP1</display-name>
-  </channel>
-  <programme start="20251205093000 +0000" stop="20251205113000 +0000" channel="ppv-14372">
-    <title lang="en">Abu Dhabi Grand Prix - FP1</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14373">
-    <display-name>Abu Dhabi Grand Prix - FP2</display-name>
-  </channel>
-  <programme start="20251205130000 +0000" stop="20251205150000 +0000" channel="ppv-14373">
-    <title lang="en">Abu Dhabi Grand Prix - FP2</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14374">
-    <display-name>Abu Dhabi Grand Prix - FP3</display-name>
-  </channel>
-  <programme start="20251206103000 +0000" stop="20251206123000 +0000" channel="ppv-14374">
-    <title lang="en">Abu Dhabi Grand Prix - FP3</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/e691fdcd52c74ad7a1f499ce87247c61-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14375">
-    <display-name>Abu Dhabi Grand Prix - Qualifying</display-name>
-  </channel>
-  <programme start="20251206140000 +0000" stop="20251206160000 +0000" channel="ppv-14375">
-    <title lang="en">Abu Dhabi Grand Prix - Qualifying</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/e53715e90a78c2d744d6ebad3cac4082-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14376">
-    <display-name>Abu Dhabi Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20251207130000 +0000" stop="20251207160000 +0000" channel="ppv-14376">
-    <title lang="en">Abu Dhabi Grand Prix - Race</title>
-    <sub-title>Motorsports</sub-title>
-    <category>Motorsports</category>
-    <icon src="https://ppv.to/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14377">
     <display-name>WWE: Monday Night RAW</display-name>
@@ -238,10 +112,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌‌​​​ Guy</display-name>
+    <display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​​​​‌​​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​​‌‌​​‌‌‌‌​‌‌​​​ Guy</title>
+    <title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​​​​‌​​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
