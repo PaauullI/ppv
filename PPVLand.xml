@@ -63,6 +63,51 @@
     <category>Basketball</category>
     <icon src="https://ppv.to/assets/thumb/6f5e61a0bae2f6ecebf9152f30618621-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14369">
+    <display-name>Dallas Mavericks vs. Denver Nuggets</display-name>
+  </channel>
+  <programme start="20251202020000 +0000" stop="20251202044800 +0000" channel="ppv-14369">
+    <title lang="en">Dallas Mavericks vs. Denver Nuggets</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/18ef6b07b6b3413797e0c186c6b8e9e8-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14370">
+    <display-name>Houston Rockets vs. Utah Jazz</display-name>
+  </channel>
+  <programme start="20251202020000 +0000" stop="20251202044800 +0000" channel="ppv-14370">
+    <title lang="en">Houston Rockets vs. Utah Jazz</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14440">
+    <display-name>Columbus Blue Jackets vs. New Jersey Devils</display-name>
+  </channel>
+  <programme start="20251202000000 +0000" stop="20251202030000 +0000" channel="ppv-14440">
+    <title lang="en">Columbus Blue Jackets vs. New Jersey Devils</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/8b8cfda23cfa7bdbf61edae508f53d19-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14441">
+    <display-name>Pittsburgh Penguins vs. Philadelphia Flyers</display-name>
+  </channel>
+  <programme start="20251202000000 +0000" stop="20251202030000 +0000" channel="ppv-14441">
+    <title lang="en">Pittsburgh Penguins vs. Philadelphia Flyers</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/0139ca0cfef580ba62833d2df91b7d50-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14442">
+    <display-name>Winnipeg Jets vs. Buffalo Sabres</display-name>
+  </channel>
+  <programme start="20251202003000 +0000" stop="20251202033000 +0000" channel="ppv-14442">
+    <title lang="en">Winnipeg Jets vs. Buffalo Sabres</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://ppv.to/assets/thumb/809968bee2ff8e303f55da27e8b95e3d-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14372">
     <display-name>Abu Dhabi Grand Prix - FP1</display-name>
   </channel>
@@ -175,10 +220,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌‌​​‌‌​‌‌‌​​‌​ Guy</display-name>
+    <display-name>24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​‌​‌​‌‌​‌‌‌​​‌​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌‌​​‌‌​‌‌‌​​‌​ Guy</title>
+    <title lang="en">24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​‌​‌​‌‌​‌‌‌​​‌​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
