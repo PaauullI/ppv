@@ -1,22 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14383">
-    <display-name>Bournemouth vs. Everton</display-name>
+  <channel id="ppv-14463">
+    <display-name>Iowa Hawkeyes vs. Michigan State Spartans</display-name>
   </channel>
-  <programme start="20251202193000 +0000" stop="20251202220000 +0000" channel="ppv-14383">
-    <title lang="en">Bournemouth vs. Everton</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/8fb939cddb931ba2a133faba9b5fa003-thumbnail.jpg" />
+  <programme start="20251203000000 +0000" stop="20251203033000 +0000" channel="ppv-14463">
+    <title lang="en">Iowa Hawkeyes vs. Michigan State Spartans</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/f9f3c5ad3564f9f102e05fd50ced88e5-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14387">
-    <display-name>Fulham vs. Manchester City</display-name>
+  <channel id="ppv-14464">
+    <display-name>Tennessee Volunteers vs. Syracuse Orange</display-name>
   </channel>
-  <programme start="20251202193000 +0000" stop="20251202220000 +0000" channel="ppv-14387">
-    <title lang="en">Fulham vs. Manchester City</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/adcd8f54219369d06c35e745f9459666-thumbnail.jpg" />
+  <programme start="20251203000000 +0000" stop="20251203033000 +0000" channel="ppv-14464">
+    <title lang="en">Tennessee Volunteers vs. Syracuse Orange</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/4ae0b3e5de1774dd17774c825fa7afb8-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14465">
+    <display-name>Florida Gators vs. Duke Blue Devils</display-name>
+  </channel>
+  <programme start="20251203003000 +0000" stop="20251203040000 +0000" channel="ppv-14465">
+    <title lang="en">Florida Gators vs. Duke Blue Devils</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/522f4e87cf2d992f63ffe56f858b7a34-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14466">
+    <display-name>Purdue Boilermakers vs. Rutgers Scarlet Knights</display-name>
+  </channel>
+  <programme start="20251203010000 +0000" stop="20251203043000 +0000" channel="ppv-14466">
+    <title lang="en">Purdue Boilermakers vs. Rutgers Scarlet Knights</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/ecf44bdffd8d6cc50a7915848a05800d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14467">
+    <display-name>UConn Huskies vs. Kansas Jayhawks</display-name>
+  </channel>
+  <programme start="20251203020000 +0000" stop="20251203053000 +0000" channel="ppv-14467">
+    <title lang="en">UConn Huskies vs. Kansas Jayhawks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/029a93336d35b668dc2eeadfaee4f66d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14468">
+    <display-name>North Carolina Tar Heels vs. Kentucky Wildcats</display-name>
+  </channel>
+  <programme start="20251203023000 +0000" stop="20251203060000 +0000" channel="ppv-14468">
+    <title lang="en">North Carolina Tar Heels vs. Kentucky Wildcats</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/e2da61675c668061b9495c2b6399618a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14469">
+    <display-name>USC Trojans vs. Oregon Ducks</display-name>
+  </channel>
+  <programme start="20251203030000 +0000" stop="20251203063000 +0000" channel="ppv-14469">
+    <title lang="en">USC Trojans vs. Oregon Ducks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://ppv.to/assets/thumb/5dc6c7935906de19281b49cc6c212a7a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14444">
     <display-name>FC Barcelona vs. Atlético de Madrid</display-name>
@@ -35,15 +80,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/f0dd8c9b3fc130d820becd99b1b27700-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14393">
-    <display-name>Bournemouth vs. Chelsea</display-name>
-  </channel>
-  <programme start="20251206150000 +0000" stop="20251206173000 +0000" channel="ppv-14393">
-    <title lang="en">Bournemouth vs. Chelsea</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/1078d5df2053b30575f47be015e1d96d-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14400">
     <display-name>Newcastle United vs. Burnley</display-name>
@@ -121,10 +157,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​​​​‌‌‌‌​‌‌​​‌‌‌ Guy</display-name>
+    <display-name>24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌‌​‌​‌​​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​​​​‌‌‌‌​‌‌​​‌‌‌ Guy</title>
+    <title lang="en">24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌‌​‌​‌​​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
