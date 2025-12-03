@@ -27,6 +27,24 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/6207097a5fed441ce86325220f11d371-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14395">
+    <display-name>Brighton and Hove Albion vs. West Ham United</display-name>
+  </channel>
+  <programme start="20251207140000 +0000" stop="20251207163000 +0000" channel="ppv-14395">
+    <title lang="en">Brighton and Hove Albion vs. West Ham United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/f937c2f0a5397752dcbe10b47d3f2592-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14402">
+    <display-name>Wolverhampton Wanderers vs. Manchester United</display-name>
+  </channel>
+  <programme start="20251208200000 +0000" stop="20251208223000 +0000" channel="ppv-14402">
+    <title lang="en">Wolverhampton Wanderers vs. Manchester United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14379">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
   </channel>
@@ -76,10 +94,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​​‌​‌​​‌​‌‌​​‌​​​‌​ Guy</display-name>
+    <display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​​‌​‌​​‌​‌‌​​‌​​​‌​ Guy</title>
+    <title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
