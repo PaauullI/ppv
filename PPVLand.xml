@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14445">
+    <display-name>Athletic Club vs. Real Madrid</display-name>
+  </channel>
+  <programme start="20251203180000 +0000" stop="20251203203000 +0000" channel="ppv-14445">
+    <title lang="en">Athletic Club vs. Real Madrid</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/1ea6c8a23106563349ec8a9a35723a27-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14384">
+    <display-name>Arsenal vs. Brentford</display-name>
+  </channel>
+  <programme start="20251203193000 +0000" stop="20251203220000 +0000" channel="ppv-14384">
+    <title lang="en">Arsenal vs. Brentford</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/c06cfc9915fae6152852e4a5290b4f9f-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14450">
     <display-name>Athletic Club vs. Atlético de Madrid</display-name>
   </channel>
@@ -56,6 +74,15 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌​‌‌​​​‌‌‌‌‌‌​‌‌ Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌​‌‌​​​‌‌‌‌‌‌​‌‌ Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
