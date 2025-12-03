@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14469">
-    <display-name>USC Trojans vs. Oregon Ducks</display-name>
-  </channel>
-  <programme start="20251203030000 +0000" stop="20251203063000 +0000" channel="ppv-14469">
-    <title lang="en">USC Trojans vs. Oregon Ducks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/5dc6c7935906de19281b49cc6c212a7a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14462">
-    <display-name>Oklahoma City Thunder vs. Golden State Warriors</display-name>
-  </channel>
-  <programme start="20251203040000 +0000" stop="20251203064800 +0000" channel="ppv-14462">
-    <title lang="en">Oklahoma City Thunder vs. Golden State Warriors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/857ee57acf86edc95f24cc0fc2ff30d2-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14400">
     <display-name>Newcastle United vs. Burnley</display-name>
   </channel>
@@ -35,15 +17,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14479">
-    <display-name>Washington Capitals vs. Los Angeles Kings</display-name>
-  </channel>
-  <programme start="20251203033000 +0000" stop="20251203063000 +0000" channel="ppv-14479">
-    <title lang="en">Washington Capitals vs. Los Angeles Kings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/648ec13aeee73802278a00a770a6dc9e-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14379">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
