@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14466">
-    <display-name>Purdue Boilermakers vs. Rutgers Scarlet Knights</display-name>
-  </channel>
-  <programme start="20251203010000 +0000" stop="20251203043000 +0000" channel="ppv-14466">
-    <title lang="en">Purdue Boilermakers vs. Rutgers Scarlet Knights</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/ecf44bdffd8d6cc50a7915848a05800d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14467">
     <display-name>UConn Huskies vs. Kansas Jayhawks</display-name>
   </channel>
@@ -62,24 +53,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14476">
-    <display-name>Vancouver Canucks vs. Colorado Avalanche</display-name>
-  </channel>
-  <programme start="20251203020000 +0000" stop="20251203050000 +0000" channel="ppv-14476">
-    <title lang="en">Vancouver Canucks vs. Colorado Avalanche</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/47661dc389b1a01364b31aa25ff0c607-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14477">
-    <display-name>Minnesota Wild vs. Edmonton Oilers</display-name>
-  </channel>
-  <programme start="20251203020000 +0000" stop="20251203050000 +0000" channel="ppv-14477">
-    <title lang="en">Minnesota Wild vs. Edmonton Oilers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/086203fd1ffe72b1774e0a0fb853444c-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14478">
     <display-name>Chicago Blackhawks vs. Vegas Golden Knights</display-name>
@@ -148,10 +121,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​‌‌​‌‌​‌​​​​​ Guy</display-name>
+    <display-name>24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌‌​​‌​‌‌​‌​​​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​‌‌​‌‌​‌​​​​​ Guy</title>
+    <title lang="en">24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌‌​​‌​‌‌​‌​​​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
