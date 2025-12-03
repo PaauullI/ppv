@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14465">
-    <display-name>Florida Gators vs. Duke Blue Devils</display-name>
-  </channel>
-  <programme start="20251203003000 +0000" stop="20251203040000 +0000" channel="ppv-14465">
-    <title lang="en">Florida Gators vs. Duke Blue Devils</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/522f4e87cf2d992f63ffe56f858b7a34-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14459">
-    <display-name>New York Knicks vs. Boston Celtics</display-name>
-  </channel>
-  <programme start="20251203010000 +0000" stop="20251203034800 +0000" channel="ppv-14459">
-    <title lang="en">New York Knicks vs. Boston Celtics</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/7ba7f5595565ec51306058ebd6f32024-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14460">
-    <display-name>Minnesota Timberwolves vs. New Orleans Pelicans</display-name>
-  </channel>
-  <programme start="20251203010000 +0000" stop="20251203034800 +0000" channel="ppv-14460">
-    <title lang="en">Minnesota Timberwolves vs. New Orleans Pelicans</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/e646c4539db5abf49783f5d9bd1e743c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14461">
-    <display-name>Memphis Grizzlies vs. San Antonio Spurs</display-name>
-  </channel>
-  <programme start="20251203010000 +0000" stop="20251203034800 +0000" channel="ppv-14461">
-    <title lang="en">Memphis Grizzlies vs. San Antonio Spurs</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14466">
     <display-name>Purdue Boilermakers vs. Rutgers Scarlet Knights</display-name>
   </channel>
@@ -99,15 +63,6 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14475">
-    <display-name>Calgary Flames vs. Nashville Predators</display-name>
-  </channel>
-  <programme start="20251203010000 +0000" stop="20251203040000 +0000" channel="ppv-14475">
-    <title lang="en">Calgary Flames vs. Nashville Predators</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/e84aceadaa09a635e04f97bdd45325b6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14476">
     <display-name>Vancouver Canucks vs. Colorado Avalanche</display-name>
   </channel>
@@ -143,15 +98,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://ppv.to/assets/thumb/648ec13aeee73802278a00a770a6dc9e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14378">
-    <display-name>WWE: NXT</display-name>
-  </channel>
-  <programme start="20251203010000 +0000" stop="20251203040000 +0000" channel="ppv-14378">
-    <title lang="en">WWE: NXT</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14379">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
@@ -202,10 +148,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​​‌‌​​‌​​‌​ Guy</display-name>
+    <display-name>24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​‌‌​‌‌​‌​​​​​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​​‌‌​​‌​​‌​ Guy</title>
+    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​‌‌​‌‌​‌​​​​​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
