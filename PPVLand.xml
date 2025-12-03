@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14457">
-    <display-name>Washington Wizards vs. Philadelphia 76ers</display-name>
-  </channel>
-  <programme start="20251203000000 +0000" stop="20251203024800 +0000" channel="ppv-14457">
-    <title lang="en">Washington Wizards vs. Philadelphia 76ers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/a75be1c8928f39c2727764edb1096fe1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14463">
-    <display-name>Iowa Hawkeyes vs. Michigan State Spartans</display-name>
-  </channel>
-  <programme start="20251203000000 +0000" stop="20251203033000 +0000" channel="ppv-14463">
-    <title lang="en">Iowa Hawkeyes vs. Michigan State Spartans</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/f9f3c5ad3564f9f102e05fd50ced88e5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14464">
-    <display-name>Tennessee Volunteers vs. Syracuse Orange</display-name>
-  </channel>
-  <programme start="20251203000000 +0000" stop="20251203033000 +0000" channel="ppv-14464">
-    <title lang="en">Tennessee Volunteers vs. Syracuse Orange</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/4ae0b3e5de1774dd17774c825fa7afb8-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14458">
-    <display-name>Portland Trail Blazers vs. Toronto Raptors</display-name>
-  </channel>
-  <programme start="20251203003000 +0000" stop="20251203031800 +0000" channel="ppv-14458">
-    <title lang="en">Portland Trail Blazers vs. Toronto Raptors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/1ec43e376fa6221e57db8db128ff98a4-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14465">
     <display-name>Florida Gators vs. Duke Blue Devils</display-name>
   </channel>
@@ -134,42 +98,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14470">
-    <display-name>Ottawa Senators vs. Montreal Canadiens</display-name>
-  </channel>
-  <programme start="20251203000000 +0000" stop="20251203030000 +0000" channel="ppv-14470">
-    <title lang="en">Ottawa Senators vs. Montreal Canadiens</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/bc5cc968803cb153e6468b7205ce68ce-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14471">
-    <display-name>Boston Bruins vs. Detroit Red Wings</display-name>
-  </channel>
-  <programme start="20251203000000 +0000" stop="20251203030000 +0000" channel="ppv-14471">
-    <title lang="en">Boston Bruins vs. Detroit Red Wings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/571b7572dfd2b1fdc3ec81c7e6d43c5c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14473">
-    <display-name>Dallas Stars vs. New York Rangers</display-name>
-  </channel>
-  <programme start="20251203000000 +0000" stop="20251203030000 +0000" channel="ppv-14473">
-    <title lang="en">Dallas Stars vs. New York Rangers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/08fc624a84a6274403bf5c40cef39954-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14474">
-    <display-name>Toronto Maple Leafs vs. Florida Panthers</display-name>
-  </channel>
-  <programme start="20251203003000 +0000" stop="20251203033000 +0000" channel="ppv-14474">
-    <title lang="en">Toronto Maple Leafs vs. Florida Panthers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://ppv.to/assets/thumb/85387b8488c096e3080d1bfb4921671b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14475">
     <display-name>Calgary Flames vs. Nashville Predators</display-name>
@@ -274,10 +202,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌‌‌​​​​‌​​​‌‌‌​‌​​​​​​​​ Guy</display-name>
+    <display-name>24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​​‌‌​​‌​​‌​ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌‌‌​​​​‌​​​‌‌‌​‌​​​​​​​​ Guy</title>
+    <title lang="en">24/7 Family​​‌‌‌​​‌‌​​‌​‌‌‌‌​​​‌​​‌‌​​‌​​‌​ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
