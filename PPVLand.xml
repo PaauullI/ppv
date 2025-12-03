@@ -9,6 +9,15 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/1ea6c8a23106563349ec8a9a35723a27-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-5193">
+    <display-name>Goal Rush</display-name>
+  </channel>
+  <programme start="20251203193000 +0000" stop="20251203220000 +0000" channel="ppv-5193">
+    <title lang="en">Goal Rush</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14384">
     <display-name>Arsenal vs. Brentford</display-name>
   </channel>
@@ -17,6 +26,60 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/c06cfc9915fae6152852e4a5290b4f9f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14385">
+    <display-name>Brighton and Hove Albion vs. Aston Villa</display-name>
+  </channel>
+  <programme start="20251203193000 +0000" stop="20251203220000 +0000" channel="ppv-14385">
+    <title lang="en">Brighton and Hove Albion vs. Aston Villa</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/8c12b6c775f1943421e442cccb9154f4-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14386">
+    <display-name>Burnley vs. Crystal Palace</display-name>
+  </channel>
+  <programme start="20251203193000 +0000" stop="20251203220000 +0000" channel="ppv-14386">
+    <title lang="en">Burnley vs. Crystal Palace</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/9f7782a7dbada325ba7fd2564c5c170e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14392">
+    <display-name>Wolverhampton Wanderers vs. Nottingham Forest</display-name>
+  </channel>
+  <programme start="20251203193000 +0000" stop="20251203220000 +0000" channel="ppv-14392">
+    <title lang="en">Wolverhampton Wanderers vs. Nottingham Forest</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/311e070e6d4b847a9d3127c86cd62ea4-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14388">
+    <display-name>Leeds United vs. Chelsea</display-name>
+  </channel>
+  <programme start="20251203201500 +0000" stop="20251203224500 +0000" channel="ppv-14388">
+    <title lang="en">Leeds United vs. Chelsea</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/90c2e4d7b4d8b29638214aa16746a706-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14389">
+    <display-name>Liverpool vs. Sunderland</display-name>
+  </channel>
+  <programme start="20251203201500 +0000" stop="20251203224500 +0000" channel="ppv-14389">
+    <title lang="en">Liverpool vs. Sunderland</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/1373a3e726525039ca30dfb3c427b997-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14398">
+    <display-name>Leeds United vs. Liverpool</display-name>
+  </channel>
+  <programme start="20251206173000 +0000" stop="20251206200000 +0000" channel="ppv-14398">
+    <title lang="en">Leeds United vs. Liverpool</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://ppv.to/assets/thumb/29b31ab38297ee24816f570595f73271-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14450">
     <display-name>Athletic Club vs. Atlético de Madrid</display-name>
@@ -94,21 +157,12 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌‌ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌‌​​‌​​‌‌ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
-  </programme>
-  <channel id="ppv-5191">
-    <display-name>24/7 The Simpsons</display-name>
-  </channel>
-  <programme start="20250118102800 +0000" stop="20250118102800 +0000" channel="ppv-5191">
-    <title lang="en">24/7 The Simpsons</title>
-    <sub-title>24/7 Streams</sub-title>
-    <category>24/7 Streams</category>
-    <icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
   </programme>
 </tv>
