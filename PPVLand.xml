@@ -99,42 +99,6 @@
     <category>Football</category>
     <icon src="https://ppv.to/assets/thumb/f937c2f0a5397752dcbe10b47d3f2592-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14402">
-    <display-name>Wolverhampton Wanderers vs. Manchester United</display-name>
-  </channel>
-  <programme start="20251208200000 +0000" stop="20251208223000 +0000" channel="ppv-14402">
-    <title lang="en">Wolverhampton Wanderers vs. Manchester United</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14379">
-    <display-name>AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <programme start="20251204010000 +0000" stop="20251204040000 +0000" channel="ppv-14379">
-    <title lang="en">AEW: Wednesday Night Dynamite</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14380">
-    <display-name>TNA: Impact</display-name>
-  </channel>
-  <programme start="20251205010000 +0000" stop="20251205040000 +0000" channel="ppv-14380">
-    <title lang="en">TNA: Impact</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14381">
-    <display-name>WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <programme start="20251206010000 +0000" stop="20251206040000 +0000" channel="ppv-14381">
-    <title lang="en">WWE: Friday Night Smackdown</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14382">
     <display-name>AEW: Saturday Night Collision</display-name>
   </channel>
@@ -144,25 +108,13 @@
     <category>Wrestling</category>
     <icon src="https://ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-5112">
-    <display-name>24/7 South Park</display-name>
+  <channel id="ppv-5191">
+    <display-name>24/7 The Simpsons</display-name>
   </channel>
-  <channel id="ppv-3663">
-    <display-name>24/7 COWS</display-name>
-  </channel>
-  <programme start="20250118050000 +0000" stop="20250228200000 +0000" channel="ppv-3663">
-    <title lang="en">24/7 COWS</title>
+  <programme start="20250118102800 +0000" stop="20250118102800 +0000" channel="ppv-5191">
+    <title lang="en">24/7 The Simpsons</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
-    <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-8008">
-    <display-name>24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌ Guy</display-name>
-  </channel>
-  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌ Guy</title>
-    <sub-title>24/7 Streams</sub-title>
-    <category>24/7 Streams</category>
-    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
+    <icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
   </programme>
 </tv>
