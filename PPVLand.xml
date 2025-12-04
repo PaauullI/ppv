@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14488">
-    <display-name>Miami Heat vs. Dallas Mavericks</display-name>
-  </channel>
-  <programme start="20251204013000 +0000" stop="20251204041800 +0000" channel="ppv-14488">
-    <title lang="en">Miami Heat vs. Dallas Mavericks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://ppv.to/assets/thumb/a8e908edb4259d33f1603c865a0da283-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14306">
     <display-name>Australia vs. England</display-name>
   </channel>
@@ -67,10 +58,10 @@
     <icon src="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-8008">
-    <display-name>24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​​‌‌‌​​​​‌ Guy</display-name>
+    <display-name>24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​‌​‌‌​‌​​‌‌ Guy</display-name>
   </channel>
   <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​​‌‌‌​​​​‌ Guy</title>
+    <title lang="en">24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌‌​​​‌​‌‌​‌​​‌‌ Guy</title>
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
