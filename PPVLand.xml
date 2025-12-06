@@ -9,13 +9,13 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14418">
-    <display-name>RB Leipzig vs. Frankfurt</display-name>
+  <channel id="ppv-14423">
+    <display-name>Hellas Verona vs. Atalanta</display-name>
   </channel>
-  <programme start="20251206173000 +0000" stop="20251206200000 +0000" channel="ppv-14418">
-    <title lang="en">RB Leipzig vs. Frankfurt</title>
+  <programme start="20251206194500 +0000" stop="20251206221500 +0000" channel="ppv-14423">
+    <title lang="en">Hellas Verona vs. Atalanta</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/ac4357174c8f739bea6359d82e8e2e86-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/577c8321d773adeb49313409f28490d1-thumbnail.jpg" />
   </programme>
 </tv>
