@@ -9,13 +9,4 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14413">
-    <display-name>Heidenheim vs. Freiburg</display-name>
-  </channel>
-  <programme start="20251206143000 +0000" stop="20251206170000 +0000" channel="ppv-14413">
-    <title lang="en">Heidenheim vs. Freiburg</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d865ea3b1e8ded2aab9d592e39802363-thumbnail.jpg" />
-  </programme>
 </tv>
