@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-11090">
+    <display-name>NFL RedZone</display-name>
+  </channel>
+  <programme start="20251207180000 +0000" stop="20251208010000 +0000" channel="ppv-11090">
+    <title lang="en">NFL RedZone</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
+  </programme>
 </tv>
