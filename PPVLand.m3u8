@@ -1,1 +1,6 @@
 #EXTM3U url-tvg="PPVLand.xml"
+#EXTINF:-1 tvg-id="ppv-14426" tvg-name="Lazio vs. Bologna" tvg-logo="https://api.ppv.to/assets/thumb/81402c0c3fe75b55bde6faff246b5c9e-thumbnail.jpg" group-title="🇮🇹 Serie A",Lazio vs. Bologna
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/seriea_laz/index.m3u8

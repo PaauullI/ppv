@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14426">
+    <display-name>Lazio vs. Bologna</display-name>
+  </channel>
+  <programme start="20251207170000 +0000" stop="20251207193000 +0000" channel="ppv-14426">
+    <title lang="en">Lazio vs. Bologna</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/81402c0c3fe75b55bde6faff246b5c9e-thumbnail.jpg" />
+  </programme>
 </tv>
