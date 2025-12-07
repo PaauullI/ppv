@@ -9,7 +9,13 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/c25b4d7302c5c1c448a26dc0a4a8f2cf-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-5112">
-    <display-name>24/7 South Park</display-name>
+  <channel id="ppv-3663">
+    <display-name>24/7 COWS</display-name>
   </channel>
+  <programme start="20250118050000 +0000" stop="20250228200000 +0000" channel="ppv-3663">
+    <title lang="en">24/7 COWS</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
 </tv>
