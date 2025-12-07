@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14397">
-    <display-name>Fulham vs. Crystal Palace</display-name>
+  <channel id="ppv-14420">
+    <display-name>Dortmund vs. Hoffenheim</display-name>
   </channel>
-  <programme start="20251207163000 +0000" stop="20251207190000 +0000" channel="ppv-14397">
-    <title lang="en">Fulham vs. Crystal Palace</title>
+  <programme start="20251207163000 +0000" stop="20251207190000 +0000" channel="ppv-14420">
+    <title lang="en">Dortmund vs. Hoffenheim</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/959087cd7e92edfadfc2b55e30c9426b-thumbnail.jpg" />
   </programme>
 </tv>
