@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14397">
+    <display-name>Fulham vs. Crystal Palace</display-name>
+  </channel>
+  <programme start="20251207163000 +0000" stop="20251207190000 +0000" channel="ppv-14397">
+    <title lang="en">Fulham vs. Crystal Palace</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" />
+  </programme>
 </tv>
