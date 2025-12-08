@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-11090">
-    <display-name>NFL RedZone</display-name>
+  <channel id="ppv-14663">
+    <display-name>Houston Texans vs. Kansas City Chiefs</display-name>
   </channel>
-  <programme start="20251207180000 +0000" stop="20251208010000 +0000" channel="ppv-11090">
-    <title lang="en">NFL RedZone</title>
+  <programme start="20251208012000 +0000" stop="20251208045000 +0000" channel="ppv-14663">
+    <title lang="en">Houston Texans vs. Kansas City Chiefs</title>
     <sub-title>American Football</sub-title>
     <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/06fc73eff1b5808e650d244ba7d1ebff-thumbnail.jpg" />
   </programme>
 </tv>
