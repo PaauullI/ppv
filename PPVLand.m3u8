@@ -1,1 +1,6 @@
 #EXTM3U url-tvg="PPVLand.xml"
+#EXTINF:-1 tvg-id="ppv-14664" tvg-name="Philadelphia Eagles vs. Los Angeles Chargers" tvg-logo="https://api.ppv.to/assets/thumb/6592fcf8404fe8ce74eac5a2e07b7bcb-thumbnail.jpg" group-title="🏈 NFL",Philadelphia Eagles vs. Los Angeles Chargers
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/losangeleschargers/index.m3u8

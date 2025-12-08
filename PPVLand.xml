@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14664">
+    <display-name>Philadelphia Eagles vs. Los Angeles Chargers</display-name>
+  </channel>
+  <programme start="20251209011500 +0000" stop="20251209044500 +0000" channel="ppv-14664">
+    <title lang="en">Philadelphia Eagles vs. Los Angeles Chargers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/6592fcf8404fe8ce74eac5a2e07b7bcb-thumbnail.jpg" />
+  </programme>
 </tv>
