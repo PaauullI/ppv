@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14664">
-    <display-name>Philadelphia Eagles vs. Los Angeles Chargers</display-name>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌​‌‌‌‌​‌​‌​​​‌ Guy</display-name>
   </channel>
-  <programme start="20251209011500 +0000" stop="20251209044500 +0000" channel="ppv-14664">
-    <title lang="en">Philadelphia Eagles vs. Los Angeles Chargers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/6592fcf8404fe8ce74eac5a2e07b7bcb-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-14729">
-    <display-name>Los Angeles Kings vs. Utah Mammoth</display-name>
-  </channel>
-  <programme start="20251209020000 +0000" stop="20251209050000 +0000" channel="ppv-14729">
-    <title lang="en">Los Angeles Kings vs. Utah Mammoth</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/c2ee241fde184e5569ea8ef9db3fed24-thumbnail.jpg" />
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌​‌‌‌‌​‌​‌​​​‌ Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
 </tv>
