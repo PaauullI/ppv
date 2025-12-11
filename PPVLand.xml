@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14803">
+    <display-name>Fiorentina vs. Dynamo Kyiv</display-name>
+  </channel>
+  <programme start="20251211174500 +0000" stop="20251211194500 +0000" channel="ppv-14803">
+    <title lang="en">Fiorentina vs. Dynamo Kyiv</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/cbc6a936b21482097a94b20358018707-thumbnail.jpg" />
+  </programme>
 </tv>
