@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14803">
-    <display-name>Fiorentina vs. Dynamo Kyiv</display-name>
+  <channel id="ppv-14802">
+    <display-name>Brann vs. Fenerbahçe</display-name>
   </channel>
-  <programme start="20251211174500 +0000" stop="20251211194500 +0000" channel="ppv-14803">
-    <title lang="en">Fiorentina vs. Dynamo Kyiv</title>
+  <programme start="20251211200000 +0000" stop="20251211220000 +0000" channel="ppv-14802">
+    <title lang="en">Brann vs. Fenerbahçe</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/cbc6a936b21482097a94b20358018707-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/6cde3f3ea3dfe1fb1030d997f29c796c-thumbnail.jpg" />
   </programme>
 </tv>
