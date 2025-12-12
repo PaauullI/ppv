@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14751">
+    <display-name>Chelsea vs. Everton</display-name>
+  </channel>
+  <programme start="20251213150000 +0000" stop="20251213173000 +0000" channel="ppv-14751">
+    <title lang="en">Chelsea vs. Everton</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/61d2e0b372d0deb06396633b799fff71-thumbnail.jpg" />
+  </programme>
 </tv>

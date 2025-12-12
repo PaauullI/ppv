@@ -1,1 +1,6 @@
 #EXTM3U url-tvg="PPVLand.xml"
+#EXTINF:-1 tvg-id="ppv-14751" tvg-name="Chelsea vs. Everton" tvg-logo="https://api.ppv.to/assets/thumb/61d2e0b372d0deb06396633b799fff71-thumbnail.jpg" group-title="🇬🇧 Premier League",Chelsea vs. Everton
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/epl_che/tracks-v1a1/mono.ts.m3u8
