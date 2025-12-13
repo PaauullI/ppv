@@ -9,13 +9,7 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/530892ab4b0c7aec2617b333a6a9b56c-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14747">
-    <display-name>AEW: Saturday Night Collision</display-name>
+  <channel id="ppv-5112">
+    <display-name>24/7 South Park</display-name>
   </channel>
-  <programme start="20251213213000 +0000" stop="20251214003000 +0000" channel="ppv-14747">
-    <title lang="en">AEW: Saturday Night Collision</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
-  </programme>
 </tv>
