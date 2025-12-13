@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14892">
+    <display-name>FC Barcelona vs. CA Osasuna</display-name>
+  </channel>
+  <programme start="20251213173000 +0000" stop="20251213200000 +0000" channel="ppv-14892">
+    <title lang="en">FC Barcelona vs. CA Osasuna</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/67b07709cfb21ac501bc57657dcd7795-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-3663">
+    <display-name>24/7 COWS</display-name>
+  </channel>
+  <programme start="20250118050000 +0000" stop="20250228200000 +0000" channel="ppv-3663">
+    <title lang="en">24/7 COWS</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
 </tv>
