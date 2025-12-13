@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14832">
-    <display-name>Rennes vs. Brest</display-name>
-  </channel>
-  <programme start="20251213160000 +0000" stop="20251213183000 +0000" channel="ppv-14832">
-    <title lang="en">Rennes vs. Brest</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/06342935d7e5e56c58e451e6cea95bf4-thumbnail.jpg" />
-  </programme>
 </tv>
