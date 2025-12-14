@@ -9,13 +9,4 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-5191">
-    <display-name>24/7 The Simpsons</display-name>
-  </channel>
-  <programme start="20250118102800 +0000" stop="20250118102800 +0000" channel="ppv-5191">
-    <title lang="en">24/7 The Simpsons</title>
-    <sub-title>24/7 Streams</sub-title>
-    <category>24/7 Streams</category>
-    <icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
-  </programme>
 </tv>
