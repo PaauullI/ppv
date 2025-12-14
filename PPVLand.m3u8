@@ -1,1 +1,6 @@
 #EXTM3U url-tvg="PPVLand.xml"
+#EXTINF:-1 tvg-id="ppv-14826" tvg-name="Fiorentina vs. Hellas Verona" tvg-logo="https://api.ppv.to/assets/thumb/5933a0a125fe4a50dbfa8a27943b2668-thumbnail.jpg" group-title="🇮🇹 Serie A",Fiorentina vs. Hellas Verona
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/seriea_fio/tracks-v1a1/mono.ts.m3u8

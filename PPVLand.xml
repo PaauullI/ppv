@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14826">
+    <display-name>Fiorentina vs. Hellas Verona</display-name>
+  </channel>
+  <programme start="20251214140000 +0000" stop="20251214163000 +0000" channel="ppv-14826">
+    <title lang="en">Fiorentina vs. Hellas Verona</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/5933a0a125fe4a50dbfa8a27943b2668-thumbnail.jpg" />
+  </programme>
 </tv>
