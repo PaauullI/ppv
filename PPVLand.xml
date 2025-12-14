@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14942">
-    <display-name>Army Black Knights vs. Navy Midshipmen</display-name>
-  </channel>
-  <programme start="20251213200000 +0000" stop="20251213233000 +0000" channel="ppv-14942">
-    <title lang="en">Army Black Knights vs. Navy Midshipmen</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/530892ab4b0c7aec2617b333a6a9b56c-thumbnail.jpg" />
-  </programme>
 </tv>
