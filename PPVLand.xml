@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14827">
-    <display-name>Udinese vs. Napoli</display-name>
+  <channel id="ppv-14847">
+    <display-name>Cleveland Browns vs. Chicago Bears</display-name>
   </channel>
-  <programme start="20251214140000 +0000" stop="20251214163000 +0000" channel="ppv-14827">
-    <title lang="en">Udinese vs. Napoli</title>
+  <programme start="20251214180000 +0000" stop="20251214213000 +0000" channel="ppv-14847">
+    <title lang="en">Cleveland Browns vs. Chicago Bears</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/331f55b0ccf9ea1f6b5d3882f51e3cc4-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-14835">
+    <display-name>OL vs. Havre AC</display-name>
+  </channel>
+  <programme start="20251214140000 +0000" stop="20251214163000 +0000" channel="ppv-14835">
+    <title lang="en">OL vs. Havre AC</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/76943305891882a3431cd0427bed4d99-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/d4cda4f296492b5b6b401cdd0655b4a4-thumbnail.jpg" />
   </programme>
 </tv>
