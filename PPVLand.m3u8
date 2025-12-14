@@ -1,6 +1,11 @@
 #EXTM3U url-tvg="PPVLand.xml"
-#EXTINF:-1 tvg-id="ppv-14828" tvg-name="Genoa vs. Inter" tvg-logo="https://api.ppv.to/assets/thumb/c2be6b8d212e7e04a16ee1ae6a61b969-thumbnail.jpg" group-title="🇮🇹 Serie A",Genoa vs. Inter
+#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone" tvg-logo="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" group-title="NFL REDZONE WK15",NFL RedZone
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/seriea_gen/index.m3u8
+https://gg.poocloud.in/redzone/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14896" tvg-name="Levante UD vs. Villarreal CF" tvg-logo="https://api.ppv.to/assets/thumb/f0dd0e1b107be62875a44ea7f21b78bf-thumbnail.jpg" group-title="🇪🇸 La Liga",Levante UD vs. Villarreal CF
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/ll_lev/tracks-v1a1/mono.ts.m3u8
