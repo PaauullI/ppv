@@ -9,13 +9,13 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14976">
-    <display-name>Utah Mammoth vs. Pittsburgh Penguins</display-name>
+  <channel id="ppv-5191">
+    <display-name>24/7 The Simpsons</display-name>
   </channel>
-  <programme start="20251214200000 +0000" stop="20251214230000 +0000" channel="ppv-14976">
-    <title lang="en">Utah Mammoth vs. Pittsburgh Penguins</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/7c558be4129f70f735351bc326face46-thumbnail.jpg" />
+  <programme start="20250118102800 +0000" stop="20250118102800 +0000" channel="ppv-5191">
+    <title lang="en">24/7 The Simpsons</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
   </programme>
 </tv>
