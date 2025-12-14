@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14826">
-    <display-name>Fiorentina vs. Hellas Verona</display-name>
+  <channel id="ppv-14827">
+    <display-name>Udinese vs. Napoli</display-name>
   </channel>
-  <programme start="20251214140000 +0000" stop="20251214163000 +0000" channel="ppv-14826">
-    <title lang="en">Fiorentina vs. Hellas Verona</title>
+  <programme start="20251214140000 +0000" stop="20251214163000 +0000" channel="ppv-14827">
+    <title lang="en">Udinese vs. Napoli</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/5933a0a125fe4a50dbfa8a27943b2668-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/76943305891882a3431cd0427bed4d99-thumbnail.jpg" />
   </programme>
 </tv>
