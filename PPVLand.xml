@@ -9,13 +9,4 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14896">
-    <display-name>Levante UD vs. Villarreal CF</display-name>
-  </channel>
-  <programme start="20251214173000 +0000" stop="20251214200000 +0000" channel="ppv-14896">
-    <title lang="en">Levante UD vs. Villarreal CF</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/f0dd0e1b107be62875a44ea7f21b78bf-thumbnail.jpg" />
-  </programme>
 </tv>
