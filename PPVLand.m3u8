@@ -1,6 +1,1 @@
 #EXTM3U url-tvg="PPVLand.xml"
-#EXTINF:-1 tvg-id="ppv-14868" tvg-name="Minnesota Vikings vs. Dallas Cowboys" tvg-logo="https://api.ppv.to/assets/thumb/f2eb28e7e738bbae8dfff77cb5bbd1e7-thumbnail.jpg" group-title="🏈 NFL",Minnesota Vikings vs. Dallas Cowboys
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/dallascowboys/tracks-v1a1/mono.ts.m3u8
