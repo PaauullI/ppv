@@ -8,7 +8,7 @@ https://gg.poocloud.in/pittsburghsteelers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/bostonceltics/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bostonceltics/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15042" tvg-name="Toronto Raptors vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/ea6d45875018e9d859df36e19c94c50c-thumbnail.jpg" group-title="🏀 NBA",Toronto Raptors vs. Miami Heat
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -19,6 +19,11 @@ https://gg.poocloud.in/miamiheat/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15047" tvg-name="Houston Rockets vs. Denver Nuggets" tvg-logo="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" group-title="🏀 NBA",Houston Rockets vs. Denver Nuggets
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/denvernuggets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15041" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/ebf178cbed21ba243bd01e0f9a2cc62c-thumbnail.jpg" group-title="🏒 NHL",Florida Panthers vs. Tampa Bay Lightning
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -33,22 +38,52 @@ https://gg.poocloud.in/newyorkrangers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/winnipegjets/index.m3u8
+https://gg.poocloud.in/winnipegjets/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15048" tvg-name="Nashville Predators vs. St. Louis Blues" tvg-logo="https://api.ppv.to/assets/thumb/3d285228e188869b65975366360e8aeb-thumbnail.jpg" group-title="🏒 NHL",Nashville Predators vs. St. Louis Blues
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/stlouisblues/index.m3u8
+https://gg.poocloud.in/stlouisblues/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15050" tvg-name="Los Angeles Kings vs. Dallas Stars" tvg-logo="https://api.ppv.to/assets/thumb/8ca795455de161bdc2e51e4221cb006d-thumbnail.jpg" group-title="🏒 NHL",Los Angeles Kings vs. Dallas Stars
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/dallasstars/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-15051" tvg-name="WWE: Monday Night RAW" tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="🤼 WWE",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-15052" tvg-name="WWE: NXT" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="🤼 WWE",WWE: NXT
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-15053" tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="🤼 AEW",AEW: Wednesday Night Dynamite
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-15054" tvg-name="TNA: Impact" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling Events",TNA: Impact
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-15055" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="🤼 WWE",WWE: Friday Night Smackdown
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-15056" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="🤼 AEW",AEW: Saturday Night Collision
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/southpark/index.m3u8
 #EXTINF:-1 tvg-id="ppv-3663" tvg-name="24/7 COWS" tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -58,7 +93,7 @@ https://gg.poocloud.in/cows/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/familyguy/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/familyguy/index.m3u8
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su

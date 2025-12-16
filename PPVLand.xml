@@ -36,6 +36,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/53e7b6d857c4ed0ed5991d6487cf7aeb-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15047">
+    <display-name>Houston Rockets vs. Denver Nuggets</display-name>
+  </channel>
+  <programme start="20251216023000 +0000" stop="20251216051800 +0000" channel="ppv-15047">
+    <title lang="en">Houston Rockets vs. Denver Nuggets</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15041">
     <display-name>Florida Panthers vs. Tampa Bay Lightning</display-name>
   </channel>
@@ -80,6 +89,60 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/8ca795455de161bdc2e51e4221cb006d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15051">
+    <display-name>WWE: Monday Night RAW</display-name>
+  </channel>
+  <programme start="20251216010000 +0000" stop="20251216040000 +0000" channel="ppv-15051">
+    <title lang="en">WWE: Monday Night RAW</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15052">
+    <display-name>WWE: NXT</display-name>
+  </channel>
+  <programme start="20251217010000 +0000" stop="20251217040000 +0000" channel="ppv-15052">
+    <title lang="en">WWE: NXT</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15053">
+    <display-name>AEW: Wednesday Night Dynamite</display-name>
+  </channel>
+  <programme start="20251218010000 +0000" stop="20251218040000 +0000" channel="ppv-15053">
+    <title lang="en">AEW: Wednesday Night Dynamite</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15054">
+    <display-name>TNA: Impact</display-name>
+  </channel>
+  <programme start="20251219010000 +0000" stop="20251219040000 +0000" channel="ppv-15054">
+    <title lang="en">TNA: Impact</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15055">
+    <display-name>WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <programme start="20251220010000 +0000" stop="20251220040000 +0000" channel="ppv-15055">
+    <title lang="en">WWE: Friday Night Smackdown</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15056">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20251221010000 +0000" stop="20251221040000 +0000" channel="ppv-15056">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
