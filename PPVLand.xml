@@ -36,33 +36,6 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/188d77d66826cf6207bbf1804c7e2d95-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15048">
-    <display-name>Nashville Predators vs. St. Louis Blues</display-name>
-  </channel>
-  <programme start="20251216010000 +0000" stop="20251216040000 +0000" channel="ppv-15048">
-    <title lang="en">Nashville Predators vs. St. Louis Blues</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/3d285228e188869b65975366360e8aeb-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15050">
-    <display-name>Los Angeles Kings vs. Dallas Stars</display-name>
-  </channel>
-  <programme start="20251216010000 +0000" stop="20251216040000 +0000" channel="ppv-15050">
-    <title lang="en">Los Angeles Kings vs. Dallas Stars</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/8ca795455de161bdc2e51e4221cb006d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15051">
-    <display-name>WWE: Monday Night RAW</display-name>
-  </channel>
-  <programme start="20251216010000 +0000" stop="20251216040000 +0000" channel="ppv-15051">
-    <title lang="en">WWE: Monday Night RAW</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15052">
     <display-name>WWE: NXT</display-name>
   </channel>
