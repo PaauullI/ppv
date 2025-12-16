@@ -63,15 +63,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15089">
-    <display-name>IPL Auction 2026</display-name>
-  </channel>
-  <programme start="20251216090000 +0000" stop="20251216160000 +0000" channel="ppv-15089">
-    <title lang="en">IPL Auction 2026</title>
-    <sub-title>Cricket</sub-title>
-    <category>Cricket</category>
-    <icon src="https://api.ppv.to/assets/thumb/09f92010b55c5a1c15dfaf7ed3322d00-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -80,6 +71,15 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15111">
+    <display-name>CD Guadalajara vs Barcelona</display-name>
+  </channel>
+  <programme start="20251216200000 +0000" stop="20251216223000 +0000" channel="ppv-15111">
+    <title lang="en">CD Guadalajara vs Barcelona</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/53ee005a6d754edcce487d378e1dd2d5-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15052">
     <display-name>WWE: NXT</display-name>
