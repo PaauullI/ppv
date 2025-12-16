@@ -18,6 +18,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15074">
+    <display-name>Los Angeles Chargers vs. Dallas Cowboys</display-name>
+  </channel>
+  <programme start="20251221180000 +0000" stop="20251221213000 +0000" channel="ppv-15074">
+    <title lang="en">Los Angeles Chargers vs. Dallas Cowboys</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/fb8711c589b503ad2c7d1790e1b177e9-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15080">
     <display-name>New York Jets vs. New Orleans Saints</display-name>
   </channel>
