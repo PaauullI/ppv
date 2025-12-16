@@ -45,6 +45,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15049">
+    <display-name>Memphis Grizzlies vs. LA Clippers</display-name>
+  </channel>
+  <programme start="20251216033000 +0000" stop="20251216061800 +0000" channel="ppv-15049">
+    <title lang="en">Memphis Grizzlies vs. LA Clippers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/188d77d66826cf6207bbf1804c7e2d95-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15041">
     <display-name>Florida Panthers vs. Tampa Bay Lightning</display-name>
   </channel>
