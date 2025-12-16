@@ -9,24 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/fe25ffce3016f007f0c72f24acf143ca-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15040">
-    <display-name>Detroit Pistons vs. Boston Celtics</display-name>
-  </channel>
-  <programme start="20251216000000 +0000" stop="20251216024800 +0000" channel="ppv-15040">
-    <title lang="en">Detroit Pistons vs. Boston Celtics</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/502ee288d8c5f7ab355bcf1d839ea1c1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15042">
-    <display-name>Toronto Raptors vs. Miami Heat</display-name>
-  </channel>
-  <programme start="20251216003000 +0000" stop="20251216031800 +0000" channel="ppv-15042">
-    <title lang="en">Toronto Raptors vs. Miami Heat</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/ea6d45875018e9d859df36e19c94c50c-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15046">
     <display-name>Dallas Mavericks vs. Utah Jazz</display-name>
   </channel>
@@ -53,33 +35,6 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/188d77d66826cf6207bbf1804c7e2d95-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15041">
-    <display-name>Florida Panthers vs. Tampa Bay Lightning</display-name>
-  </channel>
-  <programme start="20251216000000 +0000" stop="20251216030000 +0000" channel="ppv-15041">
-    <title lang="en">Florida Panthers vs. Tampa Bay Lightning</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/ebf178cbed21ba243bd01e0f9a2cc62c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15043">
-    <display-name>Anaheim Ducks vs. New York Rangers</display-name>
-  </channel>
-  <programme start="20251216000000 +0000" stop="20251216030000 +0000" channel="ppv-15043">
-    <title lang="en">Anaheim Ducks vs. New York Rangers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/ac238de826f1edb9dc13121861fbf658-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15045">
-    <display-name>Ottawa Senators vs. Winnipeg Jets</display-name>
-  </channel>
-  <programme start="20251216003000 +0000" stop="20251216033000 +0000" channel="ppv-15045">
-    <title lang="en">Ottawa Senators vs. Winnipeg Jets</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/2902270c4fcc8958c53774e4b07a2c42-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15048">
     <display-name>Nashville Predators vs. St. Louis Blues</display-name>
