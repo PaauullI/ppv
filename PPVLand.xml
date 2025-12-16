@@ -84,7 +84,7 @@
   <channel id="ppv-15111">
     <display-name>CD Guadalajara vs Barcelona</display-name>
   </channel>
-  <programme start="20251216200000 +0000" stop="20251216223000 +0000" channel="ppv-15111">
+  <programme start="20251216203000 +0000" stop="20251216230000 +0000" channel="ppv-15111">
     <title lang="en">CD Guadalajara vs Barcelona</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
