@@ -54,15 +54,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15047">
-    <display-name>Houston Rockets vs. Denver Nuggets</display-name>
-  </channel>
-  <programme start="20251216023000 +0000" stop="20251216051800 +0000" channel="ppv-15047">
-    <title lang="en">Houston Rockets vs. Denver Nuggets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15049">
     <display-name>Memphis Grizzlies vs. LA Clippers</display-name>
   </channel>
