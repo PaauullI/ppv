@@ -54,6 +54,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15063">
+    <display-name>San Antonio Spurs vs. New York Knicks</display-name>
+  </channel>
+  <programme start="20251217013000 +0000" stop="20251217041800 +0000" channel="ppv-15063">
+    <title lang="en">San Antonio Spurs vs. New York Knicks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e8b99e4f194ef58c43c2b5714d704ba-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England (UK Broadcast)</display-name>
   </channel>
@@ -75,7 +84,7 @@
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
-  <programme start="20251216123000 +0000" stop="20251216233000 +0000" channel="ppv-14899">
+  <programme start="20251217123000 +0000" stop="20251217233000 +0000" channel="ppv-14899">
     <title lang="en">World Darts Championship</title>
     <sub-title>Darts</sub-title>
     <category>Darts</category>
@@ -134,6 +143,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/a9c43b788919c2a5f11cf655773c8a46-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15073">
+    <display-name>Edmonton Oilers vs. Pittsburgh Penguins</display-name>
+  </channel>
+  <programme start="20251217003000 +0000" stop="20251217033000 +0000" channel="ppv-15073">
+    <title lang="en">Edmonton Oilers vs. Pittsburgh Penguins</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/b8421eaa2e0ece4ab7d3bc937ea752aa-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15076">
+    <display-name>Washington Capitals vs. Minnesota Wild</display-name>
+  </channel>
+  <programme start="20251217010000 +0000" stop="20251217040000 +0000" channel="ppv-15076">
+    <title lang="en">Washington Capitals vs. Minnesota Wild</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/788facd09262edf036ba90437595caba-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15052">
     <display-name>WWE: NXT</display-name>
