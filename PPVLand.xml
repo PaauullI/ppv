@@ -90,60 +90,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15062">
-    <display-name>Utah Mammoth vs. Boston Bruins</display-name>
-  </channel>
-  <programme start="20251217000000 +0000" stop="20251217030000 +0000" channel="ppv-15062">
-    <title lang="en">Utah Mammoth vs. Boston Bruins</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/be4d839fca28d8cfe53d8479d4fd036c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15065">
-    <display-name>Chicago Blackhawks vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <programme start="20251217000000 +0000" stop="20251217030000 +0000" channel="ppv-15065">
-    <title lang="en">Chicago Blackhawks vs. Toronto Maple Leafs</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/435000dbcd07f24b1b76ce19a27184cc-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15067">
-    <display-name>Philadelphia Flyers vs. Montreal Canadiens</display-name>
-  </channel>
-  <programme start="20251217000000 +0000" stop="20251217030000 +0000" channel="ppv-15067">
-    <title lang="en">Philadelphia Flyers vs. Montreal Canadiens</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/cbb3e15e84d4152d1a7f7bfdec39a02b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15068">
-    <display-name>New York Islanders vs. Detroit Red Wings</display-name>
-  </channel>
-  <programme start="20251217000000 +0000" stop="20251217030000 +0000" channel="ppv-15068">
-    <title lang="en">New York Islanders vs. Detroit Red Wings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/f240361debbfbc96351d77d167026d5b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15069">
-    <display-name>Vancouver Canucks vs. New York Rangers</display-name>
-  </channel>
-  <programme start="20251217000000 +0000" stop="20251217030000 +0000" channel="ppv-15069">
-    <title lang="en">Vancouver Canucks vs. New York Rangers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/10f4a9e59503c4bd2551a11420123c98-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15073">
-    <display-name>Edmonton Oilers vs. Pittsburgh Penguins</display-name>
-  </channel>
-  <programme start="20251217003000 +0000" stop="20251217033000 +0000" channel="ppv-15073">
-    <title lang="en">Edmonton Oilers vs. Pittsburgh Penguins</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/b8421eaa2e0ece4ab7d3bc937ea752aa-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15076">
     <display-name>Washington Capitals vs. Minnesota Wild</display-name>
   </channel>
