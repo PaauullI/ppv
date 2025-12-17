@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15064">
-    <display-name>Los Angeles Rams vs. Seattle Seahawks</display-name>
-  </channel>
-  <programme start="20251219011500 +0000" stop="20251219044500 +0000" channel="ppv-15064">
-    <title lang="en">Los Angeles Rams vs. Seattle Seahawks</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8cba672a633c05c2058d1dd5187ac272-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15070">
     <display-name>Green Bay Packers vs. Chicago Bears</display-name>
   </channel>
@@ -54,15 +45,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15132">
-    <display-name>Misfits Mania: Andrew Tate vs. Chase DeMoor</display-name>
-  </channel>
-  <programme start="20251220190000 +0000" stop="20251221010000 +0000" channel="ppv-15132">
-    <title lang="en">Misfits Mania: Andrew Tate vs. Chase DeMoor</title>
-    <sub-title>Combat Sports</sub-title>
-    <category>Combat Sports</category>
-    <icon src="https://api.ppv.to/assets/thumb/db7c5404454254e907120a09a5b943b2-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England (UK Broadcast)</display-name>
   </channel>
@@ -80,6 +62,15 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15133">
+    <display-name>Paris Saint-Germain vs. CR Flamengo</display-name>
+  </channel>
+  <programme start="20251217170000 +0000" stop="20251217200000 +0000" channel="ppv-15133">
+    <title lang="en">Paris Saint-Germain vs. CR Flamengo</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15131">
     <display-name>Talavera vs. Real Madrid</display-name>
