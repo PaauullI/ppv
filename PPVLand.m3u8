@@ -3,12 +3,17 @@
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/seattleseahawks/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/seattleseahawks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15070" tvg-name="Green Bay Packers vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" group-title="🏈 NFL",Green Bay Packers vs. Chicago Bears
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/chicagobears/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15080" tvg-name="New York Jets vs. New Orleans Saints" tvg-logo="https://api.ppv.to/assets/thumb/f30797f5aaef342277c2aa8f2f062ae5-thumbnail.jpg" group-title="🏈 NFL",New York Jets vs. New Orleans Saints
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/neworleanssaints/index.m3u8
+https://gg.poocloud.in/neworleanssaints/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15081" tvg-name="Minnesota Vikings vs. New York Giants" tvg-logo="https://api.ppv.to/assets/thumb/fbd95960958ce6620baacdf436e1997a-thumbnail.jpg" group-title="🏈 NFL",Minnesota Vikings vs. New York Giants
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -33,12 +38,17 @@ https://gg.poocloud.in/ashes/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15133" tvg-name="Paris Saint-Germain vs. CR Flamengo" tvg-logo="https://api.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" group-title="PARIS SAINT GERMAIN VS. CR FLAMENGO",Paris Saint-Germain vs. CR Flamengo
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/fifaplus/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/fifaplus/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15091" tvg-name="Manchester City vs. Brentford" tvg-logo="https://api.ppv.to/assets/thumb/182401495b0d7e0d91789945291f8e0f-thumbnail.jpg" group-title="EFLCUP",Manchester City vs. Brentford
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/efl_mnc/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15131" tvg-name="Talavera vs. Real Madrid" tvg-logo="https://api.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg" group-title="COPA DEL REY",Talavera vs. Real Madrid
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -78,7 +88,7 @@ https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/familyguy/index.m3u8
+https://gg.poocloud.in/familyguy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-5191" tvg-name="24/7 The Simpsons" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
