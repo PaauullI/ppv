@@ -81,15 +81,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15053">
-    <display-name>AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <programme start="20251218010000 +0000" stop="20251218040000 +0000" channel="ppv-15053">
-    <title lang="en">AEW: Wednesday Night Dynamite</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15054">
     <display-name>TNA: Impact</display-name>
   </channel>
