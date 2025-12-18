@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15064">
-    <display-name>Los Angeles Rams vs. Seattle Seahawks</display-name>
-  </channel>
-  <programme start="20251219011500 +0000" stop="20251219044500 +0000" channel="ppv-15064">
-    <title lang="en">Los Angeles Rams vs. Seattle Seahawks</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8cba672a633c05c2058d1dd5187ac272-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15070">
-    <display-name>Green Bay Packers vs. Chicago Bears</display-name>
-  </channel>
-  <programme start="20251221012000 +0000" stop="20251221045000 +0000" channel="ppv-15070">
-    <title lang="en">Green Bay Packers vs. Chicago Bears</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15080">
     <display-name>New York Jets vs. New Orleans Saints</display-name>
   </channel>
@@ -54,24 +36,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15123">
-    <display-name>Cleveland Cavaliers vs. Chicago Bulls</display-name>
-  </channel>
-  <programme start="20251218010000 +0000" stop="20251218034800 +0000" channel="ppv-15123">
-    <title lang="en">Cleveland Cavaliers vs. Chicago Bulls</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/13c690ab603a7217b3e81cb4ba6ac4d9-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15126">
-    <display-name>Memphis Grizzlies vs. Minnesota Timberwolves</display-name>
-  </channel>
-  <programme start="20251218010000 +0000" stop="20251218034800 +0000" channel="ppv-15126">
-    <title lang="en">Memphis Grizzlies vs. Minnesota Timberwolves</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/6249196c6656611a63c539ab5ef1c976-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England (TNT Broadcast)</display-name>
   </channel>
@@ -99,24 +63,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15127">
-    <display-name>Winnipeg Jets vs. St. Louis Blues</display-name>
-  </channel>
-  <programme start="20251218010000 +0000" stop="20251218040000 +0000" channel="ppv-15127">
-    <title lang="en">Winnipeg Jets vs. St. Louis Blues</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/caea7cccd52bea425b9f025834744975-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15128">
-    <display-name>Carolina Hurricanes vs. Nashville Predators</display-name>
-  </channel>
-  <programme start="20251218010000 +0000" stop="20251218040000 +0000" channel="ppv-15128">
-    <title lang="en">Carolina Hurricanes vs. Nashville Predators</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/df6d1c1b076c39eb3f5c7252c7998352-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15129">
     <display-name>New Jersey Devils vs. Vegas Golden Knights</display-name>
   </channel>
@@ -125,15 +71,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/9a2835de0f127282ab2407a9d44721b2-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15053">
-    <display-name>AEW: Wednesday Night Dynamite</display-name>
-  </channel>
-  <programme start="20251218010000 +0000" stop="20251218040000 +0000" channel="ppv-15053">
-    <title lang="en">AEW: Wednesday Night Dynamite</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15054">
     <display-name>TNA: Impact</display-name>
