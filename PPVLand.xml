@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15064">
-    <display-name>Los Angeles Rams vs. Seattle Seahawks</display-name>
-  </channel>
-  <programme start="20251219011500 +0000" stop="20251219044500 +0000" channel="ppv-15064">
-    <title lang="en">Los Angeles Rams vs. Seattle Seahawks</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8cba672a633c05c2058d1dd5187ac272-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15070">
     <display-name>Green Bay Packers vs. Chicago Bears</display-name>
   </channel>
@@ -54,6 +45,24 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15121">
+    <display-name>Australia vs. England (TNT Broadcast)</display-name>
+  </channel>
+  <programme start="20251218233000 +0000" stop="20251219073000 +0000" channel="ppv-15121">
+    <title lang="en">Australia vs. England (TNT Broadcast)</title>
+    <sub-title>Cricket</sub-title>
+    <category>Cricket</category>
+    <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15135">
+    <display-name>Australia vs. England (FOX Broadcast)</display-name>
+  </channel>
+  <programme start="20251218233000 +0000" stop="20251219073000 +0000" channel="ppv-15135">
+    <title lang="en">Australia vs. England (FOX Broadcast)</title>
+    <sub-title>Cricket</sub-title>
+    <category>Cricket</category>
+    <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -63,14 +72,167 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15156">
-    <display-name>New York Rangers vs. St. Louis Blues</display-name>
+  <channel id="ppv-15093">
+    <display-name>AZ Alkmaar vs. Jagiellonia</display-name>
   </channel>
-  <programme start="20251219010000 +0000" stop="20251219040000 +0000" channel="ppv-15156">
-    <title lang="en">New York Rangers vs. St. Louis Blues</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/ceb51466a677652e826408bd7f456c54-thumbnail.jpg" />
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15093">
+    <title lang="en">AZ Alkmaar vs. Jagiellonia</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/8fdbdc145fa85aa3e681bd115970a5a5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15094">
+    <display-name>Shakhtar vs. Rijeka</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15094">
+    <title lang="en">Shakhtar vs. Rijeka</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/faf12472182c6a852993d563ab4298ef-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15095">
+    <display-name>S. Bratislava vs. Häcken</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15095">
+    <title lang="en">S. Bratislava vs. Häcken</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/cdb0cbd21c3a8d58e41b4b5eb93ef55a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15096">
+    <display-name>Legia Warszawa vs. L. Red Imps</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15096">
+    <title lang="en">Legia Warszawa vs. L. Red Imps</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/b28ef5a53dd7c771624c93b99314eee7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15097">
+    <display-name>Sparta Praha vs. Aberdeen</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15097">
+    <title lang="en">Sparta Praha vs. Aberdeen</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/f62ef976c1d72ae0e52f6e76e3c22bef-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15098">
+    <display-name>Dynamo Kyiv vs. Noah</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15098">
+    <title lang="en">Dynamo Kyiv vs. Noah</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/ea08c94d03e8d53a08ac61d67cf2e68f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15099">
+    <display-name>Crystal Palace vs. KuPS Kuopio</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15099">
+    <title lang="en">Crystal Palace vs. KuPS Kuopio</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/5038ee74bf371c32ada8657dab4b02de-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15100">
+    <display-name>Rayo Vallecano vs. Drita</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15100">
+    <title lang="en">Rayo Vallecano vs. Drita</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d13bd382d66739da2d3d0dd18c059f34-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15101">
+    <display-name>Shamrock Rovers vs. Hamrun Spartans </display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15101">
+    <title lang="en">Shamrock Rovers vs. Hamrun Spartans </title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/905affcfcd913f6a6791963ae4f6bf9a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15102">
+    <display-name>Omonoia vs. Raków</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15102">
+    <title lang="en">Omonoia vs. Raków</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/684b2510e52e0303703a98b764c8f560-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15103">
+    <display-name>Mainz vs. Samsunspor</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15103">
+    <title lang="en">Mainz vs. Samsunspor</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/7edeebf39ffaf4663b49ca9f82cceb2e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15104">
+    <display-name>Strasbourg vs. Breiðablik</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15104">
+    <title lang="en">Strasbourg vs. Breiðablik</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/6acceae992e64297e454d2f469a4a727-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15105">
+    <display-name>Celje vs. Shelbourne</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15105">
+    <title lang="en">Celje vs. Shelbourne</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/898aab6084f9fd35fb77e406a4ac9ee6-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15106">
+    <display-name>Zrinjski vs. SK Rapid</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15106">
+    <title lang="en">Zrinjski vs. SK Rapid</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/923c69429c677116f6a05c8e58a5e1c2-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15107">
+    <display-name>AEK Athens vs. U. Craiova</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15107">
+    <title lang="en">AEK Athens vs. U. Craiova</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/2c7d2c6ecd0862b3cb395d91bb7ff30e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15108">
+    <display-name>Sigma Olomouc vs. Lech Poznań</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15108">
+    <title lang="en">Sigma Olomouc vs. Lech Poznań</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/59be9532da689a9de97610d9e3b3910b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15109">
+    <display-name>AEK Larnaca vs. Shkëndija</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15109">
+    <title lang="en">AEK Larnaca vs. Shkëndija</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/29a3bd78309dbcfbd52b6aa02d812211-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15110">
+    <display-name>Lausanne-Sport vs. Fiorentina</display-name>
+  </channel>
+  <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="ppv-15110">
+    <title lang="en">Lausanne-Sport vs. Fiorentina</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/b3edbad6e5547db99c6054a440ad1bd1-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15054">
     <display-name>TNA: Impact</display-name>
