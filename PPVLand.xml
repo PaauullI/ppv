@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15070">
-    <display-name>Green Bay Packers vs. Chicago Bears</display-name>
-  </channel>
-  <programme start="20251221012000 +0000" stop="20251221045000 +0000" channel="ppv-15070">
-    <title lang="en">Green Bay Packers vs. Chicago Bears</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15080">
     <display-name>New York Jets vs. New Orleans Saints</display-name>
   </channel>

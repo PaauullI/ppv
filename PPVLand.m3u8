@@ -1,19 +1,14 @@
 #EXTM3U url-tvg="PPVLand.xml"
-#EXTINF:-1 tvg-id="ppv-15070" tvg-name="Green Bay Packers vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" group-title="🏈 NFL",Green Bay Packers vs. Chicago Bears
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15080" tvg-name="New York Jets vs. New Orleans Saints" tvg-logo="https://api.ppv.to/assets/thumb/f30797f5aaef342277c2aa8f2f062ae5-thumbnail.jpg" group-title="🏈 NFL",New York Jets vs. New Orleans Saints
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/neworleanssaints/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/neworleanssaints/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15081" tvg-name="Minnesota Vikings vs. New York Giants" tvg-logo="https://api.ppv.to/assets/thumb/fbd95960958ce6620baacdf436e1997a-thumbnail.jpg" group-title="🏈 NFL",Minnesota Vikings vs. New York Giants
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/newyorkgiants/index.m3u8
+https://gg.poocloud.in/newyorkgiants/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15083" tvg-name="Jacksonville Jaguars vs. Denver Broncos" tvg-logo="https://api.ppv.to/assets/thumb/bba0afadffddc0def3cfbe54fa09e5f1-thumbnail.jpg" group-title="🏈 NFL",Jacksonville Jaguars vs. Denver Broncos
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -23,12 +18,12 @@ https://gg.poocloud.in/denverbroncos/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/houstontexans/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/houstontexans/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15121" tvg-name="Australia vs. England (TNT Broadcast)" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="🏏 Cricket",Australia vs. England (TNT Broadcast)
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ashes/index.m3u8
+https://gg.poocloud.in/ashes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15135" tvg-name="Australia vs. England (FOX Broadcast)" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="🏏 Cricket",Australia vs. England (FOX Broadcast)
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -38,7 +33,7 @@ https://gg.poocloud.in/ashes_fox/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/darts/index.m3u8
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15093" tvg-name="AZ Alkmaar vs. Jagiellonia" tvg-logo="https://api.ppv.to/assets/thumb/8fdbdc145fa85aa3e681bd115970a5a5-thumbnail.jpg" group-title="UECL",AZ Alkmaar vs. Jagiellonia
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -58,7 +53,7 @@ https://gg.poocloud.in/uecl_slb/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/uecl_leg/index.m3u8
+https://gg.poocloud.in/uecl_leg/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15097" tvg-name="Sparta Praha vs. Aberdeen" tvg-logo="https://api.ppv.to/assets/thumb/f62ef976c1d72ae0e52f6e76e3c22bef-thumbnail.jpg" group-title="UECL",Sparta Praha vs. Aberdeen
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -68,7 +63,7 @@ https://gg.poocloud.in/uecl_spa/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/uecl_dky/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/uecl_dky/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15099" tvg-name="Crystal Palace vs. KuPS Kuopio" tvg-logo="https://api.ppv.to/assets/thumb/5038ee74bf371c32ada8657dab4b02de-thumbnail.jpg" group-title="UECL",Crystal Palace vs. KuPS Kuopio
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -88,7 +83,7 @@ https://gg.poocloud.in/uecl_shr/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/uecl_omo/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/uecl_omo/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15103" tvg-name="Mainz vs. Samsunspor" tvg-logo="https://api.ppv.to/assets/thumb/7edeebf39ffaf4663b49ca9f82cceb2e-thumbnail.jpg" group-title="UECL",Mainz vs. Samsunspor
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -103,7 +98,7 @@ https://gg.poocloud.in/uecl_rcs/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/uecl_clj/index.m3u8
+https://gg.poocloud.in/uecl_clj/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15106" tvg-name="Zrinjski vs. SK Rapid" tvg-logo="https://api.ppv.to/assets/thumb/923c69429c677116f6a05c8e58a5e1c2-thumbnail.jpg" group-title="UECL",Zrinjski vs. SK Rapid
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -118,7 +113,7 @@ https://gg.poocloud.in/uecl_aek/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/uecl_sig/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/uecl_sig/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15109" tvg-name="AEK Larnaca vs. Shkëndija" tvg-logo="https://api.ppv.to/assets/thumb/29a3bd78309dbcfbd52b6aa02d812211-thumbnail.jpg" group-title="UECL",AEK Larnaca vs. Shkëndija
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -128,22 +123,22 @@ https://gg.poocloud.in/uecl_ala/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/uecl_lau/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/uecl_lau/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15054" tvg-name="TNA: Impact" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15055" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="🤼 WWE",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15056" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="🤼 AEW",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-5112" tvg-name="24/7 South Park" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -153,7 +148,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/cows/index.m3u8
 #EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family Guy
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -163,4 +158,4 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/thesimpsons/index.m3u8
+https://gg.poocloud.in/thesimpsons/tracks-v1a1/mono.ts.m3u8
