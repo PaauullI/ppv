@@ -135,6 +135,15 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/df6d1c1b076c39eb3f5c7252c7998352-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15129">
+    <display-name>New Jersey Devils vs. Vegas Golden Knights</display-name>
+  </channel>
+  <programme start="20251218030000 +0000" stop="20251218060000 +0000" channel="ppv-15129">
+    <title lang="en">New Jersey Devils vs. Vegas Golden Knights</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/9a2835de0f127282ab2407a9d44721b2-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15053">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
   </channel>
