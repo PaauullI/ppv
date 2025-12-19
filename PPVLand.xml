@@ -63,6 +63,15 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15177">
+    <display-name>Bologna vs. Inter Milan</display-name>
+  </channel>
+  <programme start="20251219190000 +0000" stop="20251219213000 +0000" channel="ppv-15177">
+    <title lang="en">Bologna vs. Inter Milan</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/771efdebf8fc8fc56821804bbdc7d068-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15014">
     <display-name>Borussia Dortmund vs. Borussia Mönchengladbach</display-name>
   </channel>
