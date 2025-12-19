@@ -63,6 +63,18 @@
     <category>Wrestling</category>
     <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15056">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20251221010000 +0000" stop="20251221040000 +0000" channel="ppv-15056">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-5112">
+    <display-name>24/7 South Park</display-name>
+  </channel>
   <channel id="ppv-3663">
     <display-name>24/7 COWS</display-name>
   </channel>
