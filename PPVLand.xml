@@ -153,6 +153,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/6cc6309e23896b980ee980e14d62541c-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15158">
+    <display-name>Sacramento Kings vs. Portland Trail Blazers</display-name>
+  </channel>
+  <programme start="20251219030000 +0000" stop="20251219054800 +0000" channel="ppv-15158">
+    <title lang="en">Sacramento Kings vs. Portland Trail Blazers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/aa724e7f3c9bf411377b247f8aea2b7e-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England (TNT Broadcast)</display-name>
   </channel>
@@ -251,6 +260,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/ceb51466a677652e826408bd7f456c54-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15159">
+    <display-name>Seattle Kraken vs. Calgary Flames</display-name>
+  </channel>
+  <programme start="20251219020000 +0000" stop="20251219050000 +0000" channel="ppv-15159">
+    <title lang="en">Seattle Kraken vs. Calgary Flames</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/ef26fba347e1fb254c2eb6151a3121b9-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15054">
     <display-name>TNA: Impact</display-name>
