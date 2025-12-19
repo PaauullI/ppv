@@ -63,6 +63,33 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15167">
+    <display-name>Miami Heat vs. Boston Celtics</display-name>
+  </channel>
+  <programme start="20251220000000 +0000" stop="20251220024800 +0000" channel="ppv-15167">
+    <title lang="en">Miami Heat vs. Boston Celtics</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/819f5d3850abc87584298f0983b27bfe-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15171">
+    <display-name>San Antonio Spurs vs. Atlanta Hawks</display-name>
+  </channel>
+  <programme start="20251220003000 +0000" stop="20251220031800 +0000" channel="ppv-15171">
+    <title lang="en">San Antonio Spurs vs. Atlanta Hawks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/0d8edf0c73542a0499b4654c971bb359-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15173">
+    <display-name>Chicago Bulls vs. Cleveland Cavaliers</display-name>
+  </channel>
+  <programme start="20251220003000 +0000" stop="20251220031800 +0000" channel="ppv-15173">
+    <title lang="en">Chicago Bulls vs. Cleveland Cavaliers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/12aa936c9a83d466889dc47eb49f3ceb-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England</display-name>
   </channel>
@@ -80,15 +107,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15004">
-    <display-name>Valencia vs. Mallorca</display-name>
-  </channel>
-  <programme start="20251219200000 +0000" stop="20251219223000 +0000" channel="ppv-15004">
-    <title lang="en">Valencia vs. Mallorca</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/7c30255a57262862b6f9b32ee7054f78-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15055">
     <display-name>WWE: Friday Night Smackdown</display-name>
