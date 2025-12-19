@@ -45,15 +45,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15158">
-    <display-name>Sacramento Kings vs. Portland Trail Blazers</display-name>
-  </channel>
-  <programme start="20251219030000 +0000" stop="20251219054800 +0000" channel="ppv-15158">
-    <title lang="en">Sacramento Kings vs. Portland Trail Blazers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/aa724e7f3c9bf411377b247f8aea2b7e-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England (TNT Broadcast)</display-name>
   </channel>
@@ -80,15 +71,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15160">
-    <display-name>Dallas Stars vs. San Jose Sharks</display-name>
-  </channel>
-  <programme start="20251219030000 +0000" stop="20251219060000 +0000" channel="ppv-15160">
-    <title lang="en">Dallas Stars vs. San Jose Sharks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/84d6d2c26695a94d1268555847f1b931-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15055">
     <display-name>WWE: Friday Night Smackdown</display-name>
