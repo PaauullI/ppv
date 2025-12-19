@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15064">
-    <display-name>Los Angeles Rams vs. Seattle Seahawks</display-name>
-  </channel>
-  <programme start="20251219011500 +0000" stop="20251219044500 +0000" channel="ppv-15064">
-    <title lang="en">Los Angeles Rams vs. Seattle Seahawks</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8cba672a633c05c2058d1dd5187ac272-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15070">
     <display-name>Green Bay Packers vs. Chicago Bears</display-name>
   </channel>
@@ -54,42 +45,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15150">
-    <display-name>Detroit Pistons vs. Dallas Mavericks</display-name>
-  </channel>
-  <programme start="20251219013000 +0000" stop="20251219041800 +0000" channel="ppv-15150">
-    <title lang="en">Detroit Pistons vs. Dallas Mavericks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/5912fde332c1e4bc50624a0cc89616c1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15152">
-    <display-name>Orlando Magic vs. Denver Nuggets</display-name>
-  </channel>
-  <programme start="20251219020000 +0000" stop="20251219044800 +0000" channel="ppv-15152">
-    <title lang="en">Orlando Magic vs. Denver Nuggets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/12f957a7e8c4976e02e8571da40e79f8-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15153">
-    <display-name>Golden State Warriors vs. Phoenix Suns</display-name>
-  </channel>
-  <programme start="20251219020000 +0000" stop="20251219044800 +0000" channel="ppv-15153">
-    <title lang="en">Golden State Warriors vs. Phoenix Suns</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/e78a044115f6431dda38f4c790f26c7e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15155">
-    <display-name>Los Angeles Lakers vs. Utah Jazz</display-name>
-  </channel>
-  <programme start="20251219020000 +0000" stop="20251219044800 +0000" channel="ppv-15155">
-    <title lang="en">Los Angeles Lakers vs. Utah Jazz</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/6cc6309e23896b980ee980e14d62541c-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15158">
     <display-name>Sacramento Kings vs. Portland Trail Blazers</display-name>
   </channel>
@@ -125,15 +80,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15159">
-    <display-name>Seattle Kraken vs. Calgary Flames</display-name>
-  </channel>
-  <programme start="20251219020000 +0000" stop="20251219050000 +0000" channel="ppv-15159">
-    <title lang="en">Seattle Kraken vs. Calgary Flames</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/ef26fba347e1fb254c2eb6151a3121b9-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15160">
     <display-name>Dallas Stars vs. San Jose Sharks</display-name>
