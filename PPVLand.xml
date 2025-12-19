@@ -45,24 +45,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15121">
-    <display-name>Australia vs. England (TNT Broadcast)</display-name>
-  </channel>
-  <programme start="20251218233000 +0000" stop="20251219073000 +0000" channel="ppv-15121">
-    <title lang="en">Australia vs. England (TNT Broadcast)</title>
-    <sub-title>Cricket</sub-title>
-    <category>Cricket</category>
-    <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15135">
-    <display-name>Australia vs. England (FOX Broadcast)</display-name>
-  </channel>
-  <programme start="20251218233000 +0000" stop="20251219073000 +0000" channel="ppv-15135">
-    <title lang="en">Australia vs. England (FOX Broadcast)</title>
-    <sub-title>Cricket</sub-title>
-    <category>Cricket</category>
-    <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
