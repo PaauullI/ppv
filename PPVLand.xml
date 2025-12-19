@@ -54,42 +54,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15142">
-    <display-name>LA Clippers vs. Oklahoma City Thunder</display-name>
-  </channel>
-  <programme start="20251219010000 +0000" stop="20251219034800 +0000" channel="ppv-15142">
-    <title lang="en">LA Clippers vs. Oklahoma City Thunder</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/e0c42bc02bf4c49b9fd411404aa2b5c6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15143">
-    <display-name>Washington Wizards vs. San Antonio Spurs</display-name>
-  </channel>
-  <programme start="20251219010000 +0000" stop="20251219034800 +0000" channel="ppv-15143">
-    <title lang="en">Washington Wizards vs. San Antonio Spurs</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/d2bf2b09355189431d665a84ced127c2-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15144">
-    <display-name>Toronto Raptors vs. Milwaukee Bucks</display-name>
-  </channel>
-  <programme start="20251219010000 +0000" stop="20251219034800 +0000" channel="ppv-15144">
-    <title lang="en">Toronto Raptors vs. Milwaukee Bucks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/23394c0274f259177751e7b1bc1dd1da-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15148">
-    <display-name>Houston Rockets vs. New Orleans Pelicans</display-name>
-  </channel>
-  <programme start="20251219010000 +0000" stop="20251219034800 +0000" channel="ppv-15148">
-    <title lang="en">Houston Rockets vs. New Orleans Pelicans</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/d554fcfd3085749912a3e63c969bed1b-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15150">
     <display-name>Detroit Pistons vs. Dallas Mavericks</display-name>
   </channel>
@@ -162,15 +126,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15156">
-    <display-name>New York Rangers vs. St. Louis Blues</display-name>
-  </channel>
-  <programme start="20251219010000 +0000" stop="20251219040000 +0000" channel="ppv-15156">
-    <title lang="en">New York Rangers vs. St. Louis Blues</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/ceb51466a677652e826408bd7f456c54-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15159">
     <display-name>Seattle Kraken vs. Calgary Flames</display-name>
   </channel>
@@ -188,15 +143,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/84d6d2c26695a94d1268555847f1b931-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15054">
-    <display-name>TNA: Impact</display-name>
-  </channel>
-  <programme start="20251219010000 +0000" stop="20251219040000 +0000" channel="ppv-15054">
-    <title lang="en">TNA: Impact</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15055">
     <display-name>WWE: Friday Night Smackdown</display-name>
