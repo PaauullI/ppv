@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-15163">
+    <display-name>#9 Alabama vs. #8 Oklahoma (First Round)</display-name>
+  </channel>
+  <programme start="20251220010000 +0000" stop="20251220050000 +0000" channel="ppv-15163">
+    <title lang="en">#9 Alabama vs. #8 Oklahoma (First Round)</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d1f77dfedc380287f45d295feb0887ae-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15164">
+    <display-name>#10 Miami vs. #7 Texas A&amp;M (First Round)</display-name>
+  </channel>
+  <programme start="20251220170000 +0000" stop="20251220210000 +0000" channel="ppv-15164">
+    <title lang="en">#10 Miami vs. #7 Texas A&amp;M (First Round)</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/c1082a8f004e08b337a68226f54c9a4e-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15070">
     <display-name>Green Bay Packers vs. Chicago Bears</display-name>
   </channel>
@@ -62,24 +80,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15177">
-    <display-name>Bologna vs. Inter Milan</display-name>
-  </channel>
-  <programme start="20251219190000 +0000" stop="20251219213000 +0000" channel="ppv-15177">
-    <title lang="en">Bologna vs. Inter Milan</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/771efdebf8fc8fc56821804bbdc7d068-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15014">
-    <display-name>Borussia Dortmund vs. Borussia Mönchengladbach</display-name>
-  </channel>
-  <programme start="20251219193000 +0000" stop="20251219220000 +0000" channel="ppv-15014">
-    <title lang="en">Borussia Dortmund vs. Borussia Mönchengladbach</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/55dd26f95ebc5860ec9d446e4941e93e-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15004">
     <display-name>Valencia vs. Mallorca</display-name>
