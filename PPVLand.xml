@@ -46,19 +46,10 @@
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15121">
-    <display-name>Australia vs. England (TNT Broadcast)</display-name>
+    <display-name>Australia vs. England</display-name>
   </channel>
   <programme start="20251219233000 +0000" stop="20251220073000 +0000" channel="ppv-15121">
-    <title lang="en">Australia vs. England (TNT Broadcast)</title>
-    <sub-title>Cricket</sub-title>
-    <category>Cricket</category>
-    <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15135">
-    <display-name>Australia vs. England (FOX Broadcast)</display-name>
-  </channel>
-  <programme start="20251219233000 +0000" stop="20251220073000 +0000" channel="ppv-15135">
-    <title lang="en">Australia vs. England (FOX Broadcast)</title>
+    <title lang="en">Australia vs. England</title>
     <sub-title>Cricket</sub-title>
     <category>Cricket</category>
     <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
@@ -119,6 +110,15 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
