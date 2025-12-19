@@ -270,6 +270,15 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/ef26fba347e1fb254c2eb6151a3121b9-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15160">
+    <display-name>Dallas Stars vs. San Jose Sharks</display-name>
+  </channel>
+  <programme start="20251219030000 +0000" stop="20251219060000 +0000" channel="ppv-15160">
+    <title lang="en">Dallas Stars vs. San Jose Sharks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/84d6d2c26695a94d1268555847f1b931-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15054">
     <display-name>TNA: Impact</display-name>
   </channel>
@@ -317,14 +326,5 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
-  </programme>
-  <channel id="ppv-5191">
-    <display-name>24/7 The Simpsons</display-name>
-  </channel>
-  <programme start="20250118102800 +0000" stop="20250118102800 +0000" channel="ppv-5191">
-    <title lang="en">24/7 The Simpsons</title>
-    <sub-title>24/7 Streams</sub-title>
-    <category>24/7 Streams</category>
-    <icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
   </programme>
 </tv>
