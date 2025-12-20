@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-15121">
+    <display-name>Australia vs. England</display-name>
+  </channel>
+  <programme start="20251220233000 +0000" stop="20251221073000 +0000" channel="ppv-15121">
+    <title lang="en">Australia vs. England</title>
+    <sub-title>Cricket</sub-title>
+    <category>Cricket</category>
+    <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
