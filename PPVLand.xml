@@ -108,6 +108,15 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/b57b7020dc462e466261c7bd405b1853-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15187">
+    <display-name>New York Islanders vs. Buffalo Sabres</display-name>
+  </channel>
+  <programme start="20251220220000 +0000" stop="20251221010000 +0000" channel="ppv-15187">
+    <title lang="en">New York Islanders vs. Buffalo Sabres</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/b89a2f2245d5d0c00261ce6c139b33da-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
