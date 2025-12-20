@@ -54,42 +54,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15034">
-    <display-name>Lazio vs. Cremonese</display-name>
-  </channel>
-  <programme start="20251220170000 +0000" stop="20251220193000 +0000" channel="ppv-15034">
-    <title lang="en">Lazio vs. Cremonese</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/4178f22a2e6b41449b3cf3926d155219-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15007">
-    <display-name>Osasuna vs. Alavés</display-name>
-  </channel>
-  <programme start="20251220173000 +0000" stop="20251220200000 +0000" channel="ppv-15007">
-    <title lang="en">Osasuna vs. Alavés</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/17e80438cac0daf8e7dac6d2117bc09b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15020">
-    <display-name>RB Leipzig vs. Bayer Leverkusen</display-name>
-  </channel>
-  <programme start="20251220173000 +0000" stop="20251220200000 +0000" channel="ppv-15020">
-    <title lang="en">RB Leipzig vs. Bayer Leverkusen</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/3e0830f8cca290f7dffa0e4ed84a66da-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15028">
-    <display-name>Tottenham Hotspur vs. Liverpool</display-name>
-  </channel>
-  <programme start="20251220173000 +0000" stop="20251220200000 +0000" channel="ppv-15028">
-    <title lang="en">Tottenham Hotspur vs. Liverpool</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c63b8a1c50e0c387356e092447ce2512-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15035">
     <display-name>Juventus vs. AS Roma</display-name>
   </channel>
@@ -143,6 +107,33 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/4ccddc7a435c75214832abe07ef44585-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15183">
+    <display-name>Chicago Blackhawks vs. Ottawa Senators</display-name>
+  </channel>
+  <programme start="20251220200000 +0000" stop="20251220230000 +0000" channel="ppv-15183">
+    <title lang="en">Chicago Blackhawks vs. Ottawa Senators</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/2f375d2dba2fdf6ff1d20090f50b6c72-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15185">
+    <display-name>Edmonton Oilers vs. Minnesota Wild</display-name>
+  </channel>
+  <programme start="20251220200000 +0000" stop="20251220230000 +0000" channel="ppv-15185">
+    <title lang="en">Edmonton Oilers vs. Minnesota Wild</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/b57b7020dc462e466261c7bd405b1853-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15056">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20251220193000 +0000" stop="20251220223000 +0000" channel="ppv-15056">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
