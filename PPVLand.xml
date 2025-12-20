@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15164">
-    <display-name>#10 Miami vs. #7 Texas A&amp;M (First Round)</display-name>
-  </channel>
-  <programme start="20251220170000 +0000" stop="20251220210000 +0000" channel="ppv-15164">
-    <title lang="en">#10 Miami vs. #7 Texas A&amp;M (First Round)</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c1082a8f004e08b337a68226f54c9a4e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15175">
-    <display-name>Oklahoma City Thunder vs. Minnesota Timberwolves</display-name>
-  </channel>
-  <programme start="20251220023000 +0000" stop="20251220051800 +0000" channel="ppv-15175">
-    <title lang="en">Oklahoma City Thunder vs. Minnesota Timberwolves</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/40e425714146fd351052776452dc9529-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15134">
-    <display-name>Jake Paul vs. Anthony Joshua</display-name>
-  </channel>
-  <programme start="20251220010000 +0000" stop="20251220090000 +0000" channel="ppv-15134">
-    <title lang="en">Jake Paul vs. Anthony Joshua</title>
-    <sub-title>Combat Sports</sub-title>
-    <category>Combat Sports</category>
-    <icon src="https://api.ppv.to/assets/thumb/9376dff85428503c7faf38ab4462cc0d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England</display-name>
   </channel>
@@ -44,15 +17,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15176">
-    <display-name>Dallas Stars vs. Anaheim Ducks</display-name>
-  </channel>
-  <programme start="20251220030000 +0000" stop="20251220060000 +0000" channel="ppv-15176">
-    <title lang="en">Dallas Stars vs. Anaheim Ducks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/ca770c1ae0d8394de0da9335dbbf3c4a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15201">
     <display-name>Columbus Blue Jackets vs. Anaheim Ducks</display-name>
