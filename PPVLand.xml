@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-15074">
+    <display-name>Los Angeles Chargers vs. Dallas Cowboys</display-name>
+  </channel>
+  <programme start="20251221180000 +0000" stop="20251221213000 +0000" channel="ppv-15074">
+    <title lang="en">Los Angeles Chargers vs. Dallas Cowboys</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/fb8711c589b503ad2c7d1790e1b177e9-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England</display-name>
   </channel>
@@ -90,6 +99,33 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/9b4e438cc630c4a095b0661472e744e7-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-5193">
+    <display-name>Goal Rush</display-name>
+  </channel>
+  <programme start="20251220150000 +0000" stop="20251220173000 +0000" channel="ppv-5193">
+    <title lang="en">Goal Rush</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15024">
+    <display-name>AFC Bournemouth vs. Burnley</display-name>
+  </channel>
+  <programme start="20251220150000 +0000" stop="20251220173000 +0000" channel="ppv-15024">
+    <title lang="en">AFC Bournemouth vs. Burnley</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/a5eafff2a1ff9627bec7c7102ecadf1f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15025">
+    <display-name>Brighton &amp; Hove Albion vs. Sunderland</display-name>
+  </channel>
+  <programme start="20251220150000 +0000" stop="20251220173000 +0000" channel="ppv-15025">
+    <title lang="en">Brighton &amp; Hove Albion vs. Sunderland</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/015abd68292fc4e3035afb1d86e3afed-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15026">
     <display-name>Manchester City vs. West Ham United</display-name>
   </channel>
@@ -98,6 +134,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/251560d22153fa246dff41014086c819-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15027">
+    <display-name>Wolverhampton Wanderers vs. Brentford</display-name>
+  </channel>
+  <programme start="20251220150000 +0000" stop="20251220173000 +0000" channel="ppv-15027">
+    <title lang="en">Wolverhampton Wanderers vs. Brentford</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/62f7eb500bc9a55c69fc57b1074a442a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15006">
     <display-name>Levante vs. Real Sociedad</display-name>
