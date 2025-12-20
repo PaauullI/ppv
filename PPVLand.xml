@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15121">
-    <display-name>Australia vs. England</display-name>
+  <channel id="ppv-14899">
+    <display-name>World Darts Championship</display-name>
   </channel>
-  <programme start="20251219233000 +0000" stop="20251220073000 +0000" channel="ppv-15121">
-    <title lang="en">Australia vs. England</title>
-    <sub-title>Cricket</sub-title>
-    <category>Cricket</category>
-    <icon src="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15201">
-    <display-name>Columbus Blue Jackets vs. Anaheim Ducks</display-name>
-  </channel>
-  <programme start="20251221030000 +0000" stop="20251221060000 +0000" channel="ppv-15201">
-    <title lang="en">Columbus Blue Jackets vs. Anaheim Ducks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/fd2b0150fda51d7e5f284a3bca10898a-thumbnail.jpg" />
+  <programme start="20251220123000 +0000" stop="20251220233000 +0000" channel="ppv-14899">
+    <title lang="en">World Darts Championship</title>
+    <sub-title>Darts</sub-title>
+    <category>Darts</category>
+    <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15056">
     <display-name>AEW: Saturday Night Collision</display-name>
