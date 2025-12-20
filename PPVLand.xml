@@ -106,7 +106,7 @@
     <title lang="en">Jake Paul vs. Anthony Joshua</title>
     <sub-title>Combat Sports</sub-title>
     <category>Combat Sports</category>
-    <icon src="https://api.ppv.to/assets/thumb/77b3f7f092ac58125a60487f5073de40-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/9376dff85428503c7faf38ab4462cc0d-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England</display-name>
@@ -143,6 +143,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/fb1baac888571a9872166aa85f7fe4da-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15172">
+    <display-name>Winnipeg Jets vs. Colorado Avalanche</display-name>
+  </channel>
+  <programme start="20251220020000 +0000" stop="20251220050000 +0000" channel="ppv-15172">
+    <title lang="en">Winnipeg Jets vs. Colorado Avalanche</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/978a7b98f2eb709cbb74b08cb0793070-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15174">
+    <display-name>New Jersey Devils vs. Utah Mammoth</display-name>
+  </channel>
+  <programme start="20251220020000 +0000" stop="20251220050000 +0000" channel="ppv-15174">
+    <title lang="en">New Jersey Devils vs. Utah Mammoth</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/6d11e75cb5ae2cf8c1faac2540c00256-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15055">
     <display-name>WWE: Friday Night Smackdown</display-name>
