@@ -90,6 +90,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/c63b8a1c50e0c387356e092447ce2512-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15035">
+    <display-name>Juventus vs. AS Roma</display-name>
+  </channel>
+  <programme start="20251220194500 +0000" stop="20251220221500 +0000" channel="ppv-15035">
+    <title lang="en">Juventus vs. AS Roma</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/a2f760feac244fca2ee1e86241819cbc-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15008">
     <display-name>Real Madrid vs. Sevilla</display-name>
   </channel>
@@ -98,6 +107,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/0022e6467a0f67267b05ea3d113a1dbd-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15029">
+    <display-name>Everton vs. Arsenal</display-name>
+  </channel>
+  <programme start="20251220200000 +0000" stop="20251220223000 +0000" channel="ppv-15029">
+    <title lang="en">Everton vs. Arsenal</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/a8810d32c32583b47749b01f80ee0c39-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15030">
     <display-name>Leeds United vs. Crystal Palace</display-name>
