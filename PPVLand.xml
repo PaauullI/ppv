@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15164">
-    <display-name>#10 Miami vs. #7 Texas A&amp;M (First Round)</display-name>
+  <channel id="ppv-15165">
+    <display-name>#11 Tulane vs. #6 Ole Miss (First Round)</display-name>
   </channel>
-  <programme start="20251220170000 +0000" stop="20251220210000 +0000" channel="ppv-15164">
-    <title lang="en">#10 Miami vs. #7 Texas A&amp;M (First Round)</title>
+  <programme start="20251220203000 +0000" stop="20251221003000 +0000" channel="ppv-15165">
+    <title lang="en">#11 Tulane vs. #6 Ole Miss (First Round)</title>
     <sub-title>American Football</sub-title>
     <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c1082a8f004e08b337a68226f54c9a4e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15066">
-    <display-name>Philadelphia Eagles vs. Washington Commanders</display-name>
-  </channel>
-  <programme start="20251220220000 +0000" stop="20251221013000 +0000" channel="ppv-15066">
-    <title lang="en">Philadelphia Eagles vs. Washington Commanders</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/27102a3353cda6be24a8a237c866a29d-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/7201fd10de0cbf3ff13e6543cf0d8ae5-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15070">
     <display-name>Green Bay Packers vs. Chicago Bears</display-name>
@@ -26,6 +17,15 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15179">
+    <display-name>Houston Rockets vs. Denver Nuggets</display-name>
+  </channel>
+  <programme start="20251220220000 +0000" stop="20251221004800 +0000" channel="ppv-15179">
+    <title lang="en">Houston Rockets vs. Denver Nuggets</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15132">
     <display-name>Misfits Mania: Andrew Tate vs. Chase DeMoor</display-name>
@@ -90,24 +90,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/64c21263e4525f1ee3c096205ad02eea-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15180">
-    <display-name>Philadelphia Flyers vs. New York Rangers</display-name>
-  </channel>
-  <programme start="20251220173000 +0000" stop="20251220203000 +0000" channel="ppv-15180">
-    <title lang="en">Philadelphia Flyers vs. New York Rangers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/811e54317f5771497ab1798b1acbfa29-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15181">
-    <display-name>Detroit Red Wings vs. Washington Capitals</display-name>
-  </channel>
-  <programme start="20251220173000 +0000" stop="20251220203000 +0000" channel="ppv-15181">
-    <title lang="en">Detroit Red Wings vs. Washington Capitals</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/4ccddc7a435c75214832abe07ef44585-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15183">
     <display-name>Chicago Blackhawks vs. Ottawa Senators</display-name>
   </channel>
@@ -125,15 +107,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/b57b7020dc462e466261c7bd405b1853-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15056">
-    <display-name>AEW: Saturday Night Collision</display-name>
-  </channel>
-  <programme start="20251220193000 +0000" stop="20251220223000 +0000" channel="ppv-15056">
-    <title lang="en">AEW: Saturday Night Collision</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
