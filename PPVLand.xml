@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15163">
-    <display-name>#9 Alabama vs. #8 Oklahoma (First Round)</display-name>
-  </channel>
-  <programme start="20251220010000 +0000" stop="20251220050000 +0000" channel="ppv-15163">
-    <title lang="en">#9 Alabama vs. #8 Oklahoma (First Round)</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d1f77dfedc380287f45d295feb0887ae-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15164">
     <display-name>#10 Miami vs. #7 Texas A&amp;M (First Round)</display-name>
   </channel>
@@ -17,51 +8,6 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/c1082a8f004e08b337a68226f54c9a4e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15070">
-    <display-name>Green Bay Packers vs. Chicago Bears</display-name>
-  </channel>
-  <programme start="20251221012000 +0000" stop="20251221045000 +0000" channel="ppv-15070">
-    <title lang="en">Green Bay Packers vs. Chicago Bears</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15080">
-    <display-name>New York Jets vs. New Orleans Saints</display-name>
-  </channel>
-  <programme start="20251221180000 +0000" stop="20251221213000 +0000" channel="ppv-15080">
-    <title lang="en">New York Jets vs. New Orleans Saints</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/f30797f5aaef342277c2aa8f2f062ae5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15081">
-    <display-name>Minnesota Vikings vs. New York Giants</display-name>
-  </channel>
-  <programme start="20251221180000 +0000" stop="20251221213000 +0000" channel="ppv-15081">
-    <title lang="en">Minnesota Vikings vs. New York Giants</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/fbd95960958ce6620baacdf436e1997a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15083">
-    <display-name>Jacksonville Jaguars vs. Denver Broncos</display-name>
-  </channel>
-  <programme start="20251221210500 +0000" stop="20251222003500 +0000" channel="ppv-15083">
-    <title lang="en">Jacksonville Jaguars vs. Denver Broncos</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/bba0afadffddc0def3cfbe54fa09e5f1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15086">
-    <display-name>Las Vegas Raiders vs. Houston Texans</display-name>
-  </channel>
-  <programme start="20251221212500 +0000" stop="20251222005500 +0000" channel="ppv-15086">
-    <title lang="en">Las Vegas Raiders vs. Houston Texans</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15175">
     <display-name>Oklahoma City Thunder vs. Minnesota Timberwolves</display-name>
@@ -99,24 +45,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15172">
-    <display-name>Winnipeg Jets vs. Colorado Avalanche</display-name>
-  </channel>
-  <programme start="20251220020000 +0000" stop="20251220050000 +0000" channel="ppv-15172">
-    <title lang="en">Winnipeg Jets vs. Colorado Avalanche</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/978a7b98f2eb709cbb74b08cb0793070-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15174">
-    <display-name>New Jersey Devils vs. Utah Mammoth</display-name>
-  </channel>
-  <programme start="20251220020000 +0000" stop="20251220050000 +0000" channel="ppv-15174">
-    <title lang="en">New Jersey Devils vs. Utah Mammoth</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/6d11e75cb5ae2cf8c1faac2540c00256-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15176">
     <display-name>Dallas Stars vs. Anaheim Ducks</display-name>
   </channel>
@@ -125,6 +53,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/ca770c1ae0d8394de0da9335dbbf3c4a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15201">
+    <display-name>Columbus Blue Jackets vs. Anaheim Ducks</display-name>
+  </channel>
+  <programme start="20251221030000 +0000" stop="20251221060000 +0000" channel="ppv-15201">
+    <title lang="en">Columbus Blue Jackets vs. Anaheim Ducks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/fd2b0150fda51d7e5f284a3bca10898a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15056">
     <display-name>AEW: Saturday Night Collision</display-name>
