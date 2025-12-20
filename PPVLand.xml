@@ -99,6 +99,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/12aa936c9a83d466889dc47eb49f3ceb-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15175">
+    <display-name>Oklahoma City Thunder vs. Minnesota Timberwolves</display-name>
+  </channel>
+  <programme start="20251220023000 +0000" stop="20251220051800 +0000" channel="ppv-15175">
+    <title lang="en">Oklahoma City Thunder vs. Minnesota Timberwolves</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/40e425714146fd351052776452dc9529-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15134">
     <display-name>Jake Paul vs. Anthony Joshua</display-name>
   </channel>
@@ -161,6 +170,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/6d11e75cb5ae2cf8c1faac2540c00256-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15176">
+    <display-name>Dallas Stars vs. Anaheim Ducks</display-name>
+  </channel>
+  <programme start="20251220030000 +0000" stop="20251220060000 +0000" channel="ppv-15176">
+    <title lang="en">Dallas Stars vs. Anaheim Ducks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/ca770c1ae0d8394de0da9335dbbf3c4a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15055">
     <display-name>WWE: Friday Night Smackdown</display-name>
