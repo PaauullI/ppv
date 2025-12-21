@@ -9,15 +9,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15036">
-    <display-name>Cagliari vs. Pisa</display-name>
-  </channel>
-  <programme start="20251221113000 +0000" stop="20251221140000 +0000" channel="ppv-15036">
-    <title lang="en">Cagliari vs. Pisa</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/e1f0ac73e9dab5f42178e5d5b3239c46-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15009">
     <display-name>Girona vs. Atlético Madrid</display-name>
   </channel>
@@ -26,6 +17,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ab496b2290be2a6eeff252d4b0bc0126-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15037">
+    <display-name>Sassuolo vs. Torino</display-name>
+  </channel>
+  <programme start="20251221140000 +0000" stop="20251221163000 +0000" channel="ppv-15037">
+    <title lang="en">Sassuolo vs. Torino</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/98c7c3e5888484f687c10a1ca9776d90-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15021">
     <display-name>Mainz vs. St. Pauli</display-name>
