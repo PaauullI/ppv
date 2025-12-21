@@ -18,24 +18,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15190">
-    <display-name>Washington Wizards vs. Memphis Grizzlies</display-name>
-  </channel>
-  <programme start="20251221010000 +0000" stop="20251221034800 +0000" channel="ppv-15190">
-    <title lang="en">Washington Wizards vs. Memphis Grizzlies</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/5deee7c9c4a3f6aee045b6833e286519-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15192">
-    <display-name>Phoenix Suns vs. Golden State Warriors</display-name>
-  </channel>
-  <programme start="20251221013000 +0000" stop="20251221041800 +0000" channel="ppv-15192">
-    <title lang="en">Phoenix Suns vs. Golden State Warriors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/d78ebbc97cf45c1e49825cbc2a36dd78-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15194">
     <display-name>Orlando Magic vs. Utah Jazz</display-name>
   </channel>
