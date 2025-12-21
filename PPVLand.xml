@@ -90,6 +90,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/036a56e706bdcc9e1c0d44aa420e8bbf-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15198">
+    <display-name>Los Angeles Lakers vs. LA Clippers</display-name>
+  </channel>
+  <programme start="20251221033000 +0000" stop="20251221061800 +0000" channel="ppv-15198">
+    <title lang="en">Los Angeles Lakers vs. LA Clippers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/2d85f065b4ba7be5073d41e90ede4011-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15121">
     <display-name>Australia vs. England</display-name>
   </channel>
@@ -107,15 +116,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15189">
-    <display-name>St. Louis Blues vs. Florida Panthers</display-name>
-  </channel>
-  <programme start="20251220230000 +0000" stop="20251221020000 +0000" channel="ppv-15189">
-    <title lang="en">St. Louis Blues vs. Florida Panthers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/f79fe7dcec912e93d8eef1088e9de5f5-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15191">
     <display-name>Vancouver Canucks vs. Boston Bruins</display-name>
@@ -153,14 +153,32 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/c13feaa57711f1fac5f2f83bc66a2f02-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15203">
-    <display-name>RAF 04: Hendrickson vs. Parris</display-name>
+  <channel id="ppv-15199">
+    <display-name>Vegas Golden Knights vs. Calgary Flames</display-name>
   </channel>
-  <programme start="20251221000000 +0000" stop="20251221040000 +0000" channel="ppv-15203">
-    <title lang="en">RAF 04: Hendrickson vs. Parris</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/e8fe8729d731ef46ea3b60a12f1d475b-thumbnail.jpg" />
+  <programme start="20251221030000 +0000" stop="20251221060000 +0000" channel="ppv-15199">
+    <title lang="en">Vegas Golden Knights vs. Calgary Flames</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/c71479dfb65ca1df822a15d2643ffadf-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15201">
+    <display-name>Columbus Blue Jackets vs. Anaheim Ducks</display-name>
+  </channel>
+  <programme start="20251221030000 +0000" stop="20251221060000 +0000" channel="ppv-15201">
+    <title lang="en">Columbus Blue Jackets vs. Anaheim Ducks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/fd2b0150fda51d7e5f284a3bca10898a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15202">
+    <display-name>Seattle Kraken vs. San Jose Sharks</display-name>
+  </channel>
+  <programme start="20251221030000 +0000" stop="20251221060000 +0000" channel="ppv-15202">
+    <title lang="en">Seattle Kraken vs. San Jose Sharks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/9e8c54b444ece381799816d60db495b9-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
