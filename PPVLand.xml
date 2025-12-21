@@ -126,24 +126,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15038">
-    <display-name>Fiorentina vs. Udinese</display-name>
-  </channel>
-  <programme start="20251221170000 +0000" stop="20251221193000 +0000" channel="ppv-15038">
-    <title lang="en">Fiorentina vs. Udinese</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/1c4b2debae36cde0054598c7ab5825ee-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15011">
-    <display-name>Elche vs. Rayo Vallecano</display-name>
-  </channel>
-  <programme start="20251221173000 +0000" stop="20251221200000 +0000" channel="ppv-15011">
-    <title lang="en">Elche vs. Rayo Vallecano</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/283cea09e93cfcc8a5fe80705d3ce2ba-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15267">
     <display-name>Morocco vs. Comoros</display-name>
   </channel>
@@ -152,15 +134,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/f7197ba8bd3ffdbb2e1e264aaf68223a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15039">
-    <display-name>Genoa vs. Atalanta</display-name>
-  </channel>
-  <programme start="20251221194500 +0000" stop="20251221221500 +0000" channel="ppv-15039">
-    <title lang="en">Genoa vs. Atalanta</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/f95646210959cb117504806ccaded1c7-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15012">
     <display-name>Real Betis vs. Getafe</display-name>
