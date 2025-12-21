@@ -108,6 +108,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15205">
+    <display-name>Chicago Bulls vs. Atlanta Hawks</display-name>
+  </channel>
+  <programme start="20251221203000 +0000" stop="20251221231800 +0000" channel="ppv-15205">
+    <title lang="en">Chicago Bulls vs. Atlanta Hawks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/a4d3614fadd2ed84b7d57f2e2f1d0245-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -116,24 +125,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15022">
-    <display-name>1. FC Heidenheim 1846 vs. Bayern Munich</display-name>
-  </channel>
-  <programme start="20251221163000 +0000" stop="20251221190000 +0000" channel="ppv-15022">
-    <title lang="en">1. FC Heidenheim 1846 vs. Bayern Munich</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/ab2a65a31cce3bccf678820d4415fa91-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15031">
-    <display-name>Aston Villa vs. Manchester United</display-name>
-  </channel>
-  <programme start="20251221163000 +0000" stop="20251221190000 +0000" channel="ppv-15031">
-    <title lang="en">Aston Villa vs. Manchester United</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/1bd359c83306695622960c3911690304-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15038">
     <display-name>Fiorentina vs. Udinese</display-name>
@@ -161,6 +152,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/f7197ba8bd3ffdbb2e1e264aaf68223a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15039">
+    <display-name>Genoa vs. Atalanta</display-name>
+  </channel>
+  <programme start="20251221194500 +0000" stop="20251221221500 +0000" channel="ppv-15039">
+    <title lang="en">Genoa vs. Atalanta</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/f95646210959cb117504806ccaded1c7-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15012">
     <display-name>Real Betis vs. Getafe</display-name>
