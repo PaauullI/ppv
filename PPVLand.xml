@@ -54,6 +54,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ab2a65a31cce3bccf678820d4415fa91-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15031">
+    <display-name>Aston Villa vs. Manchester United</display-name>
+  </channel>
+  <programme start="20251221163000 +0000" stop="20251221190000 +0000" channel="ppv-15031">
+    <title lang="en">Aston Villa vs. Manchester United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/1bd359c83306695622960c3911690304-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15011">
     <display-name>Elche vs. Rayo Vallecano</display-name>
   </channel>
