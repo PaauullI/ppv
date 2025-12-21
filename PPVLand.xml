@@ -45,6 +45,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15087">
+    <display-name>New England Patriots vs. Baltimore Ravens</display-name>
+  </channel>
+  <programme start="20251222012000 +0000" stop="20251222045000 +0000" channel="ppv-15087">
+    <title lang="en">New England Patriots vs. Baltimore Ravens</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15205">
     <display-name>Chicago Bulls vs. Atlanta Hawks</display-name>
   </channel>
@@ -72,6 +81,24 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/759008e3cbafe80a30982d5248061889-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15213">
+    <display-name>San Antonio Spurs vs. Washington Wizards</display-name>
+  </channel>
+  <programme start="20251222000000 +0000" stop="20251222024800 +0000" channel="ppv-15213">
+    <title lang="en">San Antonio Spurs vs. Washington Wizards</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/f4303ad2833f38f1a29983da06aafcfa-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15215">
+    <display-name>Milwaukee Bucks vs. Minnesota Timberwolves</display-name>
+  </channel>
+  <programme start="20251222000000 +0000" stop="20251222024800 +0000" channel="ppv-15215">
+    <title lang="en">Milwaukee Bucks vs. Minnesota Timberwolves</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/681e94758ec17a2fae5c6c1cbf6432db-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -80,24 +107,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15039">
-    <display-name>Genoa vs. Atalanta</display-name>
-  </channel>
-  <programme start="20251221194500 +0000" stop="20251221221500 +0000" channel="ppv-15039">
-    <title lang="en">Genoa vs. Atalanta</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/f95646210959cb117504806ccaded1c7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15012">
-    <display-name>Real Betis vs. Getafe</display-name>
-  </channel>
-  <programme start="20251221200000 +0000" stop="20251221223000 +0000" channel="ppv-15012">
-    <title lang="en">Real Betis vs. Getafe</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d8824e911f824d9398a6198689bffff8-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15268">
     <display-name>Mali vs. Zambia</display-name>
@@ -297,14 +306,14 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/a137e15b77c8c4fea21da71ecdf71a37-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15290">
-    <display-name>Ivory Coast vs. Cameroon</display-name>
+  <channel id="ppv-15206">
+    <display-name>Colorado Avalanche vs. Minnesota Wild</display-name>
   </channel>
-  <programme start="20251228200000 +0000" stop="20251228220000 +0000" channel="ppv-15290">
-    <title lang="en">Ivory Coast vs. Cameroon</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/a98cabc88d5a7ac1f3b8e86c362dcb7b-thumbnail.jpg" />
+  <programme start="20251221230000 +0000" stop="20251222020000 +0000" channel="ppv-15206">
+    <title lang="en">Colorado Avalanche vs. Minnesota Wild</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/e8fc6191aa93b57e16445798916999d2-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
