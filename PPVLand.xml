@@ -108,24 +108,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15037">
-    <display-name>Sassuolo vs. Torino</display-name>
-  </channel>
-  <programme start="20251221140000 +0000" stop="20251221163000 +0000" channel="ppv-15037">
-    <title lang="en">Sassuolo vs. Torino</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/98c7c3e5888484f687c10a1ca9776d90-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15021">
-    <display-name>Mainz vs. St. Pauli</display-name>
-  </channel>
-  <programme start="20251221143000 +0000" stop="20251221170000 +0000" channel="ppv-15021">
-    <title lang="en">Mainz vs. St. Pauli</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/57ca2f0ea99cc01cbaf4c2906fe43998-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15010">
     <display-name>Villarreal vs. Barcelona</display-name>
   </channel>
