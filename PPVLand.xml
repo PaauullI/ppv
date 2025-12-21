@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15198">
-    <display-name>Los Angeles Lakers vs. LA Clippers</display-name>
-  </channel>
-  <programme start="20251221033000 +0000" stop="20251221061800 +0000" channel="ppv-15198">
-    <title lang="en">Los Angeles Lakers vs. LA Clippers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/2d85f065b4ba7be5073d41e90ede4011-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15217">
     <display-name>Houston Rockets vs. Sacramento Kings</display-name>
   </channel>
