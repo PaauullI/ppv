@@ -9,24 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15207">
-    <display-name>Toronto Raptors vs. Brooklyn Nets</display-name>
-  </channel>
-  <programme start="20251221230000 +0000" stop="20251222014800 +0000" channel="ppv-15207">
-    <title lang="en">Toronto Raptors vs. Brooklyn Nets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/05a433b7161c6526ee5a75bfac49ecd2-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15210">
-    <display-name>Miami Heat vs. New York Knicks</display-name>
-  </channel>
-  <programme start="20251221230000 +0000" stop="20251222014800 +0000" channel="ppv-15210">
-    <title lang="en">Miami Heat vs. New York Knicks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/759008e3cbafe80a30982d5248061889-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15213">
     <display-name>San Antonio Spurs vs. Washington Wizards</display-name>
   </channel>
@@ -260,15 +242,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/a98cabc88d5a7ac1f3b8e86c362dcb7b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15206">
-    <display-name>Colorado Avalanche vs. Minnesota Wild</display-name>
-  </channel>
-  <programme start="20251221230000 +0000" stop="20251222020000 +0000" channel="ppv-15206">
-    <title lang="en">Colorado Avalanche vs. Minnesota Wild</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/e8fc6191aa93b57e16445798916999d2-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15209">
     <display-name>Ottawa Senators vs. Boston Bruins</display-name>
