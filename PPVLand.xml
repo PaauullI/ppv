@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-11090">
-    <display-name>NFL RedZone</display-name>
-  </channel>
-  <programme start="20251221180000 +0000" stop="20251222010000 +0000" channel="ppv-11090">
-    <title lang="en">NFL RedZone</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15083">
-    <display-name>Jacksonville Jaguars vs. Denver Broncos</display-name>
-  </channel>
-  <programme start="20251221210500 +0000" stop="20251222003500 +0000" channel="ppv-15083">
-    <title lang="en">Jacksonville Jaguars vs. Denver Broncos</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/bba0afadffddc0def3cfbe54fa09e5f1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15084">
-    <display-name>Atlanta Falcons vs. Arizona Cardinals</display-name>
-  </channel>
-  <programme start="20251221210500 +0000" stop="20251222003500 +0000" channel="ppv-15084">
-    <title lang="en">Atlanta Falcons vs. Arizona Cardinals</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/33f9727af3dbfe9f7d9d2fd584033970-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15085">
-    <display-name>Pittsburgh Steelers vs. Detroit Lions</display-name>
-  </channel>
-  <programme start="20251221212500 +0000" stop="20251222005500 +0000" channel="ppv-15085">
-    <title lang="en">Pittsburgh Steelers vs. Detroit Lions</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/0423fd7e2a61c7e6725b31ec73174b30-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15086">
-    <display-name>Las Vegas Raiders vs. Houston Texans</display-name>
-  </channel>
-  <programme start="20251221212500 +0000" stop="20251222005500 +0000" channel="ppv-15086">
-    <title lang="en">Las Vegas Raiders vs. Houston Texans</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15087">
     <display-name>New England Patriots vs. Baltimore Ravens</display-name>
   </channel>
@@ -89,6 +44,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/681e94758ec17a2fae5c6c1cbf6432db-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15217">
+    <display-name>Houston Rockets vs. Sacramento Kings</display-name>
+  </channel>
+  <programme start="20251222030000 +0000" stop="20251222054800 +0000" channel="ppv-15217">
+    <title lang="en">Houston Rockets vs. Sacramento Kings</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/27829e97a4c2e97530dee5ac18aa6e77-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15268">
     <display-name>Mali vs. Zambia</display-name>
