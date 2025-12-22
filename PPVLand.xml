@@ -225,15 +225,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/a98cabc88d5a7ac1f3b8e86c362dcb7b-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15219">
-    <display-name>Vegas Golden Knights vs. Edmonton Oilers</display-name>
-  </channel>
-  <programme start="20251222010000 +0000" stop="20251222040000 +0000" channel="ppv-15219">
-    <title lang="en">Vegas Golden Knights vs. Edmonton Oilers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/d4d004c8cced1ade4bf3f4a7cce847c7-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
