@@ -9,32 +9,32 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15297">
+    <display-name>Charlotte Hornets vs. Cleveland Cavaliers</display-name>
+  </channel>
+  <programme start="20251223000000 +0000" stop="20251223024800 +0000" channel="ppv-15297">
+    <title lang="en">Charlotte Hornets vs. Cleveland Cavaliers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/91e38eb5dc65bc77a34be9d7d8ee4602-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15298">
+    <display-name>Indiana Pacers vs. Boston Celtics</display-name>
+  </channel>
+  <programme start="20251223003000 +0000" stop="20251223031800 +0000" channel="ppv-15298">
+    <title lang="en">Indiana Pacers vs. Boston Celtics</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/1236e98a6ce0b24fff26385f130431b8-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
-  <programme start="20251222123000 +0000" stop="20251222233000 +0000" channel="ppv-14899">
+  <programme start="20251223123000 +0000" stop="20251223233000 +0000" channel="ppv-14899">
     <title lang="en">World Darts Championship</title>
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15013">
-    <display-name>Athletic Club vs. Espanyol</display-name>
-  </channel>
-  <programme start="20251222200000 +0000" stop="20251222223000 +0000" channel="ppv-15013">
-    <title lang="en">Athletic Club vs. Espanyol</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/57f995fcead6b2148836731474875e9d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15032">
-    <display-name>Fulham vs. Nottingham Forest</display-name>
-  </channel>
-  <programme start="20251222200000 +0000" stop="20251222223000 +0000" channel="ppv-15032">
-    <title lang="en">Fulham vs. Nottingham Forest</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15271">
     <display-name>Congo DR vs. Benin</display-name>
