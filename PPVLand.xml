@@ -18,15 +18,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15268">
-    <display-name>Mali vs. Zambia</display-name>
-  </channel>
-  <programme start="20251222140000 +0000" stop="20251222160000 +0000" channel="ppv-15268">
-    <title lang="en">Mali vs. Zambia</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/03d328aebe8dfd2a2dff5062c2a55305-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15269">
     <display-name>South Africa vs. Angola</display-name>
   </channel>
