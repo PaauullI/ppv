@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15087">
-    <display-name>New England Patriots vs. Baltimore Ravens</display-name>
-  </channel>
-  <programme start="20251222012000 +0000" stop="20251222045000 +0000" channel="ppv-15087">
-    <title lang="en">New England Patriots vs. Baltimore Ravens</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15217">
     <display-name>Houston Rockets vs. Sacramento Kings</display-name>
   </channel>
@@ -224,6 +215,42 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/a98cabc88d5a7ac1f3b8e86c362dcb7b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15333">
+    <display-name>Angola vs. Egypt</display-name>
+  </channel>
+  <programme start="20251229160000 +0000" stop="20251229180000 +0000" channel="ppv-15333">
+    <title lang="en">Angola vs. Egypt</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/083cca91bb79170f7010740874cedf83-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15334">
+    <display-name>Zimbabwe vs. South Africa</display-name>
+  </channel>
+  <programme start="20251229160000 +0000" stop="20251229180000 +0000" channel="ppv-15334">
+    <title lang="en">Zimbabwe vs. South Africa</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/a15a395c2d12b467ae03c857af0a956d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15335">
+    <display-name>Comoros vs. Mali</display-name>
+  </channel>
+  <programme start="20251229190000 +0000" stop="20251229210000 +0000" channel="ppv-15335">
+    <title lang="en">Comoros vs. Mali</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/283ff43aacfcd8873528213e5f0bd53b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15336">
+    <display-name>Zambia vs. Morocco</display-name>
+  </channel>
+  <programme start="20251229190000 +0000" stop="20251229210000 +0000" channel="ppv-15336">
+    <title lang="en">Zambia vs. Morocco</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
