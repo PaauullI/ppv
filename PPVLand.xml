@@ -9,15 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15299">
-    <display-name>Dallas Mavericks vs. New Orleans Pelicans</display-name>
-  </channel>
-  <programme start="20251223010000 +0000" stop="20251223034800 +0000" channel="ppv-15299">
-    <title lang="en">Dallas Mavericks vs. New Orleans Pelicans</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/eeaed7d7598f8974049e2438e67c46e0-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15301">
     <display-name>Utah Jazz vs. Denver Nuggets</display-name>
   </channel>
@@ -296,15 +287,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/8324015438e74566ad4107797464ecce-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15327">
-    <display-name>WWE: Monday Night RAW</display-name>
-  </channel>
-  <programme start="20251223010000 +0000" stop="20251223040000 +0000" channel="ppv-15327">
-    <title lang="en">WWE: Monday Night RAW</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15328">
     <display-name>WWE: NXT</display-name>
