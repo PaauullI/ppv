@@ -9,15 +9,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15274">
-    <display-name>Tunisia vs. Uganda</display-name>
-  </channel>
-  <programme start="20251223200000 +0000" stop="20251223220000 +0000" channel="ppv-15274">
-    <title lang="en">Tunisia vs. Uganda</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/3e6bf417b4719678300c5aa777343b76-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15382">
     <display-name>Arsenal vs. Crystal Palace</display-name>
   </channel>
@@ -242,6 +233,24 @@
     <sub-title>Wrestling</sub-title>
     <category>Wrestling</category>
     <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15331">
+    <display-name>WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <programme start="20251227010000 +0000" stop="20251227040000 +0000" channel="ppv-15331">
+    <title lang="en">WWE: Friday Night Smackdown</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15332">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20251228010000 +0000" stop="20251228040000 +0000" channel="ppv-15332">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
