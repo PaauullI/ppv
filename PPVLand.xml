@@ -36,6 +36,42 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/eeaed7d7598f8974049e2438e67c46e0-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15301">
+    <display-name>Utah Jazz vs. Denver Nuggets</display-name>
+  </channel>
+  <programme start="20251223020000 +0000" stop="20251223044800 +0000" channel="ppv-15301">
+    <title lang="en">Utah Jazz vs. Denver Nuggets</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/27c0c38dc0c8fd606f56d0e5c547a638-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15303">
+    <display-name>Memphis Grizzlies vs. Oklahoma City Thunder</display-name>
+  </channel>
+  <programme start="20251223023000 +0000" stop="20251223051800 +0000" channel="ppv-15303">
+    <title lang="en">Memphis Grizzlies vs. Oklahoma City Thunder</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/f13a5267801bec20029bacef81542b21-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15304">
+    <display-name>Orlando Magic vs. Golden State Warriors</display-name>
+  </channel>
+  <programme start="20251223030000 +0000" stop="20251223054800 +0000" channel="ppv-15304">
+    <title lang="en">Orlando Magic vs. Golden State Warriors</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/624b57cd55a3f6ac827b1490445bc4aa-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15306">
+    <display-name>Detroit Pistons vs. Portland Trail Blazers</display-name>
+  </channel>
+  <programme start="20251223030000 +0000" stop="20251223054800 +0000" channel="ppv-15306">
+    <title lang="en">Detroit Pistons vs. Portland Trail Blazers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/0764ea0432db43904591d8b4a09339ca-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
