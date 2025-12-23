@@ -315,6 +315,24 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/25fd74d89eecc0cbd10996ee9141c5c0-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15302">
+    <display-name>Seattle Kraken vs. Anaheim Ducks</display-name>
+  </channel>
+  <programme start="20251223030000 +0000" stop="20251223060000 +0000" channel="ppv-15302">
+    <title lang="en">Seattle Kraken vs. Anaheim Ducks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/bda2b8775578b430255dbabba203a2a4-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15305">
+    <display-name>Columbus Blue Jackets vs. Los Angeles Kings</display-name>
+  </channel>
+  <programme start="20251223030000 +0000" stop="20251223060000 +0000" channel="ppv-15305">
+    <title lang="en">Columbus Blue Jackets vs. Los Angeles Kings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/8324015438e74566ad4107797464ecce-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15327">
     <display-name>WWE: Monday Night RAW</display-name>
   </channel>
