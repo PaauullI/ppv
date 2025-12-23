@@ -36,6 +36,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/f06f88f731415663cd77133b9e102bac-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15370">
+    <display-name>Tampa Bay Buccaneers vs. Miami Dolphins</display-name>
+  </channel>
+  <programme start="20251228180000 +0000" stop="20251228213000 +0000" channel="ppv-15370">
+    <title lang="en">Tampa Bay Buccaneers vs. Miami Dolphins</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/48af8d5b583ca5322ece9643802b23a5-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15376">
     <display-name>Seattle Seahawks vs. Carolina Panthers</display-name>
   </channel>
@@ -53,15 +62,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15271">
-    <display-name>Congo DR vs. Benin</display-name>
-  </channel>
-  <programme start="20251223123000 +0000" stop="20251223143000 +0000" channel="ppv-15271">
-    <title lang="en">Congo DR vs. Benin</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/2a65ab59f4e2b4d0d8d0f5805efa3295-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15272">
     <display-name>Senegal vs. Botswana</display-name>
