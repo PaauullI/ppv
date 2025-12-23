@@ -54,15 +54,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/24a50be34f52ac5c251f2d2470d5483a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15374">
-    <display-name>Orlando Magic vs. Portland Trail Blazers</display-name>
-  </channel>
-  <programme start="20251224030000 +0000" stop="20251224054800 +0000" channel="ppv-15374">
-    <title lang="en">Orlando Magic vs. Portland Trail Blazers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/b035ab37ffafd17e34ad51b43704391c-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
