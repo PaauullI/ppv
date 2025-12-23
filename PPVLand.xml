@@ -207,6 +207,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15338">
+    <display-name>Pittsburgh Penguins vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <programme start="20251223210000 +0000" stop="20251224000000 +0000" channel="ppv-15338">
+    <title lang="en">Pittsburgh Penguins vs. Toronto Maple Leafs</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/419ae181fb0d14d8c79faad89f1a786c-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15328">
     <display-name>WWE: NXT</display-name>
   </channel>
@@ -233,24 +242,6 @@
     <sub-title>Wrestling</sub-title>
     <category>Wrestling</category>
     <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15331">
-    <display-name>WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <programme start="20251227010000 +0000" stop="20251227040000 +0000" channel="ppv-15331">
-    <title lang="en">WWE: Friday Night Smackdown</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15332">
-    <display-name>AEW: Saturday Night Collision</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228040000 +0000" channel="ppv-15332">
-    <title lang="en">AEW: Saturday Night Collision</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
