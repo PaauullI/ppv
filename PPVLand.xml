@@ -9,24 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15297">
-    <display-name>Charlotte Hornets vs. Cleveland Cavaliers</display-name>
-  </channel>
-  <programme start="20251223000000 +0000" stop="20251223024800 +0000" channel="ppv-15297">
-    <title lang="en">Charlotte Hornets vs. Cleveland Cavaliers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/91e38eb5dc65bc77a34be9d7d8ee4602-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15298">
-    <display-name>Indiana Pacers vs. Boston Celtics</display-name>
-  </channel>
-  <programme start="20251223003000 +0000" stop="20251223031800 +0000" channel="ppv-15298">
-    <title lang="en">Indiana Pacers vs. Boston Celtics</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/1236e98a6ce0b24fff26385f130431b8-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15299">
     <display-name>Dallas Mavericks vs. New Orleans Pelicans</display-name>
   </channel>
@@ -296,24 +278,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15296">
-    <display-name>St. Louis Blues vs. Tampa Bay Lightning</display-name>
-  </channel>
-  <programme start="20251223000000 +0000" stop="20251223030000 +0000" channel="ppv-15296">
-    <title lang="en">St. Louis Blues vs. Tampa Bay Lightning</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/3d370ac000d3cfe4bc66a90df8d203d6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15300">
-    <display-name>Vancouver Canucks vs. Philadelphia Flyers</display-name>
-  </channel>
-  <programme start="20251223003000 +0000" stop="20251223033000 +0000" channel="ppv-15300">
-    <title lang="en">Vancouver Canucks vs. Philadelphia Flyers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/25fd74d89eecc0cbd10996ee9141c5c0-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15302">
     <display-name>Seattle Kraken vs. Anaheim Ducks</display-name>
