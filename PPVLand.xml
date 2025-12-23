@@ -63,15 +63,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15272">
-    <display-name>Senegal vs. Botswana</display-name>
-  </channel>
-  <programme start="20251223150000 +0000" stop="20251223170000 +0000" channel="ppv-15272">
-    <title lang="en">Senegal vs. Botswana</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/61b7cb2b015b7f6a849333fee09d09c7-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15273">
     <display-name>Nigeria vs. Tanzania</display-name>
   </channel>
