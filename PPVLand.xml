@@ -54,33 +54,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/24a50be34f52ac5c251f2d2470d5483a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15303">
-    <display-name>Memphis Grizzlies vs. Oklahoma City Thunder</display-name>
-  </channel>
-  <programme start="20251223023000 +0000" stop="20251223051800 +0000" channel="ppv-15303">
-    <title lang="en">Memphis Grizzlies vs. Oklahoma City Thunder</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/f13a5267801bec20029bacef81542b21-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15304">
-    <display-name>Orlando Magic vs. Golden State Warriors</display-name>
-  </channel>
-  <programme start="20251223030000 +0000" stop="20251223054800 +0000" channel="ppv-15304">
-    <title lang="en">Orlando Magic vs. Golden State Warriors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/624b57cd55a3f6ac827b1490445bc4aa-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15306">
-    <display-name>Detroit Pistons vs. Portland Trail Blazers</display-name>
-  </channel>
-  <programme start="20251223030000 +0000" stop="20251223054800 +0000" channel="ppv-15306">
-    <title lang="en">Detroit Pistons vs. Portland Trail Blazers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/0764ea0432db43904591d8b4a09339ca-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15374">
     <display-name>Orlando Magic vs. Portland Trail Blazers</display-name>
   </channel>
@@ -314,24 +287,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15302">
-    <display-name>Seattle Kraken vs. Anaheim Ducks</display-name>
-  </channel>
-  <programme start="20251223030000 +0000" stop="20251223060000 +0000" channel="ppv-15302">
-    <title lang="en">Seattle Kraken vs. Anaheim Ducks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/bda2b8775578b430255dbabba203a2a4-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15305">
-    <display-name>Columbus Blue Jackets vs. Los Angeles Kings</display-name>
-  </channel>
-  <programme start="20251223030000 +0000" stop="20251223060000 +0000" channel="ppv-15305">
-    <title lang="en">Columbus Blue Jackets vs. Los Angeles Kings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/8324015438e74566ad4107797464ecce-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15372">
     <display-name>Seattle Kraken vs. Los Angeles Kings</display-name>
