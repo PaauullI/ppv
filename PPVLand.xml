@@ -27,6 +27,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/1236e98a6ce0b24fff26385f130431b8-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15299">
+    <display-name>Dallas Mavericks vs. New Orleans Pelicans</display-name>
+  </channel>
+  <programme start="20251223010000 +0000" stop="20251223034800 +0000" channel="ppv-15299">
+    <title lang="en">Dallas Mavericks vs. New Orleans Pelicans</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/eeaed7d7598f8974049e2438e67c46e0-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -251,6 +260,24 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15296">
+    <display-name>St. Louis Blues vs. Tampa Bay Lightning</display-name>
+  </channel>
+  <programme start="20251223000000 +0000" stop="20251223030000 +0000" channel="ppv-15296">
+    <title lang="en">St. Louis Blues vs. Tampa Bay Lightning</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/3d370ac000d3cfe4bc66a90df8d203d6-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15300">
+    <display-name>Vancouver Canucks vs. Philadelphia Flyers</display-name>
+  </channel>
+  <programme start="20251223003000 +0000" stop="20251223033000 +0000" channel="ppv-15300">
+    <title lang="en">Vancouver Canucks vs. Philadelphia Flyers</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/25fd74d89eecc0cbd10996ee9141c5c0-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15327">
     <display-name>WWE: Monday Night RAW</display-name>
