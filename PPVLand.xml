@@ -81,6 +81,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/3e6bf417b4719678300c5aa777343b76-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15382">
+    <display-name>Arsenal vs. Crystal Palace</display-name>
+  </channel>
+  <programme start="20251223200000 +0000" stop="20251223223000 +0000" channel="ppv-15382">
+    <title lang="en">Arsenal vs. Crystal Palace</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/8962f7212db5868e601de9416102bba0-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15275">
     <display-name>Burkina Faso vs. Equatorial Guinea</display-name>
   </channel>
