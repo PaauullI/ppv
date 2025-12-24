@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15277">
-    <display-name>Ivory Coast vs. Mozambique</display-name>
-  </channel>
-  <programme start="20251224173000 +0000" stop="20251224193000 +0000" channel="ppv-15277">
-    <title lang="en">Ivory Coast vs. Mozambique</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/bd3789a5273ebff7a9b2376ec59810b2-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15278">
     <display-name>Cameroon vs. Gabon</display-name>
   </channel>
@@ -165,7 +156,7 @@
   <channel id="ppv-15329">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
   </channel>
-  <programme start="20251225010000 +0000" stop="20251225040000 +0000" channel="ppv-15329">
+  <programme start="20251224230000 +0000" stop="20251225010600 +0000" channel="ppv-15329">
     <title lang="en">AEW: Wednesday Night Dynamite</title>
     <sub-title>Wrestling</sub-title>
     <category>Wrestling</category>
