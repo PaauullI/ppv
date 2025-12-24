@@ -117,6 +117,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/9e6be8ac7532c1e14cfe274f00ba8db8-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15377">
+    <display-name>Houston Rockets vs. LA Clippers</display-name>
+  </channel>
+  <programme start="20251224033000 +0000" stop="20251224061800 +0000" channel="ppv-15377">
+    <title lang="en">Houston Rockets vs. LA Clippers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/94b4f1cf31966369b75b8bde3a5ff25a-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15275">
     <display-name>Burkina Faso vs. Equatorial Guinea</display-name>
   </channel>
@@ -297,15 +306,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15340">
-    <display-name>Dallas Stars vs. Detroit Red Wings</display-name>
-  </channel>
-  <programme start="20251223233000 +0000" stop="20251224023000 +0000" channel="ppv-15340">
-    <title lang="en">Dallas Stars vs. Detroit Red Wings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/16455e35fd8d874a94fc5b3bc6bafbdc-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15344">
     <display-name>New York Rangers vs. Washington Capitals</display-name>
   </channel>
@@ -386,6 +386,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/d944e1620354478a2b0c2923db1c29ac-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15369">
+    <display-name>San Jose Sharks vs. Vegas Golden Knights</display-name>
+  </channel>
+  <programme start="20251224030000 +0000" stop="20251224060000 +0000" channel="ppv-15369">
+    <title lang="en">San Jose Sharks vs. Vegas Golden Knights</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/873c5d443481961f2dd1a46366101d3e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15372">
+    <display-name>Seattle Kraken vs. Los Angeles Kings</display-name>
+  </channel>
+  <programme start="20251224030000 +0000" stop="20251224060000 +0000" channel="ppv-15372">
+    <title lang="en">Seattle Kraken vs. Los Angeles Kings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/9eb72b2e28e4260957d9d91d637d21d7-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15328">
     <display-name>WWE: NXT</display-name>
