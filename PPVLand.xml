@@ -99,6 +99,24 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/435a1af54e75292df22577ac02d948b9-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15374">
+    <display-name>Orlando Magic vs. Portland Trail Blazers</display-name>
+  </channel>
+  <programme start="20251224030000 +0000" stop="20251224054800 +0000" channel="ppv-15374">
+    <title lang="en">Orlando Magic vs. Portland Trail Blazers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/b035ab37ffafd17e34ad51b43704391c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15375">
+    <display-name>Detroit Pistons vs. Sacramento Kings</display-name>
+  </channel>
+  <programme start="20251224030000 +0000" stop="20251224054800 +0000" channel="ppv-15375">
+    <title lang="en">Detroit Pistons vs. Sacramento Kings</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/9e6be8ac7532c1e14cfe274f00ba8db8-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15275">
     <display-name>Burkina Faso vs. Equatorial Guinea</display-name>
   </channel>
@@ -341,6 +359,33 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/6026d036b54989c4e36605c09bc7eea3-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15361">
+    <display-name>Philadelphia Flyers vs. Chicago Blackhawks</display-name>
+  </channel>
+  <programme start="20251224020000 +0000" stop="20251224050000 +0000" channel="ppv-15361">
+    <title lang="en">Philadelphia Flyers vs. Chicago Blackhawks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/0a00b29c85178b7dc0b82643e6a0d91c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15364">
+    <display-name>Utah Mammoth vs. Colorado Avalanche</display-name>
+  </channel>
+  <programme start="20251224020000 +0000" stop="20251224050000 +0000" channel="ppv-15364">
+    <title lang="en">Utah Mammoth vs. Colorado Avalanche</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/cfaad3244990bd0974c01a916492e9b5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15367">
+    <display-name>Calgary Flames vs. Edmonton Oilers</display-name>
+  </channel>
+  <programme start="20251224020000 +0000" stop="20251224050000 +0000" channel="ppv-15367">
+    <title lang="en">Calgary Flames vs. Edmonton Oilers</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/d944e1620354478a2b0c2923db1c29ac-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15328">
     <display-name>WWE: NXT</display-name>
