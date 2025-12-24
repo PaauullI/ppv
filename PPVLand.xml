@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15377">
-    <display-name>Houston Rockets vs. LA Clippers</display-name>
-  </channel>
-  <programme start="20251224033000 +0000" stop="20251224061800 +0000" channel="ppv-15377">
-    <title lang="en">Houston Rockets vs. LA Clippers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/94b4f1cf31966369b75b8bde3a5ff25a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15275">
     <display-name>Burkina Faso vs. Equatorial Guinea</display-name>
   </channel>
