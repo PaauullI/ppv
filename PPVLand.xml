@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15366">
-    <display-name>Los Angeles Lakers vs. Phoenix Suns</display-name>
-  </channel>
-  <programme start="20251224020000 +0000" stop="20251224044800 +0000" channel="ppv-15366">
-    <title lang="en">Los Angeles Lakers vs. Phoenix Suns</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/aa4ae5b5fce6920ab5434b6b7439f1ac-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15371">
-    <display-name>Memphis Grizzlies vs. Utah Jazz</display-name>
-  </channel>
-  <programme start="20251224020000 +0000" stop="20251224044800 +0000" channel="ppv-15371">
-    <title lang="en">Memphis Grizzlies vs. Utah Jazz</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/435a1af54e75292df22577ac02d948b9-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15374">
     <display-name>Orlando Magic vs. Portland Trail Blazers</display-name>
   </channel>
@@ -224,33 +206,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15361">
-    <display-name>Philadelphia Flyers vs. Chicago Blackhawks</display-name>
-  </channel>
-  <programme start="20251224020000 +0000" stop="20251224050000 +0000" channel="ppv-15361">
-    <title lang="en">Philadelphia Flyers vs. Chicago Blackhawks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/0a00b29c85178b7dc0b82643e6a0d91c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15364">
-    <display-name>Utah Mammoth vs. Colorado Avalanche</display-name>
-  </channel>
-  <programme start="20251224020000 +0000" stop="20251224050000 +0000" channel="ppv-15364">
-    <title lang="en">Utah Mammoth vs. Colorado Avalanche</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/cfaad3244990bd0974c01a916492e9b5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15367">
-    <display-name>Calgary Flames vs. Edmonton Oilers</display-name>
-  </channel>
-  <programme start="20251224020000 +0000" stop="20251224050000 +0000" channel="ppv-15367">
-    <title lang="en">Calgary Flames vs. Edmonton Oilers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/d944e1620354478a2b0c2923db1c29ac-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15369">
     <display-name>San Jose Sharks vs. Vegas Golden Knights</display-name>
