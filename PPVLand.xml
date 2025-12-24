@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15374">
-    <display-name>Orlando Magic vs. Portland Trail Blazers</display-name>
-  </channel>
-  <programme start="20251224030000 +0000" stop="20251224054800 +0000" channel="ppv-15374">
-    <title lang="en">Orlando Magic vs. Portland Trail Blazers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/b035ab37ffafd17e34ad51b43704391c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15375">
-    <display-name>Detroit Pistons vs. Sacramento Kings</display-name>
-  </channel>
-  <programme start="20251224030000 +0000" stop="20251224054800 +0000" channel="ppv-15375">
-    <title lang="en">Detroit Pistons vs. Sacramento Kings</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/9e6be8ac7532c1e14cfe274f00ba8db8-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15377">
     <display-name>Houston Rockets vs. LA Clippers</display-name>
   </channel>
@@ -206,24 +188,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15369">
-    <display-name>San Jose Sharks vs. Vegas Golden Knights</display-name>
-  </channel>
-  <programme start="20251224030000 +0000" stop="20251224060000 +0000" channel="ppv-15369">
-    <title lang="en">San Jose Sharks vs. Vegas Golden Knights</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/873c5d443481961f2dd1a46366101d3e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15372">
-    <display-name>Seattle Kraken vs. Los Angeles Kings</display-name>
-  </channel>
-  <programme start="20251224030000 +0000" stop="20251224060000 +0000" channel="ppv-15372">
-    <title lang="en">Seattle Kraken vs. Los Angeles Kings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/9eb72b2e28e4260957d9d91d637d21d7-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15329">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
