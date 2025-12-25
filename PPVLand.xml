@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15385">
-    <display-name>Hawai&#x27;i Rainbow Warriors vs. California Golden Bears</display-name>
-  </channel>
-  <programme start="20251225010000 +0000" stop="20251225040000 +0000" channel="ppv-15385">
-    <title lang="en">Hawai&#x27;i Rainbow Warriors vs. California Golden Bears</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c06035bf4eb33695f4d4a1b4ef3c3915-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15279">
     <display-name>Angola vs. Zimbabwe</display-name>
   </channel>
