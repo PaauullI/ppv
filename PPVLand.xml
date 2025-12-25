@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-15337">
+    <display-name>Dallas Cowboys vs. Washington Commanders</display-name>
+  </channel>
+  <programme start="20251225180000 +0000" stop="20251225213000 +0000" channel="ppv-15337">
+    <title lang="en">Dallas Cowboys vs. Washington Commanders</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/3c4da57019a3db5ddc05846665384761-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15342">
+    <display-name>Detroit Lions vs. Minnesota Vikings</display-name>
+  </channel>
+  <programme start="20251225213000 +0000" stop="20251226010000 +0000" channel="ppv-15342">
+    <title lang="en">Detroit Lions vs. Minnesota Vikings</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/03acdf9085886d1cc43f0e5e625e64b7-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15279">
     <display-name>Angola vs. Zimbabwe</display-name>
   </channel>
@@ -153,6 +171,15 @@
     <category>Wrestling</category>
     <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15332">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20251226020000 +0000" stop="20251226050000 +0000" channel="ppv-15332">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15331">
     <display-name>WWE: Friday Night Smackdown</display-name>
   </channel>
@@ -173,6 +200,15 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
