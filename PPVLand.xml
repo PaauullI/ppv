@@ -9,15 +9,6 @@
     <category>Cricket</category>
     <icon src="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15280">
-    <display-name>Egypt vs. South Africa</display-name>
-  </channel>
-  <programme start="20251226150000 +0000" stop="20251226170000 +0000" channel="ppv-15280">
-    <title lang="en">Egypt vs. South Africa</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/9e59e840cdbc7f9e09811f5d1c92b31f-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15281">
     <display-name>Zambia vs. Comoros</display-name>
   </channel>
