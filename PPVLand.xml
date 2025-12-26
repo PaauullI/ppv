@@ -9,15 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/f62324be7b3bf56476438d49563762f2-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15389">
-    <display-name>Houston Rockets vs. Los Angeles Lakers</display-name>
-  </channel>
-  <programme start="20251226010000 +0000" stop="20251226034800 +0000" channel="ppv-15389">
-    <title lang="en">Houston Rockets vs. Los Angeles Lakers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/bc8a0205874312de7bb7281ddeeceb7a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15390">
     <display-name>Minnesota Timberwolves vs. Denver Nuggets</display-name>
   </channel>
@@ -179,15 +170,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15330">
-    <display-name>TNA: Impact</display-name>
-  </channel>
-  <programme start="20251226010000 +0000" stop="20251226040000 +0000" channel="ppv-15330">
-    <title lang="en">TNA: Impact</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15332">
     <display-name>AEW: Saturday Night Collision</display-name>
