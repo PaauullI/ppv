@@ -9,6 +9,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/03acdf9085886d1cc43f0e5e625e64b7-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15345">
+    <display-name>Denver Broncos vs. Kansas City Chiefs</display-name>
+  </channel>
+  <programme start="20251226011500 +0000" stop="20251226044500 +0000" channel="ppv-15345">
+    <title lang="en">Denver Broncos vs. Kansas City Chiefs</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/f62324be7b3bf56476438d49563762f2-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15388">
     <display-name>Dallas Mavericks vs. Golden State Warriors</display-name>
   </channel>
@@ -17,6 +26,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/c662fce981315be4e1d45ea6ce6e7472-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15389">
+    <display-name>Houston Rockets vs. Los Angeles Lakers</display-name>
+  </channel>
+  <programme start="20251226010000 +0000" stop="20251226034800 +0000" channel="ppv-15389">
+    <title lang="en">Houston Rockets vs. Los Angeles Lakers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/bc8a0205874312de7bb7281ddeeceb7a-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15383">
     <display-name>Australia vs. England</display-name>
