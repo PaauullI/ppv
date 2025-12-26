@@ -9,15 +9,6 @@
     <category>Cricket</category>
     <icon src="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15279">
-    <display-name>Angola vs. Zimbabwe</display-name>
-  </channel>
-  <programme start="20251226123000 +0000" stop="20251226143000 +0000" channel="ppv-15279">
-    <title lang="en">Angola vs. Zimbabwe</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/69f93ba1393a3b513724f9c2fe1a9ca1-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15280">
     <display-name>Egypt vs. South Africa</display-name>
   </channel>
