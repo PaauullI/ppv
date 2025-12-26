@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15345">
-    <display-name>Denver Broncos vs. Kansas City Chiefs</display-name>
-  </channel>
-  <programme start="20251226011500 +0000" stop="20251226044500 +0000" channel="ppv-15345">
-    <title lang="en">Denver Broncos vs. Kansas City Chiefs</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/f62324be7b3bf56476438d49563762f2-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15390">
     <display-name>Minnesota Timberwolves vs. Denver Nuggets</display-name>
   </channel>
@@ -170,15 +161,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15332">
-    <display-name>AEW: Saturday Night Collision</display-name>
-  </channel>
-  <programme start="20251226020000 +0000" stop="20251226050000 +0000" channel="ppv-15332">
-    <title lang="en">AEW: Saturday Night Collision</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15331">
     <display-name>WWE: Friday Night Smackdown</display-name>
