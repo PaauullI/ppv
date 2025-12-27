@@ -180,15 +180,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15317">
-    <display-name>Parma vs. Fiorentina</display-name>
-  </channel>
-  <programme start="20251227113000 +0000" stop="20251227140000 +0000" channel="ppv-15317">
-    <title lang="en">Parma vs. Fiorentina</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/002ff9b1c5b148746fcd15cae6c84d85-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15283">
     <display-name>Benin vs. Botswana</display-name>
   </channel>
@@ -207,6 +198,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/bcfdc0d30d7eb54d6fe8a98369e8a731-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15318">
+    <display-name>Lecce vs. Como</display-name>
+  </channel>
+  <programme start="20251227140000 +0000" stop="20251227163000 +0000" channel="ppv-15318">
+    <title lang="en">Lecce vs. Como</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d3b9f1a79ec1df7e7bdbc501d223026b-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15319">
     <display-name>Torino vs. Cagliari</display-name>
   </channel>
@@ -215,6 +215,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b56ce66b9e28f118b25a63409a351c41-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-5193">
+    <display-name>Goal Rush</display-name>
+  </channel>
+  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-5193">
+    <title lang="en">Goal Rush</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15284">
     <display-name>Senegal vs. Congo DR</display-name>
@@ -233,6 +242,42 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/314103ff84388e79ab57b61c4f8e5e98-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15310">
+    <display-name>Brentford vs. AFC Bournemouth</display-name>
+  </channel>
+  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15310">
+    <title lang="en">Brentford vs. AFC Bournemouth</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/27ecf816e5ececca7169c176a8980ef0-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15311">
+    <display-name>Burnley vs. Everton</display-name>
+  </channel>
+  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15311">
+    <title lang="en">Burnley vs. Everton</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/6d98bbc129f9d903dc36d7537bd1f7e5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15312">
+    <display-name>Liverpool vs. Wolverhampton Wanderers</display-name>
+  </channel>
+  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15312">
+    <title lang="en">Liverpool vs. Wolverhampton Wanderers</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/abc63d6d6a8782ab6e65062f88329716-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15313">
+    <display-name>West Ham United vs. Fulham</display-name>
+  </channel>
+  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15313">
+    <title lang="en">West Ham United vs. Fulham</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/8012c94dd2a5a9d3c678e941edb1dbcc-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15285">
     <display-name>Uganda vs. Tanzania</display-name>
