@@ -243,6 +243,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/57ef40bc59d56d3a24d8f65fe68e3467-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15321">
+    <display-name>Pisa vs. Juventus</display-name>
+  </channel>
+  <programme start="20251227194500 +0000" stop="20251227221500 +0000" channel="ppv-15321">
+    <title lang="en">Pisa vs. Juventus</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/b92dcfdafa3f6f10549d7b72ef9a5cbb-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15286">
     <display-name>Nigeria vs. Tunisia</display-name>
   </channel>
