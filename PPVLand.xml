@@ -162,24 +162,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15399">
-    <display-name>Detroit Pistons vs. Utah Jazz</display-name>
-  </channel>
-  <programme start="20251227023000 +0000" stop="20251227051800 +0000" channel="ppv-15399">
-    <title lang="en">Detroit Pistons vs. Utah Jazz</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/4c3d9df36efdb72aac3b7796c23d9f00-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15400">
-    <display-name>LA Clippers vs. Portland Trail Blazers</display-name>
-  </channel>
-  <programme start="20251227030000 +0000" stop="20251227054800 +0000" channel="ppv-15400">
-    <title lang="en">LA Clippers vs. Portland Trail Blazers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/19585c68b2f1eb8571d7cbe2f1cdb644-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15461">
     <display-name>Milwaukee Bucks vs. Chicago Bulls</display-name>
   </channel>
