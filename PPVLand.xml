@@ -162,15 +162,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15401">
-    <display-name>Ring V: Night of the Samurai: Inoue vs. Picasso</display-name>
-  </channel>
-  <programme start="20251227100000 +0000" stop="20251227180000 +0000" channel="ppv-15401">
-    <title lang="en">Ring V: Night of the Samurai: Inoue vs. Picasso</title>
-    <sub-title>Combat Sports</sub-title>
-    <category>Combat Sports</category>
-    <icon src="https://api.ppv.to/assets/thumb/5c449e7208e23809ad004bcbb8152bdd-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -179,24 +170,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15283">
-    <display-name>Benin vs. Botswana</display-name>
-  </channel>
-  <programme start="20251227123000 +0000" stop="20251227143000 +0000" channel="ppv-15283">
-    <title lang="en">Benin vs. Botswana</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/a87a16fe03300966a32385adb147db34-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15308">
-    <display-name>Nottingham Forest vs. Manchester City</display-name>
-  </channel>
-  <programme start="20251227123000 +0000" stop="20251227150000 +0000" channel="ppv-15308">
-    <title lang="en">Nottingham Forest vs. Manchester City</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/bcfdc0d30d7eb54d6fe8a98369e8a731-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15318">
     <display-name>Lecce vs. Como</display-name>
