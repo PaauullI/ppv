@@ -171,24 +171,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15397">
-    <display-name>Milwaukee Bucks vs. Memphis Grizzlies</display-name>
-  </channel>
-  <programme start="20251227010000 +0000" stop="20251227034800 +0000" channel="ppv-15397">
-    <title lang="en">Milwaukee Bucks vs. Memphis Grizzlies</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/2573cf13099e2f0479364a6eb480c1b0-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15398">
-    <display-name>Phoenix Suns vs. New Orleans Pelicans</display-name>
-  </channel>
-  <programme start="20251227010000 +0000" stop="20251227034800 +0000" channel="ppv-15398">
-    <title lang="en">Phoenix Suns vs. New Orleans Pelicans</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/4e66e12d17d7f304bd8f91436a74c8df-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15399">
     <display-name>Detroit Pistons vs. Utah Jazz</display-name>
   </channel>
@@ -323,24 +305,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15405">
-    <display-name>Canada vs. Czechia</display-name>
-  </channel>
-  <programme start="20251227013000 +0000" stop="20251227040000 +0000" channel="ppv-15405">
-    <title lang="en">Canada vs. Czechia</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/b6dc9c7ff091b73a1d6889b5ce0c8a3d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15331">
-    <display-name>WWE: Friday Night Smackdown</display-name>
-  </channel>
-  <programme start="20251227010000 +0000" stop="20251227040000 +0000" channel="ppv-15331">
-    <title lang="en">WWE: Friday Night Smackdown</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
