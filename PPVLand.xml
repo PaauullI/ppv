@@ -171,6 +171,15 @@
     <category>Combat Sports</category>
     <icon src="https://api.ppv.to/assets/thumb/5c449e7208e23809ad004bcbb8152bdd-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15317">
+    <display-name>Parma vs. Fiorentina</display-name>
+  </channel>
+  <programme start="20251227113000 +0000" stop="20251227140000 +0000" channel="ppv-15317">
+    <title lang="en">Parma vs. Fiorentina</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/002ff9b1c5b148746fcd15cae6c84d85-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15283">
     <display-name>Benin vs. Botswana</display-name>
   </channel>
