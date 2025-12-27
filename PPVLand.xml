@@ -225,6 +225,24 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/cec61e88a05c961e59d07258f3a6b629-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15397">
+    <display-name>Milwaukee Bucks vs. Memphis Grizzlies</display-name>
+  </channel>
+  <programme start="20251227010000 +0000" stop="20251227034800 +0000" channel="ppv-15397">
+    <title lang="en">Milwaukee Bucks vs. Memphis Grizzlies</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/2573cf13099e2f0479364a6eb480c1b0-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15398">
+    <display-name>Phoenix Suns vs. New Orleans Pelicans</display-name>
+  </channel>
+  <programme start="20251227010000 +0000" stop="20251227034800 +0000" channel="ppv-15398">
+    <title lang="en">Phoenix Suns vs. New Orleans Pelicans</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/4e66e12d17d7f304bd8f91436a74c8df-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15383">
     <display-name>Australia vs. England</display-name>
   </channel>
