@@ -171,15 +171,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15318">
-    <display-name>Lecce vs. Como</display-name>
-  </channel>
-  <programme start="20251227140000 +0000" stop="20251227163000 +0000" channel="ppv-15318">
-    <title lang="en">Lecce vs. Como</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d3b9f1a79ec1df7e7bdbc501d223026b-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15319">
     <display-name>Torino vs. Cagliari</display-name>
   </channel>
