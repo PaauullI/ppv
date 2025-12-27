@@ -27,6 +27,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/4aa181f5dc2a6ba15bb634a389592ce0-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15423">
+    <display-name>Miami (OH) RedHawks vs. Fresno State Bulldogs</display-name>
+  </channel>
+  <programme start="20251227213000 +0000" stop="20251228010000 +0000" channel="ppv-15423">
+    <title lang="en">Miami (OH) RedHawks vs. Fresno State Bulldogs</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/4a32770098e2beb03d42cde00798fd6e-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15424">
     <display-name>North Texas Mean Green vs. San Diego State Aztecs</display-name>
   </channel>
@@ -207,24 +216,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15321">
-    <display-name>Pisa vs. Juventus</display-name>
-  </channel>
-  <programme start="20251227194500 +0000" stop="20251227221500 +0000" channel="ppv-15321">
-    <title lang="en">Pisa vs. Juventus</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b92dcfdafa3f6f10549d7b72ef9a5cbb-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15286">
-    <display-name>Nigeria vs. Tunisia</display-name>
-  </channel>
-  <programme start="20251227200000 +0000" stop="20251227220000 +0000" channel="ppv-15286">
-    <title lang="en">Nigeria vs. Tunisia</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c99920a9fadbb7ef9ce52c7393aad27c-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15287">
     <display-name>Gabon vs. Mozambique</display-name>
   </channel>
@@ -296,15 +287,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15449">
-    <display-name>Slovakia vs. Germany</display-name>
-  </channel>
-  <programme start="20251227190000 +0000" stop="20251227213000 +0000" channel="ppv-15449">
-    <title lang="en">Slovakia vs. Germany</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/241e1cb0c468923795054044bbb7d544-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15450">
     <display-name>Latvia vs. Canada</display-name>
