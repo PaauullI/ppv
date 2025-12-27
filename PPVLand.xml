@@ -171,51 +171,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15391">
-    <display-name>Miami Heat vs. Atlanta Hawks</display-name>
-  </channel>
-  <programme start="20251227000000 +0000" stop="20251227024800 +0000" channel="ppv-15391">
-    <title lang="en">Miami Heat vs. Atlanta Hawks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/687c9e3ca6cd83ff5819cf8aa42c1daf-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15392">
-    <display-name>Charlotte Hornets vs. Orlando Magic</display-name>
-  </channel>
-  <programme start="20251227000000 +0000" stop="20251227024800 +0000" channel="ppv-15392">
-    <title lang="en">Charlotte Hornets vs. Orlando Magic</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/e1b59703df1bc846770b184f28611c54-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15393">
-    <display-name>Toronto Raptors vs. Washington Wizards</display-name>
-  </channel>
-  <programme start="20251227000000 +0000" stop="20251227024800 +0000" channel="ppv-15393">
-    <title lang="en">Toronto Raptors vs. Washington Wizards</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/9df9472d2d239f78e53941d44b128edd-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15395">
-    <display-name>Boston Celtics vs. Indiana Pacers</display-name>
-  </channel>
-  <programme start="20251227000000 +0000" stop="20251227024800 +0000" channel="ppv-15395">
-    <title lang="en">Boston Celtics vs. Indiana Pacers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/311640a33f2404f4252aad3ac201afb6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15396">
-    <display-name>Philadelphia 76ers vs. Chicago Bulls</display-name>
-  </channel>
-  <programme start="20251227003000 +0000" stop="20251227031800 +0000" channel="ppv-15396">
-    <title lang="en">Philadelphia 76ers vs. Chicago Bulls</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/cec61e88a05c961e59d07258f3a6b629-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15397">
     <display-name>Milwaukee Bucks vs. Memphis Grizzlies</display-name>
   </channel>
@@ -242,6 +197,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/4c3d9df36efdb72aac3b7796c23d9f00-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15400">
+    <display-name>LA Clippers vs. Portland Trail Blazers</display-name>
+  </channel>
+  <programme start="20251227030000 +0000" stop="20251227054800 +0000" channel="ppv-15400">
+    <title lang="en">LA Clippers vs. Portland Trail Blazers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/19585c68b2f1eb8571d7cbe2f1cdb644-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15383">
     <display-name>Australia vs. England</display-name>
