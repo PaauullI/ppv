@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15420">
-    <display-name>Penn State Nittany Lions vs. Clemson Tigers</display-name>
-  </channel>
-  <programme start="20251227170000 +0000" stop="20251227203000 +0000" channel="ppv-15420">
-    <title lang="en">Penn State Nittany Lions vs. Clemson Tigers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/166a63cd0e9333f68f130af97c06a189-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15421">
     <display-name>UConn Huskies vs. Army Black Knights</display-name>
   </channel>
@@ -197,6 +188,15 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15451">
+    <display-name>Dallas Mavericks vs. Sacramento Kings</display-name>
+  </channel>
+  <programme start="20251227220000 +0000" stop="20251228004800 +0000" channel="ppv-15451">
+    <title lang="en">Dallas Mavericks vs. Sacramento Kings</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/30371b450c89b33978b7855c574e0538-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
