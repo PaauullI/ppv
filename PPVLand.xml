@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15417">
-    <display-name>New Mexico Lobos vs. Minnesota Golden Gophers</display-name>
-  </channel>
-  <programme start="20251226213000 +0000" stop="20251227010000 +0000" channel="ppv-15417">
-    <title lang="en">New Mexico Lobos vs. Minnesota Golden Gophers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/9004570f80af72d616058307b548063c-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15418">
     <display-name>Florida International Panthers vs. UTSA Roadrunners</display-name>
   </channel>
@@ -243,6 +234,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/4e66e12d17d7f304bd8f91436a74c8df-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15399">
+    <display-name>Detroit Pistons vs. Utah Jazz</display-name>
+  </channel>
+  <programme start="20251227023000 +0000" stop="20251227051800 +0000" channel="ppv-15399">
+    <title lang="en">Detroit Pistons vs. Utah Jazz</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/4c3d9df36efdb72aac3b7796c23d9f00-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15383">
     <display-name>Australia vs. England</display-name>
   </channel>
@@ -359,15 +359,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15404">
-    <display-name>USA vs. Germany</display-name>
-  </channel>
-  <programme start="20251226230000 +0000" stop="20251227013000 +0000" channel="ppv-15404">
-    <title lang="en">USA vs. Germany</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/ef5bcdc03bad0d160d12ba08a9401ca6-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15405">
     <display-name>Canada vs. Czechia</display-name>
