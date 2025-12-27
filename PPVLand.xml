@@ -9,6 +9,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/9ecafd5833d12a12b46ca00fe4ea4603-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15420">
+    <display-name>Penn State Nittany Lions vs. Clemson Tigers</display-name>
+  </channel>
+  <programme start="20251227170000 +0000" stop="20251227203000 +0000" channel="ppv-15420">
+    <title lang="en">Penn State Nittany Lions vs. Clemson Tigers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/166a63cd0e9333f68f130af97c06a189-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15421">
     <display-name>UConn Huskies vs. Army Black Knights</display-name>
   </channel>
@@ -18,6 +27,24 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/64e7d28df770096f64a10109b4786c0a-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15422">
+    <display-name>Georgia Tech Yellow Jackets vs. BYU Cougars</display-name>
+  </channel>
+  <programme start="20251227203000 +0000" stop="20251228000000 +0000" channel="ppv-15422">
+    <title lang="en">Georgia Tech Yellow Jackets vs. BYU Cougars</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/a8ea5d796a320aee2217d7353f7a1a72-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15347">
+    <display-name>Houston Texans vs. Los Angeles Chargers</display-name>
+  </channel>
+  <programme start="20251227213000 +0000" stop="20251228010000 +0000" channel="ppv-15347">
+    <title lang="en">Houston Texans vs. Los Angeles Chargers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/4aa181f5dc2a6ba15bb634a389592ce0-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15424">
     <display-name>North Texas Mean Green vs. San Diego State Aztecs</display-name>
   </channel>
@@ -26,6 +53,15 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/5ba7ae4003513a3231243c5e462b88e4-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15425">
+    <display-name>Virginia Cavaliers vs. Missouri Tigers</display-name>
+  </channel>
+  <programme start="20251228003000 +0000" stop="20251228040000 +0000" channel="ppv-15425">
+    <title lang="en">Virginia Cavaliers vs. Missouri Tigers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/363f9fa1c7a5ef7675995bdadf4fea1b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15426">
     <display-name>LSU Tigers vs. Houston Cougars</display-name>
@@ -80,6 +116,15 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/19c83767d7695ee83c1ba6d4e69dac2f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15433">
+    <display-name>Michigan Wolverines vs. Texas Longhorns</display-name>
+  </channel>
+  <programme start="20251231200000 +0000" stop="20251231233000 +0000" channel="ppv-15433">
+    <title lang="en">Michigan Wolverines vs. Texas Longhorns</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/c1373b1b99778a4a2fbe111db7e09331-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15434">
     <display-name>Nebraska Cornhuskers vs. Utah Utes</display-name>
@@ -171,15 +216,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15319">
-    <display-name>Torino vs. Cagliari</display-name>
-  </channel>
-  <programme start="20251227140000 +0000" stop="20251227163000 +0000" channel="ppv-15319">
-    <title lang="en">Torino vs. Cagliari</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b56ce66b9e28f118b25a63409a351c41-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5193">
     <display-name>Goal Rush</display-name>
   </channel>
@@ -188,15 +224,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15284">
-    <display-name>Senegal vs. Congo DR</display-name>
-  </channel>
-  <programme start="20251227150000 +0000" stop="20251227170000 +0000" channel="ppv-15284">
-    <title lang="en">Senegal vs. Congo DR</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c4ac43aa4405c3e85e1bd0daa562fe2d-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15309">
     <display-name>Arsenal vs. Brighton &amp; Hove Albion</display-name>
@@ -207,41 +234,14 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/314103ff84388e79ab57b61c4f8e5e98-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15310">
-    <display-name>Brentford vs. AFC Bournemouth</display-name>
+  <channel id="ppv-15320">
+    <display-name>Udinese vs. Lazio</display-name>
   </channel>
-  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15310">
-    <title lang="en">Brentford vs. AFC Bournemouth</title>
+  <programme start="20251227170000 +0000" stop="20251227193000 +0000" channel="ppv-15320">
+    <title lang="en">Udinese vs. Lazio</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/27ecf816e5ececca7169c176a8980ef0-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15311">
-    <display-name>Burnley vs. Everton</display-name>
-  </channel>
-  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15311">
-    <title lang="en">Burnley vs. Everton</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/6d98bbc129f9d903dc36d7537bd1f7e5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15312">
-    <display-name>Liverpool vs. Wolverhampton Wanderers</display-name>
-  </channel>
-  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15312">
-    <title lang="en">Liverpool vs. Wolverhampton Wanderers</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/abc63d6d6a8782ab6e65062f88329716-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15313">
-    <display-name>West Ham United vs. Fulham</display-name>
-  </channel>
-  <programme start="20251227150000 +0000" stop="20251227173000 +0000" channel="ppv-15313">
-    <title lang="en">West Ham United vs. Fulham</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8012c94dd2a5a9d3c678e941edb1dbcc-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/fa3a88b0d40d06d17ecce1ab668932f3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15285">
     <display-name>Uganda vs. Tanzania</display-name>
@@ -251,6 +251,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/6459ca9955f5647d30777c2c63b51a7d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15314">
+    <display-name>Chelsea vs. Aston Villa</display-name>
+  </channel>
+  <programme start="20251227173000 +0000" stop="20251227200000 +0000" channel="ppv-15314">
+    <title lang="en">Chelsea vs. Aston Villa</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/57ef40bc59d56d3a24d8f65fe68e3467-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15286">
     <display-name>Nigeria vs. Tunisia</display-name>
