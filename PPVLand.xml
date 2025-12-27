@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15419">
-    <display-name>Pittsburgh Panthers vs. East Carolina Pirates</display-name>
-  </channel>
-  <programme start="20251227160000 +0000" stop="20251227193000 +0000" channel="ppv-15419">
-    <title lang="en">Pittsburgh Panthers vs. East Carolina Pirates</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/9ecafd5833d12a12b46ca00fe4ea4603-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15420">
     <display-name>Penn State Nittany Lions vs. Clemson Tigers</display-name>
   </channel>
@@ -215,33 +206,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15320">
-    <display-name>Udinese vs. Lazio</display-name>
-  </channel>
-  <programme start="20251227170000 +0000" stop="20251227193000 +0000" channel="ppv-15320">
-    <title lang="en">Udinese vs. Lazio</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/fa3a88b0d40d06d17ecce1ab668932f3-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15285">
-    <display-name>Uganda vs. Tanzania</display-name>
-  </channel>
-  <programme start="20251227173000 +0000" stop="20251227193000 +0000" channel="ppv-15285">
-    <title lang="en">Uganda vs. Tanzania</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/6459ca9955f5647d30777c2c63b51a7d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15314">
-    <display-name>Chelsea vs. Aston Villa</display-name>
-  </channel>
-  <programme start="20251227173000 +0000" stop="20251227200000 +0000" channel="ppv-15314">
-    <title lang="en">Chelsea vs. Aston Villa</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/57ef40bc59d56d3a24d8f65fe68e3467-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15321">
     <display-name>Pisa vs. Juventus</display-name>
