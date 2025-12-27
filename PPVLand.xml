@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15421">
-    <display-name>UConn Huskies vs. Army Black Knights</display-name>
-  </channel>
-  <programme start="20251227191500 +0000" stop="20251227224500 +0000" channel="ppv-15421">
-    <title lang="en">UConn Huskies vs. Army Black Knights</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/64e7d28df770096f64a10109b4786c0a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15422">
     <display-name>Georgia Tech Yellow Jackets vs. BYU Cougars</display-name>
   </channel>
@@ -207,6 +198,24 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/30371b450c89b33978b7855c574e0538-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15454">
+    <display-name>Denver Nuggets vs. Orlando Magic</display-name>
+  </channel>
+  <programme start="20251228000000 +0000" stop="20251228024800 +0000" channel="ppv-15454">
+    <title lang="en">Denver Nuggets vs. Orlando Magic</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/4a29901f4dde5e0c40fbce8d0b03570d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15456">
+    <display-name>Phoenix Suns vs. New Orleans Pelicans</display-name>
+  </channel>
+  <programme start="20251228000000 +0000" stop="20251228024800 +0000" channel="ppv-15456">
+    <title lang="en">Phoenix Suns vs. New Orleans Pelicans</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/ceea940a77578c05b92403d86456231e-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -305,6 +314,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/d9cce467e5da82a143c74b010ad65c32-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15453">
+    <display-name>New York Rangers vs. New York Islanders</display-name>
+  </channel>
+  <programme start="20251227230000 +0000" stop="20251228020000 +0000" channel="ppv-15453">
+    <title lang="en">New York Rangers vs. New York Islanders</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/b1ad74219759ffde98ebcd7a0f351926-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15455">
     <display-name>Denmark vs. Czech Republic</display-name>
