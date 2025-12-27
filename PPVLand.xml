@@ -162,24 +162,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15461">
-    <display-name>Milwaukee Bucks vs. Chicago Bulls</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228034800 +0000" channel="ppv-15461">
-    <title lang="en">Milwaukee Bucks vs. Chicago Bulls</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/cb6f18f286b482cad2ae577c46f79b26-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15383">
-    <display-name>Australia vs. England</display-name>
-  </channel>
-  <programme start="20251226233000 +0000" stop="20251227073000 +0000" channel="ppv-15383">
-    <title lang="en">Australia vs. England</title>
-    <sub-title>Cricket</sub-title>
-    <category>Cricket</category>
-    <icon src="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15283">
     <display-name>Benin vs. Botswana</display-name>
   </channel>
