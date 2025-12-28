@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15425">
-    <display-name>Virginia Cavaliers vs. Missouri Tigers</display-name>
-  </channel>
-  <programme start="20251228003000 +0000" stop="20251228040000 +0000" channel="ppv-15425">
-    <title lang="en">Virginia Cavaliers vs. Missouri Tigers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/363f9fa1c7a5ef7675995bdadf4fea1b-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15354">
     <display-name>Baltimore Ravens vs. Green Bay Packers</display-name>
   </channel>
@@ -162,60 +153,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15458">
-    <display-name>New York Knicks vs. Atlanta Hawks</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228034800 +0000" channel="ppv-15458">
-    <title lang="en">New York Knicks vs. Atlanta Hawks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/73799728e6fc9f0b3b37f927b6864051-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15460">
-    <display-name>Indiana Pacers vs. Miami Heat</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228034800 +0000" channel="ppv-15460">
-    <title lang="en">Indiana Pacers vs. Miami Heat</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/195c0be0727628fc0b246a5630257de0-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15461">
-    <display-name>Milwaukee Bucks vs. Chicago Bulls</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228034800 +0000" channel="ppv-15461">
-    <title lang="en">Milwaukee Bucks vs. Chicago Bulls</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/cb6f18f286b482cad2ae577c46f79b26-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15463">
-    <display-name>Cleveland Cavaliers vs. Houston Rockets</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228034800 +0000" channel="ppv-15463">
-    <title lang="en">Cleveland Cavaliers vs. Houston Rockets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/5f5dbbf97bc5fecb51f99d3927d5a62c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15465">
-    <display-name>Brooklyn Nets vs. Minnesota Timberwolves</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228034800 +0000" channel="ppv-15465">
-    <title lang="en">Brooklyn Nets vs. Minnesota Timberwolves</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/b63314cd827fea10f889d600bd37256a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15467">
-    <display-name>Utah Jazz vs. San Antonio Spurs</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228034800 +0000" channel="ppv-15467">
-    <title lang="en">Utah Jazz vs. San Antonio Spurs</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/6d351ca8380aade234b06aacb4406e37-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -314,33 +251,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15469">
-    <display-name>Nashville Predators vs. St. Louis Blues</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228040000 +0000" channel="ppv-15469">
-    <title lang="en">Nashville Predators vs. St. Louis Blues</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/5f9c90a0f9c1bdba56e55af83844d693-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15470">
-    <display-name>Chicago Blackhawks vs. Dallas Stars</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228040000 +0000" channel="ppv-15470">
-    <title lang="en">Chicago Blackhawks vs. Dallas Stars</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/007417b307681477423a0c8580558c55-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15455">
-    <display-name>Denmark vs. Czech Republic</display-name>
-  </channel>
-  <programme start="20251228013000 +0000" stop="20251228040000 +0000" channel="ppv-15455">
-    <title lang="en">Denmark vs. Czech Republic</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/b8c279b001fc9546c69f869f1cd96602-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15471">
     <display-name>Anaheim Ducks vs. Los Angeles Kings</display-name>
