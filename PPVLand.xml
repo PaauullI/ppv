@@ -315,60 +315,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15457">
-    <display-name>Boston Bruins vs. Buffalo Sabres</display-name>
-  </channel>
-  <programme start="20251228000000 +0000" stop="20251228030000 +0000" channel="ppv-15457">
-    <title lang="en">Boston Bruins vs. Buffalo Sabres</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/460ba51fb6a22dc322fe7ff77af807ca-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15459">
-    <display-name>Ottawa Senators vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <programme start="20251228000000 +0000" stop="20251228030000 +0000" channel="ppv-15459">
-    <title lang="en">Ottawa Senators vs. Toronto Maple Leafs</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/6210a22aebfb8b0463fde91e4d660bd1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15462">
-    <display-name>Tampa Bay Lightning vs. Florida Panthers</display-name>
-  </channel>
-  <programme start="20251228000000 +0000" stop="20251228030000 +0000" channel="ppv-15462">
-    <title lang="en">Tampa Bay Lightning vs. Florida Panthers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/c0c1cfe29a1933e75a5947f17c8c73ad-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15464">
-    <display-name>Washington Capitals vs. New Jersey Devils</display-name>
-  </channel>
-  <programme start="20251228000000 +0000" stop="20251228030000 +0000" channel="ppv-15464">
-    <title lang="en">Washington Capitals vs. New Jersey Devils</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/f4e2a54029da0e642a3efa8b4f1c2f04-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15466">
-    <display-name>Detroit Red Wings vs. Carolina Hurricanes</display-name>
-  </channel>
-  <programme start="20251228000000 +0000" stop="20251228030000 +0000" channel="ppv-15466">
-    <title lang="en">Detroit Red Wings vs. Carolina Hurricanes</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/a3a876ff57032e27a380465560ae4988-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15468">
-    <display-name>Minnesota Wild vs. Winnipeg Jets</display-name>
-  </channel>
-  <programme start="20251228000000 +0000" stop="20251228030000 +0000" channel="ppv-15468">
-    <title lang="en">Minnesota Wild vs. Winnipeg Jets</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/8a8ed661ff2f799f0689134bd85709df-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15469">
     <display-name>Nashville Predators vs. St. Louis Blues</display-name>
   </channel>
