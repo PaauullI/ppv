@@ -189,33 +189,6 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/0b21ff6de85a66f183bb0e595aad1a4b-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15489">
-    <display-name>OKTAGON 81 (English)</display-name>
-  </channel>
-  <programme start="20251228170000 +0000" stop="20251228230000 +0000" channel="ppv-15489">
-    <title lang="en">OKTAGON 81 (English)</title>
-    <sub-title>Combat Sports</sub-title>
-    <category>Combat Sports</category>
-    <icon src="https://api.ppv.to/assets/thumb/a5b7e3bc8f16cbb7aabd26c1b43cba04-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15490">
-    <display-name>OKTAGON 81 (German)</display-name>
-  </channel>
-  <programme start="20251228170000 +0000" stop="20251228230000 +0000" channel="ppv-15490">
-    <title lang="en">OKTAGON 81 (German)</title>
-    <sub-title>Combat Sports</sub-title>
-    <category>Combat Sports</category>
-    <icon src="https://api.ppv.to/assets/thumb/a5b7e3bc8f16cbb7aabd26c1b43cba04-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15491">
-    <display-name>OKTAGON 81 (Czech)</display-name>
-  </channel>
-  <programme start="20251228170000 +0000" stop="20251228230000 +0000" channel="ppv-15491">
-    <title lang="en">OKTAGON 81 (Czech)</title>
-    <sub-title>Combat Sports</sub-title>
-    <category>Combat Sports</category>
-    <icon src="https://api.ppv.to/assets/thumb/a5b7e3bc8f16cbb7aabd26c1b43cba04-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
