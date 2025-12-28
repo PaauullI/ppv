@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15347">
-    <display-name>Houston Texans vs. Los Angeles Chargers</display-name>
-  </channel>
-  <programme start="20251227213000 +0000" stop="20251228010000 +0000" channel="ppv-15347">
-    <title lang="en">Houston Texans vs. Los Angeles Chargers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/4aa181f5dc2a6ba15bb634a389592ce0-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15423">
-    <display-name>Miami (OH) RedHawks vs. Fresno State Bulldogs</display-name>
-  </channel>
-  <programme start="20251227213000 +0000" stop="20251228010000 +0000" channel="ppv-15423">
-    <title lang="en">Miami (OH) RedHawks vs. Fresno State Bulldogs</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/4a32770098e2beb03d42cde00798fd6e-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15424">
     <display-name>North Texas Mean Green vs. San Diego State Aztecs</display-name>
   </channel>
@@ -35,6 +17,15 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/363f9fa1c7a5ef7675995bdadf4fea1b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15354">
+    <display-name>Baltimore Ravens vs. Green Bay Packers</display-name>
+  </channel>
+  <programme start="20251228010000 +0000" stop="20251228043000 +0000" channel="ppv-15354">
+    <title lang="en">Baltimore Ravens vs. Green Bay Packers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/de39ba20ea4671132358f4d801684320-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15426">
     <display-name>LSU Tigers vs. Houston Cougars</display-name>
@@ -180,15 +171,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15451">
-    <display-name>Dallas Mavericks vs. Sacramento Kings</display-name>
-  </channel>
-  <programme start="20251227220000 +0000" stop="20251228004800 +0000" channel="ppv-15451">
-    <title lang="en">Dallas Mavericks vs. Sacramento Kings</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/30371b450c89b33978b7855c574e0538-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15454">
     <display-name>Denver Nuggets vs. Orlando Magic</display-name>
   </channel>
@@ -270,6 +252,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/a325ba7490fb3271d96c92890ead13c2-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15315">
+    <display-name>Sunderland vs. Leeds United</display-name>
+  </channel>
+  <programme start="20251228140000 +0000" stop="20251228163000 +0000" channel="ppv-15315">
+    <title lang="en">Sunderland vs. Leeds United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/2283b42a20c3bbf41283bc10ad2c0d97-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15288">
     <display-name>Equatorial Guinea vs. Sudan</display-name>
   </channel>
@@ -278,6 +269,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/6484d9a6022907b1733cc9640d0d4a6b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15316">
+    <display-name>Crystal Palace vs. Tottenham Hotspur</display-name>
+  </channel>
+  <programme start="20251228163000 +0000" stop="20251228190000 +0000" channel="ppv-15316">
+    <title lang="en">Crystal Palace vs. Tottenham Hotspur</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/9041e5048b1d05666bf9b3a217adc617-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15289">
     <display-name>Algeria vs. Burkina Faso</display-name>
@@ -332,15 +332,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15452">
-    <display-name>United States vs. Switzerland</display-name>
-  </channel>
-  <programme start="20251227230000 +0000" stop="20251228013000 +0000" channel="ppv-15452">
-    <title lang="en">United States vs. Switzerland</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/d9cce467e5da82a143c74b010ad65c32-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15453">
     <display-name>New York Rangers vs. New York Islanders</display-name>
@@ -431,6 +422,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/b8c279b001fc9546c69f869f1cd96602-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15471">
+    <display-name>Anaheim Ducks vs. Los Angeles Kings</display-name>
+  </channel>
+  <programme start="20251228020000 +0000" stop="20251228050000 +0000" channel="ppv-15471">
+    <title lang="en">Anaheim Ducks vs. Los Angeles Kings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/95ba76f6cb37d3f7c1de35c4f132f3cd-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15475">
     <display-name>AEW: World&#x27;s End</display-name>
