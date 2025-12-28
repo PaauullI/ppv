@@ -207,6 +207,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15478">
+    <display-name>Golden State Warriors vs. Toronto Raptors</display-name>
+  </channel>
+  <programme start="20251228203000 +0000" stop="20251228231800 +0000" channel="ppv-15478">
+    <title lang="en">Golden State Warriors vs. Toronto Raptors</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/a6f4f7c5a92d89f4a1687abe1bf682d5-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15489">
     <display-name>OKTAGON 81 (English)</display-name>
   </channel>
