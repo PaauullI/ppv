@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15426">
-    <display-name>LSU Tigers vs. Houston Cougars</display-name>
-  </channel>
-  <programme start="20251228021500 +0000" stop="20251228054500 +0000" channel="ppv-15426">
-    <title lang="en">LSU Tigers vs. Houston Cougars</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b5fe61d543f89eb37fa97aa80fba6931-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15427">
     <display-name>Georgia Southern Eagles vs. App State Mountaineers</display-name>
   </channel>
@@ -242,33 +233,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15472">
-    <display-name>Edmonton Oilers vs. Calgary Flames</display-name>
-  </channel>
-  <programme start="20251228030000 +0000" stop="20251228060000 +0000" channel="ppv-15472">
-    <title lang="en">Edmonton Oilers vs. Calgary Flames</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/3c242a1efc7a635ec7d0790879e2b4e9-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15473">
-    <display-name>San Jose Sharks vs. Vancouver Canucks</display-name>
-  </channel>
-  <programme start="20251228030000 +0000" stop="20251228060000 +0000" channel="ppv-15473">
-    <title lang="en">San Jose Sharks vs. Vancouver Canucks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/30c57898b9363ff4adc3210fb19d7ace-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15474">
-    <display-name>Colorado Avalanche vs. Vegas Golden Knights</display-name>
-  </channel>
-  <programme start="20251228030000 +0000" stop="20251228060000 +0000" channel="ppv-15474">
-    <title lang="en">Colorado Avalanche vs. Vegas Golden Knights</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/e81a10d56fef9f50c9cfa373ac0b95f9-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
