@@ -144,6 +144,15 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15322">
+    <display-name>AC Milan vs. Hellas Verona</display-name>
+  </channel>
+  <programme start="20251228113000 +0000" stop="20251228140000 +0000" channel="ppv-15322">
+    <title lang="en">AC Milan vs. Hellas Verona</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/767b97568a9a2bba26deebf8c94056e0-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15287">
     <display-name>Gabon vs. Mozambique</display-name>
   </channel>
