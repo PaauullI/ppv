@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15354">
-    <display-name>Baltimore Ravens vs. Green Bay Packers</display-name>
-  </channel>
-  <programme start="20251228010000 +0000" stop="20251228043000 +0000" channel="ppv-15354">
-    <title lang="en">Baltimore Ravens vs. Green Bay Packers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/de39ba20ea4671132358f4d801684320-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15426">
     <display-name>LSU Tigers vs. Houston Cougars</display-name>
   </channel>
@@ -252,15 +243,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15471">
-    <display-name>Anaheim Ducks vs. Los Angeles Kings</display-name>
-  </channel>
-  <programme start="20251228020000 +0000" stop="20251228050000 +0000" channel="ppv-15471">
-    <title lang="en">Anaheim Ducks vs. Los Angeles Kings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/95ba76f6cb37d3f7c1de35c4f132f3cd-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15472">
     <display-name>Edmonton Oilers vs. Calgary Flames</display-name>
   </channel>
@@ -287,15 +269,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/e81a10d56fef9f50c9cfa373ac0b95f9-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15475">
-    <display-name>AEW: World&#x27;s End</display-name>
-  </channel>
-  <programme start="20251228000000 +0000" stop="20251228050000 +0000" channel="ppv-15475">
-    <title lang="en">AEW: World&#x27;s End</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/51025483c6980d4b9c1026b629c42537-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
