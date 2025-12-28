@@ -180,6 +180,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/9041e5048b1d05666bf9b3a217adc617-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15324">
+    <display-name>Bologna vs. Sassuolo</display-name>
+  </channel>
+  <programme start="20251228170000 +0000" stop="20251228193000 +0000" channel="ppv-15324">
+    <title lang="en">Bologna vs. Sassuolo</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/e64191771cbf9c6554dd7cc307250b9f-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15289">
     <display-name>Algeria vs. Burkina Faso</display-name>
   </channel>
