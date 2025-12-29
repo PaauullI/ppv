@@ -189,24 +189,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15483">
-    <display-name>Toronto Maple Leafs vs. Detroit Red Wings</display-name>
-  </channel>
-  <programme start="20251229000000 +0000" stop="20251229030000 +0000" channel="ppv-15483">
-    <title lang="en">Toronto Maple Leafs vs. Detroit Red Wings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/2f5d35babb22bbe9c031356c4c6494df-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15487">
-    <display-name>Pittsburgh Penguins vs. Chicago Blackhawks</display-name>
-  </channel>
-  <programme start="20251229000000 +0000" stop="20251229030000 +0000" channel="ppv-15487">
-    <title lang="en">Pittsburgh Penguins vs. Chicago Blackhawks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/27e0e890c4c1f6f735ddb4f319d22962-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15488">
     <display-name>Philadelphia Flyers vs. Seattle Kraken</display-name>
   </channel>
