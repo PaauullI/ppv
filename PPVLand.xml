@@ -135,24 +135,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15482">
-    <display-name>Memphis Grizzlies vs. Washington Wizards</display-name>
-  </channel>
-  <programme start="20251228230000 +0000" stop="20251229014800 +0000" channel="ppv-15482">
-    <title lang="en">Memphis Grizzlies vs. Washington Wizards</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/c0b9a6fd5f2c3d89192acc92d10c2b9c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15484">
-    <display-name>Boston Celtics vs. Portland Trail Blazers</display-name>
-  </channel>
-  <programme start="20251228230000 +0000" stop="20251229014800 +0000" channel="ppv-15484">
-    <title lang="en">Boston Celtics vs. Portland Trail Blazers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/0b21ff6de85a66f183bb0e595aad1a4b-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15485">
     <display-name>Detroit Pistons vs. LA Clippers</display-name>
   </channel>
