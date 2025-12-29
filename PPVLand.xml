@@ -27,6 +27,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/99d0118ed74a6f0772dc5389bfb457a8-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15380">
+    <display-name>Chicago Bears vs. San Francisco 49ers</display-name>
+  </channel>
+  <programme start="20251229012000 +0000" stop="20251229045000 +0000" channel="ppv-15380">
+    <title lang="en">Chicago Bears vs. San Francisco 49ers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/3c6e96c183dc419879fb33d07bf334de-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15427">
     <display-name>Georgia Southern Eagles vs. App State Mountaineers</display-name>
   </channel>
@@ -153,24 +162,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15478">
-    <display-name>Golden State Warriors vs. Toronto Raptors</display-name>
-  </channel>
-  <programme start="20251228203000 +0000" stop="20251228231800 +0000" channel="ppv-15478">
-    <title lang="en">Golden State Warriors vs. Toronto Raptors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/a6f4f7c5a92d89f4a1687abe1bf682d5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15480">
-    <display-name>Philadelphia 76ers vs. Oklahoma City Thunder</display-name>
-  </channel>
-  <programme start="20251228203000 +0000" stop="20251228231800 +0000" channel="ppv-15480">
-    <title lang="en">Philadelphia 76ers vs. Oklahoma City Thunder</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/1c199f13d40ddd56644d99cf6677532d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15482">
     <display-name>Memphis Grizzlies vs. Washington Wizards</display-name>
   </channel>
@@ -189,14 +180,14 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/0b21ff6de85a66f183bb0e595aad1a4b-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14899">
-    <display-name>World Darts Championship</display-name>
+  <channel id="ppv-15485">
+    <display-name>Detroit Pistons vs. LA Clippers</display-name>
   </channel>
-  <programme start="20251228123000 +0000" stop="20251228233000 +0000" channel="ppv-14899">
-    <title lang="en">World Darts Championship</title>
-    <sub-title>Darts</sub-title>
-    <category>Darts</category>
-    <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  <programme start="20251229020000 +0000" stop="20251229044800 +0000" channel="ppv-15485">
+    <title lang="en">Detroit Pistons vs. LA Clippers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/b266ee1a775e74f71027ddfff28b6a9f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15333">
     <display-name>Angola vs. Egypt</display-name>
@@ -234,14 +225,50 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15477">
-    <display-name>Finland vs. Latvia</display-name>
+  <channel id="ppv-15479">
+    <display-name>Montreal Canadiens vs. Tampa Bay Lightning</display-name>
   </channel>
-  <programme start="20251228213000 +0000" stop="20251229000000 +0000" channel="ppv-15477">
-    <title lang="en">Finland vs. Latvia</title>
+  <programme start="20251228220000 +0000" stop="20251229010000 +0000" channel="ppv-15479">
+    <title lang="en">Montreal Canadiens vs. Tampa Bay Lightning</title>
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/c1542521f574be70ad3d5dd1592b9d5e-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/71b0e5e2fd67507565c3d876e4ef5d04-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15481">
+    <display-name>New York Islanders vs. Columbus Blue Jackets</display-name>
+  </channel>
+  <programme start="20251228220000 +0000" stop="20251229010000 +0000" channel="ppv-15481">
+    <title lang="en">New York Islanders vs. Columbus Blue Jackets</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/c56da23b99ccd1158f38f71f75eab9c0-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15483">
+    <display-name>Toronto Maple Leafs vs. Detroit Red Wings</display-name>
+  </channel>
+  <programme start="20251229000000 +0000" stop="20251229030000 +0000" channel="ppv-15483">
+    <title lang="en">Toronto Maple Leafs vs. Detroit Red Wings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/2f5d35babb22bbe9c031356c4c6494df-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15487">
+    <display-name>Pittsburgh Penguins vs. Chicago Blackhawks</display-name>
+  </channel>
+  <programme start="20251229000000 +0000" stop="20251229030000 +0000" channel="ppv-15487">
+    <title lang="en">Pittsburgh Penguins vs. Chicago Blackhawks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/27e0e890c4c1f6f735ddb4f319d22962-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15488">
+    <display-name>Philadelphia Flyers vs. Seattle Kraken</display-name>
+  </channel>
+  <programme start="20251229010000 +0000" stop="20251229040000 +0000" channel="ppv-15488">
+    <title lang="en">Philadelphia Flyers vs. Seattle Kraken</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/4dde1f477cd91092b469482d781ee0aa-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
