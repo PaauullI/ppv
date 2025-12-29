@@ -162,15 +162,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15486">
-    <display-name>Sacramento Kings vs. Los Angeles Lakers</display-name>
-  </channel>
-  <programme start="20251229023000 +0000" stop="20251229051800 +0000" channel="ppv-15486">
-    <title lang="en">Sacramento Kings vs. Los Angeles Lakers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/d60c289079119ed5962af076b3812607-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15333">
     <display-name>Angola vs. Egypt</display-name>
   </channel>
