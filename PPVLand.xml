@@ -288,15 +288,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15540">
-    <display-name>Vancouver Canucks vs. Seattle Kraken</display-name>
-  </channel>
-  <programme start="20251230030000 +0000" stop="20251230060000 +0000" channel="ppv-15540">
-    <title lang="en">Vancouver Canucks vs. Seattle Kraken</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/e1d5a83d710f26d691c76181aeb6fb3d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
