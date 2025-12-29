@@ -153,6 +153,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15326">
+    <display-name>AS Roma vs. Genoa</display-name>
+  </channel>
+  <programme start="20251229194500 +0000" stop="20251229221500 +0000" channel="ppv-15326">
+    <title lang="en">AS Roma vs. Genoa</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/0b5e56b9047d65c0856b6195cf3856d9-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15589">
     <display-name>Tanzania vs. Tunisia</display-name>
   </channel>
