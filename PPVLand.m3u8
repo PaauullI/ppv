@@ -73,67 +73,67 @@ https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/darts/index.m3u8
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15326" tvg-name="AS Roma vs. Genoa" tvg-logo="https://api.ppv.to/assets/thumb/0b5e56b9047d65c0856b6195cf3856d9-thumbnail.jpg" group-title="SERIEA",AS Roma vs. Genoa
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/sa_roma/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/sa_roma/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15589" tvg-name="Tanzania vs. Tunisia" tvg-logo="https://api.ppv.to/assets/thumb/1d2f07d31b24afe5a3456ae7a1d97918-thumbnail.jpg" group-title="AFCON",Tanzania vs. Tunisia
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15590" tvg-name="Uganda vs. Nigeria" tvg-logo="https://api.ppv.to/assets/thumb/9fe15200b869c201676798c4048b0788-thumbnail.jpg" group-title="AFCON",Uganda vs. Nigeria
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15591" tvg-name="Benin vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/9164dc6f53212a6ecda4a48945e6cfed-thumbnail.jpg" group-title="AFCON",Benin vs. Senegal
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15592" tvg-name="Botswana vs. Congo DR" tvg-logo="https://api.ppv.to/assets/thumb/b89ca941fcd89e49736c03747be152cf-thumbnail.jpg" group-title="AFCON",Botswana vs. Congo DR
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15593" tvg-name="Equatorial Guinea vs. Algeria" tvg-logo="https://api.ppv.to/assets/thumb/7cf7727e3ecad0f8fefc602fbb424079-thumbnail.jpg" group-title="AFCON",Equatorial Guinea vs. Algeria
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15594" tvg-name="Sudan vs. Burkina Faso" tvg-logo="https://api.ppv.to/assets/thumb/e837742358d3fb6db7014aab70e66578-thumbnail.jpg" group-title="AFCON",Sudan vs. Burkina Faso
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15595" tvg-name="Gabon vs. Ivory Coast" tvg-logo="https://api.ppv.to/assets/thumb/98f915e221e53348d9b53382bd9acffc-thumbnail.jpg" group-title="AFCON",Gabon vs. Ivory Coast
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15596" tvg-name="Mozambique vs. Cameroon" tvg-logo="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" group-title="AFCON",Mozambique vs. Cameroon
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15509" tvg-name="Finland vs. Czech Republic" tvg-logo="https://api.ppv.to/assets/thumb/fe8f84bf609ae6d514f85f01bbfba435-thumbnail.jpg" group-title="WJC",Finland vs. Czech Republic
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/iihf/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/iihf/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15512" tvg-name="Slovakia vs. United States" tvg-logo="https://api.ppv.to/assets/thumb/4c403f0a5a421510eac8c212cb206560-thumbnail.jpg" group-title="WJC",Slovakia vs. United States
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/iihf/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/iihf/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15515" tvg-name="Canada vs. Denmark" tvg-logo="https://api.ppv.to/assets/thumb/7a751d6cac7397bc82ed1b3dadd72891-thumbnail.jpg" group-title="WJC",Canada vs. Denmark
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/iihf/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/iihf/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15583" tvg-name="WWE: Monday Night RAW" tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="🤼 WWE",WWE: Monday Night RAW
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
