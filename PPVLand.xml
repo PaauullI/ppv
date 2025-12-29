@@ -270,6 +270,15 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/4c403f0a5a421510eac8c212cb206560-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15515">
+    <display-name>Canada vs. Denmark</display-name>
+  </channel>
+  <programme start="20251230013000 +0000" stop="20251230040000 +0000" channel="ppv-15515">
+    <title lang="en">Canada vs. Denmark</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/7a751d6cac7397bc82ed1b3dadd72891-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15583">
     <display-name>WWE: Monday Night RAW</display-name>
   </channel>
