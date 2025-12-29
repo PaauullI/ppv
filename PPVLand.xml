@@ -135,24 +135,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15335">
-    <display-name>Comoros vs. Mali</display-name>
-  </channel>
-  <programme start="20251229190000 +0000" stop="20251229210000 +0000" channel="ppv-15335">
-    <title lang="en">Comoros vs. Mali</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/283ff43aacfcd8873528213e5f0bd53b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15336">
-    <display-name>Zambia vs. Morocco</display-name>
-  </channel>
-  <programme start="20251229190000 +0000" stop="20251229210000 +0000" channel="ppv-15336">
-    <title lang="en">Zambia vs. Morocco</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15326">
     <display-name>AS Roma vs. Genoa</display-name>
   </channel>
@@ -233,15 +215,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15508">
-    <display-name>Germany vs. Sweden</display-name>
-  </channel>
-  <programme start="20251229180000 +0000" stop="20251229203000 +0000" channel="ppv-15508">
-    <title lang="en">Germany vs. Sweden</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/d4cc821226ccc51102326ec6fca98141-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15509">
     <display-name>Finland vs. Czech Republic</display-name>
