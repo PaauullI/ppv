@@ -189,15 +189,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15488">
-    <display-name>Philadelphia Flyers vs. Seattle Kraken</display-name>
-  </channel>
-  <programme start="20251229010000 +0000" stop="20251229040000 +0000" channel="ppv-15488">
-    <title lang="en">Philadelphia Flyers vs. Seattle Kraken</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/4dde1f477cd91092b469482d781ee0aa-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
