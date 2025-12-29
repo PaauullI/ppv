@@ -162,6 +162,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14899">
+    <display-name>World Darts Championship</display-name>
+  </channel>
+  <programme start="20251229123000 +0000" stop="20251229233000 +0000" channel="ppv-14899">
+    <title lang="en">World Darts Championship</title>
+    <sub-title>Darts</sub-title>
+    <category>Darts</category>
+    <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15333">
     <display-name>Angola vs. Egypt</display-name>
   </channel>
@@ -269,6 +278,42 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15508">
+    <display-name>Germany vs. Sweden</display-name>
+  </channel>
+  <programme start="20251229180000 +0000" stop="20251229203000 +0000" channel="ppv-15508">
+    <title lang="en">Germany vs. Sweden</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/d4cc821226ccc51102326ec6fca98141-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15509">
+    <display-name>Finland vs. Czech Republic</display-name>
+  </channel>
+  <programme start="20251229203000 +0000" stop="20251229230000 +0000" channel="ppv-15509">
+    <title lang="en">Finland vs. Czech Republic</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/fe8f84bf609ae6d514f85f01bbfba435-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15512">
+    <display-name>Slovakia vs. United States</display-name>
+  </channel>
+  <programme start="20251229230000 +0000" stop="20251230013000 +0000" channel="ppv-15512">
+    <title lang="en">Slovakia vs. United States</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/4c403f0a5a421510eac8c212cb206560-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15515">
+    <display-name>Canada vs. Denmark</display-name>
+  </channel>
+  <programme start="20251230013000 +0000" stop="20251230040000 +0000" channel="ppv-15515">
+    <title lang="en">Canada vs. Denmark</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/7a751d6cac7397bc82ed1b3dadd72891-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
