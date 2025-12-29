@@ -270,24 +270,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15550">
-    <display-name>Crystal Palace vs. Fulham</display-name>
-  </channel>
-  <programme start="20260101173000 +0000" stop="20260101200000 +0000" channel="ppv-15550">
-    <title lang="en">Crystal Palace vs. Fulham</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/a9fe7d80e6985fd9ef940d4b3a8eab1a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15553">
-    <display-name>Sunderland vs. Manchester City</display-name>
-  </channel>
-  <programme start="20260101200000 +0000" stop="20260101223000 +0000" channel="ppv-15553">
-    <title lang="en">Sunderland vs. Manchester City</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
