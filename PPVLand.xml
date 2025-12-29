@@ -135,24 +135,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15333">
-    <display-name>Angola vs. Egypt</display-name>
-  </channel>
-  <programme start="20251229160000 +0000" stop="20251229180000 +0000" channel="ppv-15333">
-    <title lang="en">Angola vs. Egypt</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/083cca91bb79170f7010740874cedf83-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15334">
-    <display-name>Zimbabwe vs. South Africa</display-name>
-  </channel>
-  <programme start="20251229160000 +0000" stop="20251229180000 +0000" channel="ppv-15334">
-    <title lang="en">Zimbabwe vs. South Africa</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/a15a395c2d12b467ae03c857af0a956d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15335">
     <display-name>Comoros vs. Mali</display-name>
   </channel>
