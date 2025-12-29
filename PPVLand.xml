@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-11090">
-    <display-name>NFL RedZone</display-name>
-  </channel>
-  <programme start="20251228180000 +0000" stop="20251229010000 +0000" channel="ppv-11090">
-    <title lang="en">NFL RedZone</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15378">
-    <display-name>New York Giants vs. Las Vegas Raiders</display-name>
-  </channel>
-  <programme start="20251228210500 +0000" stop="20251229003500 +0000" channel="ppv-15378">
-    <title lang="en">New York Giants vs. Las Vegas Raiders</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/28ae5673cbb9e16046091b51d12b2c62-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15379">
-    <display-name>Philadelphia Eagles vs. Buffalo Bills</display-name>
-  </channel>
-  <programme start="20251228212500 +0000" stop="20251229005500 +0000" channel="ppv-15379">
-    <title lang="en">Philadelphia Eagles vs. Buffalo Bills</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/99d0118ed74a6f0772dc5389bfb457a8-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15380">
     <display-name>Chicago Bears vs. San Francisco 49ers</display-name>
   </channel>
@@ -189,6 +162,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/b266ee1a775e74f71027ddfff28b6a9f-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15486">
+    <display-name>Sacramento Kings vs. Los Angeles Lakers</display-name>
+  </channel>
+  <programme start="20251229023000 +0000" stop="20251229051800 +0000" channel="ppv-15486">
+    <title lang="en">Sacramento Kings vs. Los Angeles Lakers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/d60c289079119ed5962af076b3812607-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15333">
     <display-name>Angola vs. Egypt</display-name>
   </channel>
@@ -224,24 +206,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b30e758b4226fa904d70985e522c941e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15479">
-    <display-name>Montreal Canadiens vs. Tampa Bay Lightning</display-name>
-  </channel>
-  <programme start="20251228220000 +0000" stop="20251229010000 +0000" channel="ppv-15479">
-    <title lang="en">Montreal Canadiens vs. Tampa Bay Lightning</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/71b0e5e2fd67507565c3d876e4ef5d04-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15481">
-    <display-name>New York Islanders vs. Columbus Blue Jackets</display-name>
-  </channel>
-  <programme start="20251228220000 +0000" stop="20251229010000 +0000" channel="ppv-15481">
-    <title lang="en">New York Islanders vs. Columbus Blue Jackets</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/c56da23b99ccd1158f38f71f75eab9c0-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15483">
     <display-name>Toronto Maple Leafs vs. Detroit Red Wings</display-name>
