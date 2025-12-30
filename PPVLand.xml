@@ -162,51 +162,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-5193">
-    <display-name>Goal Rush</display-name>
-  </channel>
-  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-5193">
-    <title lang="en">Goal Rush</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15544">
-    <display-name>Burnley vs. Newcastle United</display-name>
-  </channel>
-  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15544">
-    <title lang="en">Burnley vs. Newcastle United</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c968525e3f6446851d4dce0d4202b7a5-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15545">
-    <display-name>Chelsea vs. AFC Bournemouth</display-name>
-  </channel>
-  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15545">
-    <title lang="en">Chelsea vs. AFC Bournemouth</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/12f5fc48b1b00cd626433f6b924ec4e7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15546">
-    <display-name>Nottingham Forest vs. Everton</display-name>
-  </channel>
-  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15546">
-    <title lang="en">Nottingham Forest vs. Everton</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/f177e6f6d9c3b72a2cab7656c0a954f6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15547">
-    <display-name>West Ham United vs. Brighton &amp; Hove Albion</display-name>
-  </channel>
-  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15547">
-    <title lang="en">West Ham United vs. Brighton &amp; Hove Albion</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8acf8ff2bafe8c7ae5b23256449a678a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15548">
     <display-name>Arsenal vs. Aston Villa</display-name>
   </channel>
@@ -260,15 +215,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15599">
-    <display-name>Switzerland vs. Germany</display-name>
-  </channel>
-  <programme start="20251230190000 +0000" stop="20251230213000 +0000" channel="ppv-15599">
-    <title lang="en">Switzerland vs. Germany</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/6a72bbabcb88be74e188c046bed222fd-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15600">
     <display-name>Latvia vs. Denmark</display-name>
