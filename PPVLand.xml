@@ -108,15 +108,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15605">
-    <display-name>Seattle Seahawks vs. San Francisco 49ers</display-name>
-  </channel>
-  <programme start="20260104010000 +0000" stop="20260104043000 +0000" channel="ppv-15605">
-    <title lang="en">Seattle Seahawks vs. San Francisco 49ers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/39529cbbb40bc30029e03703485ebd33-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15611">
     <display-name>Cleveland Browns vs. Cincinnati Bengals</display-name>
   </channel>
@@ -207,6 +198,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/c968525e3f6446851d4dce0d4202b7a5-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15545">
+    <display-name>Chelsea vs. AFC Bournemouth</display-name>
+  </channel>
+  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15545">
+    <title lang="en">Chelsea vs. AFC Bournemouth</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/12f5fc48b1b00cd626433f6b924ec4e7-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15546">
     <display-name>Nottingham Forest vs. Everton</display-name>
   </channel>
@@ -224,6 +224,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/8acf8ff2bafe8c7ae5b23256449a678a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15548">
+    <display-name>Arsenal vs. Aston Villa</display-name>
+  </channel>
+  <programme start="20251230201500 +0000" stop="20251230224500 +0000" channel="ppv-15548">
+    <title lang="en">Arsenal vs. Aston Villa</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/267224f2ee604859c3d96540a2581a5f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15549">
     <display-name>Manchester United vs. Wolverhampton Wanderers</display-name>
