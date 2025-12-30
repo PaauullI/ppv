@@ -216,6 +216,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/3bdfe60d4f2b86f9ce5e88dbc00cf993-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15537">
+    <display-name>Dallas Mavericks vs. Portland Trail Blazers</display-name>
+  </channel>
+  <programme start="20251230033000 +0000" stop="20251230061800 +0000" channel="ppv-15537">
+    <title lang="en">Dallas Mavericks vs. Portland Trail Blazers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/b8abe40b76c4a93b464b7d6f275cfedc-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15589">
     <display-name>Tanzania vs. Tunisia</display-name>
   </channel>
@@ -368,6 +377,33 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/8f4c9a4d600af2e42c5f30f8e4eeb831-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15535">
+    <display-name>Minnesota Wild vs. Vegas Golden Knights</display-name>
+  </channel>
+  <programme start="20251230030000 +0000" stop="20251230060000 +0000" channel="ppv-15535">
+    <title lang="en">Minnesota Wild vs. Vegas Golden Knights</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/22a8d020334fad310ececaaffaeb4b75-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15538">
+    <display-name>San Jose Sharks vs. Anaheim Ducks</display-name>
+  </channel>
+  <programme start="20251230030000 +0000" stop="20251230060000 +0000" channel="ppv-15538">
+    <title lang="en">San Jose Sharks vs. Anaheim Ducks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/494dfda37eebfc80cb041b16c1d4ad5d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15540">
+    <display-name>Vancouver Canucks vs. Seattle Kraken</display-name>
+  </channel>
+  <programme start="20251230030000 +0000" stop="20251230060000 +0000" channel="ppv-15540">
+    <title lang="en">Vancouver Canucks vs. Seattle Kraken</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/e1d5a83d710f26d691c76181aeb6fb3d-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15583">
     <display-name>WWE: Monday Night RAW</display-name>
