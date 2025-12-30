@@ -126,51 +126,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15525">
-    <display-name>Minnesota Timberwolves vs. Chicago Bulls</display-name>
-  </channel>
-  <programme start="20251230010000 +0000" stop="20251230034800 +0000" channel="ppv-15525">
-    <title lang="en">Minnesota Timberwolves vs. Chicago Bulls</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/e949248ab8236008cb8ae9615b4796eb-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15527">
-    <display-name>Indiana Pacers vs. Houston Rockets</display-name>
-  </channel>
-  <programme start="20251230010000 +0000" stop="20251230034800 +0000" channel="ppv-15527">
-    <title lang="en">Indiana Pacers vs. Houston Rockets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/4c5610d9ea39cefdf1c63f228bc04fe2-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15529">
-    <display-name>New York Knicks vs. New Orleans Pelicans</display-name>
-  </channel>
-  <programme start="20251230010000 +0000" stop="20251230034800 +0000" channel="ppv-15529">
-    <title lang="en">New York Knicks vs. New Orleans Pelicans</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/a0d626c16b303b91fb31e5f49c8e8b92-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15532">
-    <display-name>Atlanta Hawks vs. Oklahoma City Thunder</display-name>
-  </channel>
-  <programme start="20251230010000 +0000" stop="20251230034800 +0000" channel="ppv-15532">
-    <title lang="en">Atlanta Hawks vs. Oklahoma City Thunder</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/673e9a76cac3361e0ac591d76dc063a0-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15534">
-    <display-name>Cleveland Cavaliers vs. San Antonio Spurs</display-name>
-  </channel>
-  <programme start="20251230010000 +0000" stop="20251230034800 +0000" channel="ppv-15534">
-    <title lang="en">Cleveland Cavaliers vs. San Antonio Spurs</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/3bdfe60d4f2b86f9ce5e88dbc00cf993-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15537">
     <display-name>Dallas Mavericks vs. Portland Trail Blazers</display-name>
   </channel>
@@ -252,24 +207,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15523">
-    <display-name>Buffalo Sabres vs. St. Louis Blues</display-name>
-  </channel>
-  <programme start="20251230010000 +0000" stop="20251230040000 +0000" channel="ppv-15523">
-    <title lang="en">Buffalo Sabres vs. St. Louis Blues</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/f96da333abd8c714afe9cd5d487289a4-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15515">
-    <display-name>Canada vs. Denmark</display-name>
-  </channel>
-  <programme start="20251230013000 +0000" stop="20251230040000 +0000" channel="ppv-15515">
-    <title lang="en">Canada vs. Denmark</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/7a751d6cac7397bc82ed1b3dadd72891-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15526">
     <display-name>Los Angeles Kings vs. Colorado Avalanche</display-name>
   </channel>
@@ -323,15 +260,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/e1d5a83d710f26d691c76181aeb6fb3d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15583">
-    <display-name>WWE: Monday Night RAW</display-name>
-  </channel>
-  <programme start="20251230010000 +0000" stop="20251230040000 +0000" channel="ppv-15583">
-    <title lang="en">WWE: Monday Night RAW</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15584">
     <display-name>WWE: NXT</display-name>
