@@ -153,6 +153,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-14899">
+    <display-name>World Darts Championship</display-name>
+  </channel>
+  <programme start="20251230123000 +0000" stop="20251230233000 +0000" channel="ppv-14899">
+    <title lang="en">World Darts Championship</title>
+    <sub-title>Darts</sub-title>
+    <category>Darts</category>
+    <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15589">
     <display-name>Tanzania vs. Tunisia</display-name>
   </channel>
@@ -224,6 +233,24 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15599">
+    <display-name>Switzerland vs. Germany</display-name>
+  </channel>
+  <programme start="20251230190000 +0000" stop="20251230213000 +0000" channel="ppv-15599">
+    <title lang="en">Switzerland vs. Germany</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/6a72bbabcb88be74e188c046bed222fd-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15600">
+    <display-name>Latvia vs. Denmark</display-name>
+  </channel>
+  <programme start="20251230213000 +0000" stop="20251231000000 +0000" channel="ppv-15600">
+    <title lang="en">Latvia vs. Denmark</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/d73b1d84fe2c7073dcc89791f2a65e6e-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15584">
     <display-name>WWE: NXT</display-name>
