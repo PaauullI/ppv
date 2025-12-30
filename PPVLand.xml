@@ -162,24 +162,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15591">
-    <display-name>Benin vs. Senegal</display-name>
-  </channel>
-  <programme start="20251230190000 +0000" stop="20251230210000 +0000" channel="ppv-15591">
-    <title lang="en">Benin vs. Senegal</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/9164dc6f53212a6ecda4a48945e6cfed-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15592">
-    <display-name>Botswana vs. Congo DR</display-name>
-  </channel>
-  <programme start="20251230190000 +0000" stop="20251230210000 +0000" channel="ppv-15592">
-    <title lang="en">Botswana vs. Congo DR</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b89ca941fcd89e49736c03747be152cf-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-5193">
     <display-name>Goal Rush</display-name>
   </channel>
