@@ -162,15 +162,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15537">
-    <display-name>Dallas Mavericks vs. Portland Trail Blazers</display-name>
-  </channel>
-  <programme start="20251230033000 +0000" stop="20251230061800 +0000" channel="ppv-15537">
-    <title lang="en">Dallas Mavericks vs. Portland Trail Blazers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/b8abe40b76c4a93b464b7d6f275cfedc-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15589">
     <display-name>Tanzania vs. Tunisia</display-name>
   </channel>
