@@ -108,15 +108,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15608">
-    <display-name>New Orleans Saints vs. Atlanta Falcons</display-name>
-  </channel>
-  <programme start="20260104180000 +0000" stop="20260104213000 +0000" channel="ppv-15608">
-    <title lang="en">New Orleans Saints vs. Atlanta Falcons</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15611">
     <display-name>Cleveland Browns vs. Cincinnati Bengals</display-name>
   </channel>
