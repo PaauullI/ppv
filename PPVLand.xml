@@ -243,33 +243,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15535">
-    <display-name>Minnesota Wild vs. Vegas Golden Knights</display-name>
-  </channel>
-  <programme start="20251230030000 +0000" stop="20251230060000 +0000" channel="ppv-15535">
-    <title lang="en">Minnesota Wild vs. Vegas Golden Knights</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/22a8d020334fad310ececaaffaeb4b75-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15538">
-    <display-name>San Jose Sharks vs. Anaheim Ducks</display-name>
-  </channel>
-  <programme start="20251230030000 +0000" stop="20251230060000 +0000" channel="ppv-15538">
-    <title lang="en">San Jose Sharks vs. Anaheim Ducks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/494dfda37eebfc80cb041b16c1d4ad5d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15540">
-    <display-name>Vancouver Canucks vs. Seattle Kraken</display-name>
-  </channel>
-  <programme start="20251230030000 +0000" stop="20251230060000 +0000" channel="ppv-15540">
-    <title lang="en">Vancouver Canucks vs. Seattle Kraken</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/e1d5a83d710f26d691c76181aeb6fb3d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15584">
     <display-name>WWE: NXT</display-name>
   </channel>
