@@ -189,6 +189,51 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b89ca941fcd89e49736c03747be152cf-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-5193">
+    <display-name>Goal Rush</display-name>
+  </channel>
+  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-5193">
+    <title lang="en">Goal Rush</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15544">
+    <display-name>Burnley vs. Newcastle United</display-name>
+  </channel>
+  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15544">
+    <title lang="en">Burnley vs. Newcastle United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/c968525e3f6446851d4dce0d4202b7a5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15546">
+    <display-name>Nottingham Forest vs. Everton</display-name>
+  </channel>
+  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15546">
+    <title lang="en">Nottingham Forest vs. Everton</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/f177e6f6d9c3b72a2cab7656c0a954f6-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15547">
+    <display-name>West Ham United vs. Brighton &amp; Hove Albion</display-name>
+  </channel>
+  <programme start="20251230193000 +0000" stop="20251230220000 +0000" channel="ppv-15547">
+    <title lang="en">West Ham United vs. Brighton &amp; Hove Albion</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/8acf8ff2bafe8c7ae5b23256449a678a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15549">
+    <display-name>Manchester United vs. Wolverhampton Wanderers</display-name>
+  </channel>
+  <programme start="20251230201500 +0000" stop="20251230224500 +0000" channel="ppv-15549">
+    <title lang="en">Manchester United vs. Wolverhampton Wanderers</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/8c3d6b576b58c71264774fc39227d2dc-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15593">
     <display-name>Equatorial Guinea vs. Algeria</display-name>
   </channel>
