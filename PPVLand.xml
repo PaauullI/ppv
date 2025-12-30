@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15428">
-    <display-name>Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs</display-name>
-  </channel>
-  <programme start="20251230190000 +0000" stop="20251230223000 +0000" channel="ppv-15428">
-    <title lang="en">Coastal Carolina Chanticleers vs. Louisiana Tech Bulldogs</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/01e2ba4fa3116d354ddb171a3593390f-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15429">
     <display-name>Tennessee Volunteers vs. Illinois Fighting Illini</display-name>
   </channel>
@@ -161,24 +152,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15548">
-    <display-name>Arsenal vs. Aston Villa</display-name>
-  </channel>
-  <programme start="20251230201500 +0000" stop="20251230224500 +0000" channel="ppv-15548">
-    <title lang="en">Arsenal vs. Aston Villa</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/267224f2ee604859c3d96540a2581a5f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15549">
-    <display-name>Manchester United vs. Wolverhampton Wanderers</display-name>
-  </channel>
-  <programme start="20251230201500 +0000" stop="20251230224500 +0000" channel="ppv-15549">
-    <title lang="en">Manchester United vs. Wolverhampton Wanderers</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8c3d6b576b58c71264774fc39227d2dc-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15593">
     <display-name>Equatorial Guinea vs. Algeria</display-name>
