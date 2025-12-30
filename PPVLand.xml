@@ -126,51 +126,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15511">
-    <display-name>Milwaukee Bucks vs. Charlotte Hornets</display-name>
-  </channel>
-  <programme start="20251230000000 +0000" stop="20251230024800 +0000" channel="ppv-15511">
-    <title lang="en">Milwaukee Bucks vs. Charlotte Hornets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/93220b806877b899320236079156017e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15514">
-    <display-name>Phoenix Suns vs. Washington Wizards</display-name>
-  </channel>
-  <programme start="20251230000000 +0000" stop="20251230024800 +0000" channel="ppv-15514">
-    <title lang="en">Phoenix Suns vs. Washington Wizards</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/c61476a82fdab56c6174f8ef567937ad-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15518">
-    <display-name>Golden State Warriors vs. Brooklyn Nets</display-name>
-  </channel>
-  <programme start="20251230003000 +0000" stop="20251230031800 +0000" channel="ppv-15518">
-    <title lang="en">Golden State Warriors vs. Brooklyn Nets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/ad64ae2cdd86c6b69ff779acc7a993a7-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15520">
-    <display-name>Denver Nuggets vs. Miami Heat</display-name>
-  </channel>
-  <programme start="20251230003000 +0000" stop="20251230031800 +0000" channel="ppv-15520">
-    <title lang="en">Denver Nuggets vs. Miami Heat</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/bbc14208f911727f832223b6c6bb137d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15522">
-    <display-name>Orlando Magic vs. Toronto Raptors</display-name>
-  </channel>
-  <programme start="20251230003000 +0000" stop="20251230031800 +0000" channel="ppv-15522">
-    <title lang="en">Orlando Magic vs. Toronto Raptors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/1b91aa800fbe873cd2b889e54b15eac6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15525">
     <display-name>Minnesota Timberwolves vs. Chicago Bulls</display-name>
   </channel>
@@ -296,42 +251,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15510">
-    <display-name>Columbus Blue Jackets vs. Ottawa Senators</display-name>
-  </channel>
-  <programme start="20251230000000 +0000" stop="20251230030000 +0000" channel="ppv-15510">
-    <title lang="en">Columbus Blue Jackets vs. Ottawa Senators</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/124fc38dee9322aef6c4c343995a796f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15513">
-    <display-name>Washington Capitals vs. Florida Panthers</display-name>
-  </channel>
-  <programme start="20251230000000 +0000" stop="20251230030000 +0000" channel="ppv-15513">
-    <title lang="en">Washington Capitals vs. Florida Panthers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/e55d314009fbb3a9b3d61364ad95df1d-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15516">
-    <display-name>New York Rangers vs. Carolina Hurricanes</display-name>
-  </channel>
-  <programme start="20251230000000 +0000" stop="20251230030000 +0000" channel="ppv-15516">
-    <title lang="en">New York Rangers vs. Carolina Hurricanes</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/0796c6ff9e54ef2c503d09efa9822ae6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15521">
-    <display-name>Edmonton Oilers vs. Winnipeg Jets</display-name>
-  </channel>
-  <programme start="20251230003000 +0000" stop="20251230033000 +0000" channel="ppv-15521">
-    <title lang="en">Edmonton Oilers vs. Winnipeg Jets</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/5579d6c24d0972c046df846a875649a5-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15523">
     <display-name>Buffalo Sabres vs. St. Louis Blues</display-name>
