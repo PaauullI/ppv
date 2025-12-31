@@ -144,10 +144,37 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15601">
+    <display-name>Philadelphia 76ers vs. Memphis Grizzlies</display-name>
+  </channel>
+  <programme start="20251231010000 +0000" stop="20251231034800 +0000" channel="ppv-15601">
+    <title lang="en">Philadelphia 76ers vs. Memphis Grizzlies</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15603">
+    <display-name>Boston Celtics vs. Utah Jazz</display-name>
+  </channel>
+  <programme start="20251231020000 +0000" stop="20251231044800 +0000" channel="ppv-15603">
+    <title lang="en">Boston Celtics vs. Utah Jazz</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15631">
+    <display-name>RIZIN Year-End Super Powerhouse Matsuri</display-name>
+  </channel>
+  <programme start="20251231040000 +0000" stop="20251231120000 +0000" channel="ppv-15631">
+    <title lang="en">RIZIN Year-End Super Powerhouse Matsuri</title>
+    <sub-title>Combat Sports</sub-title>
+    <category>Combat Sports</category>
+    <icon src="https://api.ppv.to/assets/thumb/b2854a01b4337177b7b5ffd0c8502443-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
-  <programme start="20251230123000 +0000" stop="20251230233000 +0000" channel="ppv-14899">
+  <programme start="20260101123000 +0000" stop="20260101233000 +0000" channel="ppv-14899">
     <title lang="en">World Darts Championship</title>
     <sub-title>Darts</sub-title>
     <category>Darts</category>
@@ -189,14 +216,32 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15600">
-    <display-name>Latvia vs. Denmark</display-name>
+  <channel id="ppv-15604">
+    <display-name>New Jersey Devils vs. Toronto Maple Leafs</display-name>
   </channel>
-  <programme start="20251230213000 +0000" stop="20251231000000 +0000" channel="ppv-15600">
-    <title lang="en">Latvia vs. Denmark</title>
+  <programme start="20251231000000 +0000" stop="20251231030000 +0000" channel="ppv-15604">
+    <title lang="en">New Jersey Devils vs. Toronto Maple Leafs</title>
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/d73b1d84fe2c7073dcc89791f2a65e6e-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/53b0ca55b0cdc7a21d58d63123362354-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15607">
+    <display-name>Montreal Canadiens vs. Florida Panthers</display-name>
+  </channel>
+  <programme start="20251231000000 +0000" stop="20251231030000 +0000" channel="ppv-15607">
+    <title lang="en">Montreal Canadiens vs. Florida Panthers</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/bf291812b5082f4713dd4b3ca5cb4f53-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15610">
+    <display-name>Carolina Hurricanes vs. Pittsburgh Penguins</display-name>
+  </channel>
+  <programme start="20251231000000 +0000" stop="20251231030000 +0000" channel="ppv-15610">
+    <title lang="en">Carolina Hurricanes vs. Pittsburgh Penguins</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/3477a6a3de03d790863c04fe91c1a0c6-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15584">
     <display-name>WWE: NXT</display-name>
