@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15431">
-    <display-name>Iowa Hawkeyes vs. Vanderbilt Commodores</display-name>
-  </channel>
-  <programme start="20251231170000 +0000" stop="20251231203000 +0000" channel="ppv-15431">
-    <title lang="en">Iowa Hawkeyes vs. Vanderbilt Commodores</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/19c83767d7695ee83c1ba6d4e69dac2f-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15432">
     <display-name>Arizona State Sun Devils vs. Duke Blue Devils</display-name>
   </channel>
@@ -153,15 +144,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15633">
-    <display-name>Golden State Warriors vs. Charlotte Hornets</display-name>
-  </channel>
-  <programme start="20251231180000 +0000" stop="20251231204800 +0000" channel="ppv-15633">
-    <title lang="en">Golden State Warriors vs. Charlotte Hornets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/147012f2debdbf7f5f8ebb987daaace9-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15635">
     <display-name>Minnesota Timberwolves vs. Atlanta Hawks</display-name>
   </channel>
@@ -198,42 +180,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15595">
-    <display-name>Gabon vs. Ivory Coast</display-name>
-  </channel>
-  <programme start="20251231190000 +0000" stop="20251231210000 +0000" channel="ppv-15595">
-    <title lang="en">Gabon vs. Ivory Coast</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/98f915e221e53348d9b53382bd9acffc-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15596">
-    <display-name>Mozambique vs. Cameroon</display-name>
-  </channel>
-  <programme start="20251231190000 +0000" stop="20251231210000 +0000" channel="ppv-15596">
-    <title lang="en">Mozambique vs. Cameroon</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15636">
-    <display-name>New York Rangers vs. Washington Capitals</display-name>
-  </channel>
-  <programme start="20251231173000 +0000" stop="20251231203000 +0000" channel="ppv-15636">
-    <title lang="en">New York Rangers vs. Washington Capitals</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/c31a69186c159382971372a6aec487de-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15632">
-    <display-name>Switzerland vs. Slovakia</display-name>
-  </channel>
-  <programme start="20251231180000 +0000" stop="20251231203000 +0000" channel="ppv-15632">
-    <title lang="en">Switzerland vs. Slovakia</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/b7c2579c6b2628ffb11d354e818596e0-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15641">
     <display-name>Nashville Predators vs. Vegas Golden Knights</display-name>
   </channel>
@@ -251,6 +197,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/abe6a750f4faa62d0b754751a98a714a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15643">
+    <display-name>Tampa Bay Lightning vs. Anaheim Ducks</display-name>
+  </channel>
+  <programme start="20251231210000 +0000" stop="20260101000000 +0000" channel="ppv-15643">
+    <title lang="en">Tampa Bay Lightning vs. Anaheim Ducks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/88076b9edbdea445fdaf360469c425d7-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15646">
+    <display-name>Minnesota Wild vs. San Jose Sharks</display-name>
+  </channel>
+  <programme start="20251231210000 +0000" stop="20260101000000 +0000" channel="ppv-15646">
+    <title lang="en">Minnesota Wild vs. San Jose Sharks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/11a54adb11dea9e0d84e09c3ec8dc51b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15637">
     <display-name>United States vs. Sweden</display-name>
@@ -317,6 +281,15 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
