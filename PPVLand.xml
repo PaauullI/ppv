@@ -243,6 +243,15 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/3477a6a3de03d790863c04fe91c1a0c6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15612">
+    <display-name>New York Islanders vs. Chicago Blackhawks</display-name>
+  </channel>
+  <programme start="20251231013000 +0000" stop="20251231043000 +0000" channel="ppv-15612">
+    <title lang="en">New York Islanders vs. Chicago Blackhawks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/1e79b82330640b8d2618473718270563-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15584">
     <display-name>WWE: NXT</display-name>
   </channel>
