@@ -81,6 +81,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15608">
+    <display-name>New Orleans Saints vs. Atlanta Falcons</display-name>
+  </channel>
+  <programme start="20260104180000 +0000" stop="20260104213000 +0000" channel="ppv-15608">
+    <title lang="en">New Orleans Saints vs. Atlanta Falcons</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15611">
     <display-name>Cleveland Browns vs. Cincinnati Bengals</display-name>
   </channel>
@@ -143,24 +152,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15593">
-    <display-name>Equatorial Guinea vs. Algeria</display-name>
-  </channel>
-  <programme start="20251231160000 +0000" stop="20251231180000 +0000" channel="ppv-15593">
-    <title lang="en">Equatorial Guinea vs. Algeria</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/7cf7727e3ecad0f8fefc602fbb424079-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15594">
-    <display-name>Sudan vs. Burkina Faso</display-name>
-  </channel>
-  <programme start="20251231160000 +0000" stop="20251231180000 +0000" channel="ppv-15594">
-    <title lang="en">Sudan vs. Burkina Faso</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/e837742358d3fb6db7014aab70e66578-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15595">
     <display-name>Gabon vs. Ivory Coast</display-name>
