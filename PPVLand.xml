@@ -135,15 +135,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15601">
-    <display-name>Philadelphia 76ers vs. Memphis Grizzlies</display-name>
-  </channel>
-  <programme start="20251231010000 +0000" stop="20251231034800 +0000" channel="ppv-15601">
-    <title lang="en">Philadelphia 76ers vs. Memphis Grizzlies</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15603">
     <display-name>Boston Celtics vs. Utah Jazz</display-name>
   </channel>
@@ -242,15 +233,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/2d8a969d4aaa5125802891c54bbfd20b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15584">
-    <display-name>WWE: NXT</display-name>
-  </channel>
-  <programme start="20251231010000 +0000" stop="20251231040000 +0000" channel="ppv-15584">
-    <title lang="en">WWE: NXT</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15585">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
