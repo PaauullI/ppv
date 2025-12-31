@@ -135,15 +135,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15603">
-    <display-name>Boston Celtics vs. Utah Jazz</display-name>
-  </channel>
-  <programme start="20251231020000 +0000" stop="20251231044800 +0000" channel="ppv-15603">
-    <title lang="en">Boston Celtics vs. Utah Jazz</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15606">
     <display-name>Detroit Pistons vs. Los Angeles Lakers</display-name>
   </channel>
@@ -215,15 +206,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15612">
-    <display-name>New York Islanders vs. Chicago Blackhawks</display-name>
-  </channel>
-  <programme start="20251231013000 +0000" stop="20251231043000 +0000" channel="ppv-15612">
-    <title lang="en">New York Islanders vs. Chicago Blackhawks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/1e79b82330640b8d2618473718270563-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15613">
     <display-name>Philadelphia Flyers vs. Vancouver Canucks</display-name>
