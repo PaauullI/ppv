@@ -9,6 +9,24 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/19c83767d7695ee83c1ba6d4e69dac2f-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15432">
+    <display-name>Arizona State Sun Devils vs. Duke Blue Devils</display-name>
+  </channel>
+  <programme start="20251231190000 +0000" stop="20251231223000 +0000" channel="ppv-15432">
+    <title lang="en">Arizona State Sun Devils vs. Duke Blue Devils</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/02c1fdd0d04e56aa18cb873791915726-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15433">
+    <display-name>Michigan Wolverines vs. Texas Longhorns</display-name>
+  </channel>
+  <programme start="20251231200000 +0000" stop="20251231233000 +0000" channel="ppv-15433">
+    <title lang="en">Michigan Wolverines vs. Texas Longhorns</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/c1373b1b99778a4a2fbe111db7e09331-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15434">
     <display-name>Nebraska Cornhuskers vs. Utah Utes</display-name>
   </channel>
@@ -216,6 +234,15 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/b7c2579c6b2628ffb11d354e818596e0-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15641">
+    <display-name>Nashville Predators vs. Vegas Golden Knights</display-name>
+  </channel>
+  <programme start="20251231200000 +0000" stop="20251231230000 +0000" channel="ppv-15641">
+    <title lang="en">Nashville Predators vs. Vegas Golden Knights</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/78fede552d4d01f3b3adc503cbb706c3-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15634">
     <display-name>Czech Republic vs. Latvia</display-name>
   </channel>
@@ -290,15 +317,6 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-8008">
-    <display-name>24/7 Family Guy</display-name>
-  </channel>
-  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
-    <title lang="en">24/7 Family Guy</title>
-    <sub-title>24/7 Streams</sub-title>
-    <category>24/7 Streams</category>
-    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
   </programme>
   <channel id="ppv-5191">
     <display-name>24/7 The Simpsons</display-name>
