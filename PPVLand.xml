@@ -180,6 +180,42 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15632">
+    <display-name>Switzerland vs. Slovakia</display-name>
+  </channel>
+  <programme start="20251231180000 +0000" stop="20251231203000 +0000" channel="ppv-15632">
+    <title lang="en">Switzerland vs. Slovakia</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/b7c2579c6b2628ffb11d354e818596e0-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15634">
+    <display-name>Czech Republic vs. Latvia</display-name>
+  </channel>
+  <programme start="20251231203000 +0000" stop="20251231230000 +0000" channel="ppv-15634">
+    <title lang="en">Czech Republic vs. Latvia</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/abe6a750f4faa62d0b754751a98a714a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15637">
+    <display-name>United States vs. Sweden</display-name>
+  </channel>
+  <programme start="20251231230000 +0000" stop="20260101013000 +0000" channel="ppv-15637">
+    <title lang="en">United States vs. Sweden</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/f38cc95b7b34f4b422c745776f6455bd-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15639">
+    <display-name>Canada vs. Finland</display-name>
+  </channel>
+  <programme start="20260101013000 +0000" stop="20260101040000 +0000" channel="ppv-15639">
+    <title lang="en">Canada vs. Finland</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/21f2c7836918954d7e911971a6ac6f73-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15585">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
   </channel>
