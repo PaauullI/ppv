@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15430">
-    <display-name>USC Trojans vs. TCU Horned Frogs</display-name>
-  </channel>
-  <programme start="20251231020000 +0000" stop="20251231053000 +0000" channel="ppv-15430">
-    <title lang="en">USC Trojans vs. TCU Horned Frogs</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/5ae695ca25a72e8c4672d7134cc21bd6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15431">
     <display-name>Iowa Hawkeyes vs. Vanderbilt Commodores</display-name>
   </channel>
@@ -206,15 +197,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15613">
-    <display-name>Philadelphia Flyers vs. Vancouver Canucks</display-name>
-  </channel>
-  <programme start="20251231030000 +0000" stop="20251231060000 +0000" channel="ppv-15613">
-    <title lang="en">Philadelphia Flyers vs. Vancouver Canucks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/2d8a969d4aaa5125802891c54bbfd20b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15585">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
