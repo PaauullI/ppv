@@ -225,33 +225,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15604">
-    <display-name>New Jersey Devils vs. Toronto Maple Leafs</display-name>
-  </channel>
-  <programme start="20251231000000 +0000" stop="20251231030000 +0000" channel="ppv-15604">
-    <title lang="en">New Jersey Devils vs. Toronto Maple Leafs</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/53b0ca55b0cdc7a21d58d63123362354-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15607">
-    <display-name>Montreal Canadiens vs. Florida Panthers</display-name>
-  </channel>
-  <programme start="20251231000000 +0000" stop="20251231030000 +0000" channel="ppv-15607">
-    <title lang="en">Montreal Canadiens vs. Florida Panthers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/bf291812b5082f4713dd4b3ca5cb4f53-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15610">
-    <display-name>Carolina Hurricanes vs. Pittsburgh Penguins</display-name>
-  </channel>
-  <programme start="20251231000000 +0000" stop="20251231030000 +0000" channel="ppv-15610">
-    <title lang="en">Carolina Hurricanes vs. Pittsburgh Penguins</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/3477a6a3de03d790863c04fe91c1a0c6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15612">
     <display-name>New York Islanders vs. Chicago Blackhawks</display-name>
   </channel>
