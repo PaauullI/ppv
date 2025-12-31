@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15429">
-    <display-name>Tennessee Volunteers vs. Illinois Fighting Illini</display-name>
-  </channel>
-  <programme start="20251230223000 +0000" stop="20251231020000 +0000" channel="ppv-15429">
-    <title lang="en">Tennessee Volunteers vs. Illinois Fighting Illini</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/8598245c737223b86ae56d7dbf82564f-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15430">
     <display-name>USC Trojans vs. TCU Horned Frogs</display-name>
   </channel>
@@ -162,6 +153,24 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15606">
+    <display-name>Detroit Pistons vs. Los Angeles Lakers</display-name>
+  </channel>
+  <programme start="20251231033000 +0000" stop="20251231061800 +0000" channel="ppv-15606">
+    <title lang="en">Detroit Pistons vs. Los Angeles Lakers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15609">
+    <display-name>Sacramento Kings vs. LA Clippers</display-name>
+  </channel>
+  <programme start="20251231040000 +0000" stop="20251231064800 +0000" channel="ppv-15609">
+    <title lang="en">Sacramento Kings vs. LA Clippers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15631">
     <display-name>RIZIN Year-End Super Powerhouse Matsuri</display-name>
   </channel>
@@ -251,6 +260,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/1e79b82330640b8d2618473718270563-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15613">
+    <display-name>Philadelphia Flyers vs. Vancouver Canucks</display-name>
+  </channel>
+  <programme start="20251231030000 +0000" stop="20251231060000 +0000" channel="ppv-15613">
+    <title lang="en">Philadelphia Flyers vs. Vancouver Canucks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/2d8a969d4aaa5125802891c54bbfd20b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15584">
     <display-name>WWE: NXT</display-name>
