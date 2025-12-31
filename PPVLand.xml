@@ -126,6 +126,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15633">
+    <display-name>Golden State Warriors vs. Charlotte Hornets</display-name>
+  </channel>
+  <programme start="20251231180000 +0000" stop="20251231204800 +0000" channel="ppv-15633">
+    <title lang="en">Golden State Warriors vs. Charlotte Hornets</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/147012f2debdbf7f5f8ebb987daaace9-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -170,6 +179,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b4f940704a4d93679582744eb123120a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15636">
+    <display-name>New York Rangers vs. Washington Capitals</display-name>
+  </channel>
+  <programme start="20251231173000 +0000" stop="20251231203000 +0000" channel="ppv-15636">
+    <title lang="en">New York Rangers vs. Washington Capitals</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/c31a69186c159382971372a6aec487de-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15632">
     <display-name>Switzerland vs. Slovakia</display-name>
