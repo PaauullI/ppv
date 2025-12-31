@@ -144,6 +144,33 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/147012f2debdbf7f5f8ebb987daaace9-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15635">
+    <display-name>Minnesota Timberwolves vs. Atlanta Hawks</display-name>
+  </channel>
+  <programme start="20251231200000 +0000" stop="20251231224800 +0000" channel="ppv-15635">
+    <title lang="en">Minnesota Timberwolves vs. Atlanta Hawks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/84e812d28731cf5f9b19fcb160fdfc86-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15638">
+    <display-name>Orlando Magic vs. Indiana Pacers</display-name>
+  </channel>
+  <programme start="20251231200000 +0000" stop="20251231224800 +0000" channel="ppv-15638">
+    <title lang="en">Orlando Magic vs. Indiana Pacers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/636de8d154c27c262f7c032b232680da-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15640">
+    <display-name>Phoenix Suns vs. Cleveland Cavaliers</display-name>
+  </channel>
+  <programme start="20251231203000 +0000" stop="20251231231800 +0000" channel="ppv-15640">
+    <title lang="en">Phoenix Suns vs. Cleveland Cavaliers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/b5c31a4cebc23c61eb83ca969cd826bf-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
