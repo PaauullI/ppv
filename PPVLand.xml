@@ -63,41 +63,23 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15658">
+    <display-name>Miami Heat vs. Detroit Pistons</display-name>
+  </channel>
+  <programme start="20260102000000 +0000" stop="20260102024800 +0000" channel="ppv-15658">
+    <title lang="en">Miami Heat vs. Detroit Pistons</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
-  <programme start="20260101123000 +0000" stop="20260101233000 +0000" channel="ppv-14899">
+  <programme start="20260102193000 +0000" stop="20260103003000 +0000" channel="ppv-14899">
     <title lang="en">World Darts Championship</title>
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15552">
-    <display-name>Brentford vs. Tottenham Hotspur</display-name>
-  </channel>
-  <programme start="20260101200000 +0000" stop="20260101223000 +0000" channel="ppv-15552">
-    <title lang="en">Brentford vs. Tottenham Hotspur</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/3ce97ec548d4bebc09a73c0d1850a597-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15553">
-    <display-name>Sunderland vs. Manchester City</display-name>
-  </channel>
-  <programme start="20260101200000 +0000" stop="20260101223000 +0000" channel="ppv-15553">
-    <title lang="en">Sunderland vs. Manchester City</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15657">
-    <display-name>Utah Mammoth vs. New York Islanders</display-name>
-  </channel>
-  <programme start="20260101200000 +0000" stop="20260101230000 +0000" channel="ppv-15657">
-    <title lang="en">Utah Mammoth vs. New York Islanders</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/781e2037db17d96355fa12b3263a4bb3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15586">
     <display-name>TNA: Impact</display-name>
