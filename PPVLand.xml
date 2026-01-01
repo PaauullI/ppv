@@ -171,14 +171,14 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15637">
-    <display-name>United States vs. Sweden</display-name>
+  <channel id="ppv-15648">
+    <display-name>Winnipeg Jets vs. Detroit Red Wings</display-name>
   </channel>
-  <programme start="20251231230000 +0000" stop="20260101013000 +0000" channel="ppv-15637">
-    <title lang="en">United States vs. Sweden</title>
+  <programme start="20251231233000 +0000" stop="20260101023000 +0000" channel="ppv-15648">
+    <title lang="en">Winnipeg Jets vs. Detroit Red Wings</title>
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/f38cc95b7b34f4b422c745776f6455bd-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/9772272d530a586c31e8dfd4d6cfb8e0-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15650">
     <display-name>New Jersey Devils vs. Columbus Blue Jackets</display-name>
@@ -206,6 +206,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/21f2c7836918954d7e911971a6ac6f73-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15652">
+    <display-name>St. Louis Blues vs. Colorado Avalanche</display-name>
+  </channel>
+  <programme start="20260101020000 +0000" stop="20260101050000 +0000" channel="ppv-15652">
+    <title lang="en">St. Louis Blues vs. Colorado Avalanche</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/4e0b6fe0ad5a966a9528d2f4828336c9-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15585">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
