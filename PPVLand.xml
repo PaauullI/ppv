@@ -144,6 +144,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15656">
+    <display-name>Washington Capitals vs. Ottawa Senators</display-name>
+  </channel>
+  <programme start="20260101180000 +0000" stop="20260101210000 +0000" channel="ppv-15656">
+    <title lang="en">Washington Capitals vs. Ottawa Senators</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/9d03fcd62a385a5e81130e2cf4c0c8f0-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15586">
     <display-name>TNA: Impact</display-name>
   </channel>
