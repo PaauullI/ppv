@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-15436">
+    <display-name>Oregon Ducks vs. Texas Tech Red Raiders</display-name>
+  </channel>
+  <programme start="20260101170000 +0000" stop="20260101203000 +0000" channel="ppv-15436">
+    <title lang="en">Oregon Ducks vs. Texas Tech Red Raiders</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/35c49515b93c4a76afce636f3aae767b-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15437">
+    <display-name>Alabama Crimson Tide vs. Indiana Hoosiers</display-name>
+  </channel>
+  <programme start="20260101210000 +0000" stop="20260102003000 +0000" channel="ppv-15437">
+    <title lang="en">Alabama Crimson Tide vs. Indiana Hoosiers</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/3c05a4468adaca4d72ed5b4ef4e1a0cf-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15438">
+    <display-name>Ole Miss Rebels vs. Georgia Bulldogs</display-name>
+  </channel>
+  <programme start="20260102010000 +0000" stop="20260102043000 +0000" channel="ppv-15438">
+    <title lang="en">Ole Miss Rebels vs. Georgia Bulldogs</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15439">
+    <display-name>Rice Owls vs. Texas State Bobcats</display-name>
+  </channel>
+  <programme start="20260102180000 +0000" stop="20260102213000 +0000" channel="ppv-15439">
+    <title lang="en">Rice Owls vs. Texas State Bobcats</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15440">
+    <display-name>Navy Midshipmen vs. Cincinnati Bearcats</display-name>
+  </channel>
+  <programme start="20260102213000 +0000" stop="20260103010000 +0000" channel="ppv-15440">
+    <title lang="en">Navy Midshipmen vs. Cincinnati Bearcats</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/9b65f7ef7075006b08bb6ee919e9c1d2-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15442">
+    <display-name>Wake Forest Demon Deacons vs. Mississippi State Bulldogs</display-name>
+  </channel>
+  <programme start="20260103010000 +0000" stop="20260103043000 +0000" channel="ppv-15442">
+    <title lang="en">Wake Forest Demon Deacons vs. Mississippi State Bulldogs</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15608">
     <display-name>New Orleans Saints vs. Atlanta Falcons</display-name>
   </channel>
@@ -45,6 +99,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/76c2d80450814ede9d68cac2d386c0b6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15443">
+    <display-name>Illinois State Redbirds vs. Montana State Bobcats</display-name>
+  </channel>
+  <programme start="20260106003000 +0000" stop="20260106040000 +0000" channel="ppv-15443">
+    <title lang="en">Illinois State Redbirds vs. Montana State Bobcats</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -53,6 +116,51 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15551">
+    <display-name>Liverpool vs. Leeds United</display-name>
+  </channel>
+  <programme start="20260101173000 +0000" stop="20260101200000 +0000" channel="ppv-15551">
+    <title lang="en">Liverpool vs. Leeds United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d0b0544bf77396c4bee0ab242909fbfe-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15553">
+    <display-name>Sunderland vs. Manchester City</display-name>
+  </channel>
+  <programme start="20260101200000 +0000" stop="20260101223000 +0000" channel="ppv-15553">
+    <title lang="en">Sunderland vs. Manchester City</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15586">
+    <display-name>TNA: Impact</display-name>
+  </channel>
+  <programme start="20260102010000 +0000" stop="20260102040000 +0000" channel="ppv-15586">
+    <title lang="en">TNA: Impact</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15587">
+    <display-name>WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <programme start="20260103010000 +0000" stop="20260103040000 +0000" channel="ppv-15587">
+    <title lang="en">WWE: Friday Night Smackdown</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15588">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20260104010000 +0000" stop="20260104040000 +0000" channel="ppv-15588">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
