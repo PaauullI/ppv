@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15436">
-    <display-name>Oregon Ducks vs. Texas Tech Red Raiders</display-name>
-  </channel>
-  <programme start="20260101170000 +0000" stop="20260101203000 +0000" channel="ppv-15436">
-    <title lang="en">Oregon Ducks vs. Texas Tech Red Raiders</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/35c49515b93c4a76afce636f3aae767b-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15437">
     <display-name>Alabama Crimson Tide vs. Indiana Hoosiers</display-name>
   </channel>
@@ -54,60 +45,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15605">
-    <display-name>Seattle Seahawks vs. San Francisco 49ers</display-name>
-  </channel>
-  <programme start="20260104010000 +0000" stop="20260104043000 +0000" channel="ppv-15605">
-    <title lang="en">Seattle Seahawks vs. San Francisco 49ers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/39529cbbb40bc30029e03703485ebd33-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15608">
-    <display-name>New Orleans Saints vs. Atlanta Falcons</display-name>
-  </channel>
-  <programme start="20260104180000 +0000" stop="20260104213000 +0000" channel="ppv-15608">
-    <title lang="en">New Orleans Saints vs. Atlanta Falcons</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15611">
-    <display-name>Cleveland Browns vs. Cincinnati Bengals</display-name>
-  </channel>
-  <programme start="20260104180000 +0000" stop="20260104213000 +0000" channel="ppv-15611">
-    <title lang="en">Cleveland Browns vs. Cincinnati Bengals</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c9fda0396269ada10e8703bf8ac2fc55-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15615">
-    <display-name>Dallas Cowboys vs. New York Giants</display-name>
-  </channel>
-  <programme start="20260104180000 +0000" stop="20260104213000 +0000" channel="ppv-15615">
-    <title lang="en">Dallas Cowboys vs. New York Giants</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/4ca44c4ce248fe63c7307528270d13b0-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15618">
-    <display-name>New York Jets vs. Buffalo Bills</display-name>
-  </channel>
-  <programme start="20260104212500 +0000" stop="20260105005500 +0000" channel="ppv-15618">
-    <title lang="en">New York Jets vs. Buffalo Bills</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/90200cdcb846ee2180bd0871c0a99265-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15621">
-    <display-name>Kansas City Chiefs vs. Las Vegas Raiders</display-name>
-  </channel>
-  <programme start="20260104212500 +0000" stop="20260105005500 +0000" channel="ppv-15621">
-    <title lang="en">Kansas City Chiefs vs. Las Vegas Raiders</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/76c2d80450814ede9d68cac2d386c0b6-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15443">
     <display-name>Illinois State Redbirds vs. Montana State Bobcats</display-name>
   </channel>
@@ -143,15 +80,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15656">
-    <display-name>Washington Capitals vs. Ottawa Senators</display-name>
-  </channel>
-  <programme start="20260101180000 +0000" stop="20260101210000 +0000" channel="ppv-15656">
-    <title lang="en">Washington Capitals vs. Ottawa Senators</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/9d03fcd62a385a5e81130e2cf4c0c8f0-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15657">
     <display-name>Utah Mammoth vs. New York Islanders</display-name>
