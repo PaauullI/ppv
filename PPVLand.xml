@@ -126,24 +126,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15550">
-    <display-name>Crystal Palace vs. Fulham</display-name>
-  </channel>
-  <programme start="20260101173000 +0000" stop="20260101200000 +0000" channel="ppv-15550">
-    <title lang="en">Crystal Palace vs. Fulham</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/a9fe7d80e6985fd9ef940d4b3a8eab1a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15551">
-    <display-name>Liverpool vs. Leeds United</display-name>
-  </channel>
-  <programme start="20260101173000 +0000" stop="20260101200000 +0000" channel="ppv-15551">
-    <title lang="en">Liverpool vs. Leeds United</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d0b0544bf77396c4bee0ab242909fbfe-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15552">
     <display-name>Brentford vs. Tottenham Hotspur</display-name>
   </channel>
@@ -170,6 +152,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/9d03fcd62a385a5e81130e2cf4c0c8f0-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15657">
+    <display-name>Utah Mammoth vs. New York Islanders</display-name>
+  </channel>
+  <programme start="20260101200000 +0000" stop="20260101230000 +0000" channel="ppv-15657">
+    <title lang="en">Utah Mammoth vs. New York Islanders</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/781e2037db17d96355fa12b3263a4bb3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15586">
     <display-name>TNA: Impact</display-name>
