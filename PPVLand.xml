@@ -117,24 +117,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15642">
-    <display-name>New Orleans Pelicans vs. Chicago Bulls</display-name>
-  </channel>
-  <programme start="20260101000000 +0000" stop="20260101024800 +0000" channel="ppv-15642">
-    <title lang="en">New Orleans Pelicans vs. Chicago Bulls</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/0ab64c150a3294c8f6b74da4e4df5b77-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15644">
-    <display-name>New York Knicks vs. San Antonio Spurs</display-name>
-  </channel>
-  <programme start="20260101000000 +0000" stop="20260101024800 +0000" channel="ppv-15644">
-    <title lang="en">New York Knicks vs. San Antonio Spurs</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/aca3ab993045d3dd9bd04ce67913c455-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15645">
     <display-name>Denver Nuggets vs. Toronto Raptors</display-name>
   </channel>
@@ -171,15 +153,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15648">
-    <display-name>Winnipeg Jets vs. Detroit Red Wings</display-name>
-  </channel>
-  <programme start="20251231233000 +0000" stop="20260101023000 +0000" channel="ppv-15648">
-    <title lang="en">Winnipeg Jets vs. Detroit Red Wings</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/9772272d530a586c31e8dfd4d6cfb8e0-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15650">
     <display-name>New Jersey Devils vs. Columbus Blue Jackets</display-name>
   </channel>
@@ -215,6 +188,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/4e0b6fe0ad5a966a9528d2f4828336c9-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15653">
+    <display-name>Philadelphia Flyers vs. Calgary Flames</display-name>
+  </channel>
+  <programme start="20260101023000 +0000" stop="20260101053000 +0000" channel="ppv-15653">
+    <title lang="en">Philadelphia Flyers vs. Calgary Flames</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/afa740739d527205ab76bdeb1fcb1b46-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15654">
+    <display-name>Boston Bruins vs. Edmonton Oilers</display-name>
+  </channel>
+  <programme start="20260101023000 +0000" stop="20260101053000 +0000" channel="ppv-15654">
+    <title lang="en">Boston Bruins vs. Edmonton Oilers</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/29537c867454f89bb59b50d067dbf939-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15585">
     <display-name>AEW: Wednesday Night Dynamite</display-name>
