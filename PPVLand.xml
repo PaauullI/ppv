@@ -117,15 +117,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15645">
-    <display-name>Denver Nuggets vs. Toronto Raptors</display-name>
-  </channel>
-  <programme start="20260101003000 +0000" stop="20260101031800 +0000" channel="ppv-15645">
-    <title lang="en">Denver Nuggets vs. Toronto Raptors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/d0c089a165262c79089622852d58cb08-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15647">
     <display-name>Washington Wizards vs. Milwaukee Bucks</display-name>
   </channel>
@@ -152,15 +143,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15650">
-    <display-name>New Jersey Devils vs. Columbus Blue Jackets</display-name>
-  </channel>
-  <programme start="20260101000000 +0000" stop="20260101030000 +0000" channel="ppv-15650">
-    <title lang="en">New Jersey Devils vs. Columbus Blue Jackets</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/72e34261329e8188284c759822bf0096-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15651">
     <display-name>Buffalo Sabres vs. Dallas Stars</display-name>
