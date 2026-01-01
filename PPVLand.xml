@@ -54,6 +54,15 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15655">
+    <display-name>Houston Rockets vs. Brooklyn Nets</display-name>
+  </channel>
+  <programme start="20260101230000 +0000" stop="20260102014800 +0000" channel="ppv-15655">
+    <title lang="en">Houston Rockets vs. Brooklyn Nets</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
