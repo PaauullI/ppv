@@ -45,23 +45,59 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15587">
-    <display-name>WWE: Friday Night Smackdown</display-name>
+  <channel id="ppv-15517">
+    <display-name>Rayo Vallecano vs. Getafe</display-name>
   </channel>
-  <programme start="20260103010000 +0000" stop="20260103040000 +0000" channel="ppv-15587">
-    <title lang="en">WWE: Friday Night Smackdown</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+  <programme start="20260102200000 +0000" stop="20260102223000 +0000" channel="ppv-15517">
+    <title lang="en">Rayo Vallecano vs. Getafe</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/9fe309872e8491a01aed3ac2822d7cec-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15588">
-    <display-name>AEW: Saturday Night Collision</display-name>
+  <channel id="ppv-15668">
+    <display-name>Germany vs. Denmark</display-name>
   </channel>
-  <programme start="20260104010000 +0000" stop="20260104040000 +0000" channel="ppv-15588">
-    <title lang="en">AEW: Saturday Night Collision</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+  <programme start="20260102173000 +0000" stop="20260102200000 +0000" channel="ppv-15668">
+    <title lang="en">Germany vs. Denmark</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/122eb9528fc9ef0e5571da91b056ea5f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15669">
+    <display-name>Sweden vs. Latvia</display-name>
+  </channel>
+  <programme start="20260102190000 +0000" stop="20260102213000 +0000" channel="ppv-15669">
+    <title lang="en">Sweden vs. Latvia</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/185a9c038c3856d222297bc2dbb6602f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15672">
+    <display-name>Czech Republic vs. Switzerland</display-name>
+  </channel>
+  <programme start="20260102213000 +0000" stop="20260103000000 +0000" channel="ppv-15672">
+    <title lang="en">Czech Republic vs. Switzerland</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/380c8929047323572b5a047346843c86-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15675">
+    <display-name>United States vs. Finland</display-name>
+  </channel>
+  <programme start="20260102230000 +0000" stop="20260103013000 +0000" channel="ppv-15675">
+    <title lang="en">United States vs. Finland</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/5295923e9bab7bd0cdc0b070792e98c2-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15678">
+    <display-name>Canada vs. Slovakia</display-name>
+  </channel>
+  <programme start="20260103013000 +0000" stop="20260103040000 +0000" channel="ppv-15678">
+    <title lang="en">Canada vs. Slovakia</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/ea8cf20c2a3fd6f878e7e815ef35bc77-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
