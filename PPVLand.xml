@@ -45,15 +45,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15660">
-    <display-name>Philadelphia 76ers vs. Dallas Mavericks</display-name>
-  </channel>
-  <programme start="20260102013000 +0000" stop="20260102041800 +0000" channel="ppv-15660">
-    <title lang="en">Philadelphia 76ers vs. Dallas Mavericks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/d03193288dc1690108a6681d246b3e54-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15662">
     <display-name>Boston Celtics vs. Sacramento Kings</display-name>
   </channel>
@@ -98,15 +89,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15586">
-    <display-name>TNA: Impact</display-name>
-  </channel>
-  <programme start="20260102010000 +0000" stop="20260102040000 +0000" channel="ppv-15586">
-    <title lang="en">TNA: Impact</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15587">
     <display-name>WWE: Friday Night Smackdown</display-name>
