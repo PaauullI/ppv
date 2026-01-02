@@ -45,15 +45,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15655">
-    <display-name>Houston Rockets vs. Brooklyn Nets</display-name>
-  </channel>
-  <programme start="20260101230000 +0000" stop="20260102014800 +0000" channel="ppv-15655">
-    <title lang="en">Houston Rockets vs. Brooklyn Nets</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15658">
     <display-name>Miami Heat vs. Detroit Pistons</display-name>
   </channel>
@@ -80,6 +71,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15664">
+    <display-name>Utah Jazz vs. LA Clippers</display-name>
+  </channel>
+  <programme start="20260102033000 +0000" stop="20260102061800 +0000" channel="ppv-15664">
+    <title lang="en">Utah Jazz vs. LA Clippers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/93f3ae6f328fb26c3e6c2d6422ed0660-thumbnail.jpg" />
   </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
@@ -134,6 +134,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15667">
+    <display-name>Nashville Predators vs. Seattle Kraken</display-name>
+  </channel>
+  <programme start="20260102030000 +0000" stop="20260102060000 +0000" channel="ppv-15667">
+    <title lang="en">Nashville Predators vs. Seattle Kraken</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15586">
     <display-name>TNA: Impact</display-name>
