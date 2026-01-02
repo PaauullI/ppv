@@ -99,6 +99,24 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/ea8cf20c2a3fd6f878e7e815ef35bc77-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15587">
+    <display-name>WWE: Friday Night Smackdown</display-name>
+  </channel>
+  <programme start="20260103010000 +0000" stop="20260103040000 +0000" channel="ppv-15587">
+    <title lang="en">WWE: Friday Night Smackdown</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15588">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20260104010000 +0000" stop="20260104040000 +0000" channel="ppv-15588">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
   </channel>
