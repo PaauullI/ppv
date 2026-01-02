@@ -36,15 +36,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15662">
-    <display-name>Boston Celtics vs. Sacramento Kings</display-name>
-  </channel>
-  <programme start="20260102030000 +0000" stop="20260102054800 +0000" channel="ppv-15662">
-    <title lang="en">Boston Celtics vs. Sacramento Kings</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15664">
     <display-name>Utah Jazz vs. LA Clippers</display-name>
   </channel>
@@ -62,15 +53,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15667">
-    <display-name>Nashville Predators vs. Seattle Kraken</display-name>
-  </channel>
-  <programme start="20260102030000 +0000" stop="20260102060000 +0000" channel="ppv-15667">
-    <title lang="en">Nashville Predators vs. Seattle Kraken</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15587">
     <display-name>WWE: Friday Night Smackdown</display-name>
