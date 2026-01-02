@@ -72,6 +72,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15660">
+    <display-name>Philadelphia 76ers vs. Dallas Mavericks</display-name>
+  </channel>
+  <programme start="20260102013000 +0000" stop="20260102041800 +0000" channel="ppv-15660">
+    <title lang="en">Philadelphia 76ers vs. Dallas Mavericks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/d03193288dc1690108a6681d246b3e54-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -80,6 +89,42 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15659">
+    <display-name>Winnipeg Jets vs. Toronto Maple Leafs</display-name>
+  </channel>
+  <programme start="20260102000000 +0000" stop="20260102030000 +0000" channel="ppv-15659">
+    <title lang="en">Winnipeg Jets vs. Toronto Maple Leafs</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15661">
+    <display-name>Detroit Red Wings vs. Pittsburgh Penguins</display-name>
+  </channel>
+  <programme start="20260102000000 +0000" stop="20260102030000 +0000" channel="ppv-15661">
+    <title lang="en">Detroit Red Wings vs. Pittsburgh Penguins</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15663">
+    <display-name>Montreal Canadiens vs. Carolina Hurricanes</display-name>
+  </channel>
+  <programme start="20260102000000 +0000" stop="20260102030000 +0000" channel="ppv-15663">
+    <title lang="en">Montreal Canadiens vs. Carolina Hurricanes</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15665">
+    <display-name>Tampa Bay Lightning vs. Los Angeles Kings</display-name>
+  </channel>
+  <programme start="20260102000000 +0000" stop="20260102030000 +0000" channel="ppv-15665">
+    <title lang="en">Tampa Bay Lightning vs. Los Angeles Kings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15586">
     <display-name>TNA: Impact</display-name>
