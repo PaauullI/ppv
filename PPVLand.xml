@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15439">
-    <display-name>Rice Owls vs. Texas State Bobcats</display-name>
-  </channel>
-  <programme start="20260102180000 +0000" stop="20260102213000 +0000" channel="ppv-15439">
-    <title lang="en">Rice Owls vs. Texas State Bobcats</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15440">
     <display-name>Navy Midshipmen vs. Cincinnati Bearcats</display-name>
   </channel>
@@ -54,15 +45,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/f8a19b6245b3bb141dd813acd2b9b3cb-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15574">
-    <display-name>Toulouse vs. Lens</display-name>
-  </channel>
-  <programme start="20260102194500 +0000" stop="20260102221500 +0000" channel="ppv-15574">
-    <title lang="en">Toulouse vs. Lens</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/0098b62119882563e93c05d2f9ffd4a3-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15517">
     <display-name>Rayo Vallecano vs. Getafe</display-name>
   </channel>
@@ -71,15 +53,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/9fe309872e8491a01aed3ac2822d7cec-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15669">
-    <display-name>Sweden vs. Latvia</display-name>
-  </channel>
-  <programme start="20260102190000 +0000" stop="20260102213000 +0000" channel="ppv-15669">
-    <title lang="en">Sweden vs. Latvia</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/185a9c038c3856d222297bc2dbb6602f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15670">
     <display-name>Vegas Golden Knights vs. St. Louis Blues</display-name>
