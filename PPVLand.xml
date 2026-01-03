@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15440">
-    <display-name>Navy Midshipmen vs. Cincinnati Bearcats</display-name>
+  <channel id="ppv-15441">
+    <display-name>Arizona Wildcats vs. SMU Mustangs</display-name>
   </channel>
-  <programme start="20260102213000 +0000" stop="20260103010000 +0000" channel="ppv-15440">
-    <title lang="en">Navy Midshipmen vs. Cincinnati Bearcats</title>
+  <programme start="20260103010000 +0000" stop="20260103043000 +0000" channel="ppv-15441">
+    <title lang="en">Arizona Wildcats vs. SMU Mustangs</title>
     <sub-title>American Football</sub-title>
     <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/9b65f7ef7075006b08bb6ee919e9c1d2-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15442">
     <display-name>Wake Forest Demon Deacons vs. Mississippi State Bulldogs</display-name>
@@ -99,6 +99,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/9e7b38a944455d8e49310ac56afb46d9-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15685">
+    <display-name>Oklahoma City Thunder vs. Golden State Warriors</display-name>
+  </channel>
+  <programme start="20260103030000 +0000" stop="20260103054800 +0000" channel="ppv-15685">
+    <title lang="en">Oklahoma City Thunder vs. Golden State Warriors</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/fd008669a65aff537a94f44e796a1b24-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -107,15 +116,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15675">
-    <display-name>United States vs. Finland</display-name>
-  </channel>
-  <programme start="20260102230000 +0000" stop="20260103013000 +0000" channel="ppv-15675">
-    <title lang="en">United States vs. Finland</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/5295923e9bab7bd0cdc0b070792e98c2-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15673">
     <display-name>New York Rangers vs. Florida Panthers</display-name>
