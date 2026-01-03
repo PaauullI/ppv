@@ -27,15 +27,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15719">
-    <display-name>Kentucky Wildcats vs. Alabama Crimson Tide</display-name>
-  </channel>
-  <programme start="20260103170000 +0000" stop="20260103203000 +0000" channel="ppv-15719">
-    <title lang="en">Kentucky Wildcats vs. Alabama Crimson Tide</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/1b3c74f42cc241c1987ed81539062ceb-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15720">
     <display-name>Oklahoma State Cowboys vs. Texas Tech Red Raiders</display-name>
   </channel>
@@ -126,6 +117,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/01297b592bcf711757224d4e5ea2aabe-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15694">
+    <display-name>Minnesota Timberwolves vs. Miami Heat</display-name>
+  </channel>
+  <programme start="20260103220000 +0000" stop="20260104004800 +0000" channel="ppv-15694">
+    <title lang="en">Minnesota Timberwolves vs. Miami Heat</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/4b0e782cda8e405c73b55e8c072f794f-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15730">
     <display-name>UCLA Bruins vs. Iowa Hawkeyes</display-name>
   </channel>
@@ -162,6 +162,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/49c9b198ce8a9c2d03872259fc2315f2-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15734">
+    <display-name>Amanda Serrano vs. Reina Tellez</display-name>
+  </channel>
+  <programme start="20260103193000 +0000" stop="20260104033000 +0000" channel="ppv-15734">
+    <title lang="en">Amanda Serrano vs. Reina Tellez</title>
+    <sub-title>Combat Sports</sub-title>
+    <category>Combat Sports</category>
+    <icon src="https://api.ppv.to/assets/thumb/ad82e80a6b6868dfd69dbc8998ec1f4b-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -170,24 +179,6 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15576">
-    <display-name>Nice vs. Strasbourg</display-name>
-  </channel>
-  <programme start="20260103180000 +0000" stop="20260103203000 +0000" channel="ppv-15576">
-    <title lang="en">Nice vs. Strasbourg</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/09a5c0b3d8ee8f06111ce21a91f713fe-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15699">
-    <display-name>Mali vs. Tunisia</display-name>
-  </channel>
-  <programme start="20260103190000 +0000" stop="20260103210000 +0000" channel="ppv-15699">
-    <title lang="en">Mali vs. Tunisia</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15569">
     <display-name>Atalanta vs. AS Roma</display-name>
@@ -242,6 +233,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/77b2f3939c9e854cd9ba3ba9e1d0cc5f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15706">
+    <display-name>Montreal Canadiens vs. St. Louis Blues</display-name>
+  </channel>
+  <programme start="20260103210000 +0000" stop="20260104000000 +0000" channel="ppv-15706">
+    <title lang="en">Montreal Canadiens vs. St. Louis Blues</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/35d5d8bad2c4719c0acccc9eeba31e7e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15708">
+    <display-name>Tampa Bay Lightning vs. San Jose Sharks</display-name>
+  </channel>
+  <programme start="20260103210000 +0000" stop="20260104000000 +0000" channel="ppv-15708">
+    <title lang="en">Tampa Bay Lightning vs. San Jose Sharks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/e502a426f2997bc5938cf59120f91104-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
