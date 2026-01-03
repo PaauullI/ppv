@@ -99,6 +99,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/028ec12ed732d2bd73d32acd627b28ea-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15726">
+    <display-name>North Carolina Tar Heels vs. SMU Mustangs</display-name>
+  </channel>
+  <programme start="20260103191500 +0000" stop="20260103224500 +0000" channel="ppv-15726">
+    <title lang="en">North Carolina Tar Heels vs. SMU Mustangs</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/2a1f454144fa3c60b23ca82be587d6f0-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15727">
     <display-name>Tennessee Volunteers vs. Arkansas Razorbacks</display-name>
   </channel>
@@ -171,15 +180,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15575">
-    <display-name>AS Monaco vs. Lyon</display-name>
-  </channel>
-  <programme start="20260103160000 +0000" stop="20260103183000 +0000" channel="ppv-15575">
-    <title lang="en">AS Monaco vs. Lyon</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/caba358be42ecd3169de963faa2443a1-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15568">
     <display-name>Juventus vs. Lecce</display-name>
   </channel>
@@ -224,6 +224,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15569">
+    <display-name>Atalanta vs. AS Roma</display-name>
+  </channel>
+  <programme start="20260103194500 +0000" stop="20260103221500 +0000" channel="ppv-15569">
+    <title lang="en">Atalanta vs. AS Roma</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/42af626809e6f27839181d396b209e00-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15530">
     <display-name>Espanyol vs. Barcelona</display-name>
