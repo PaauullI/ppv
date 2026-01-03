@@ -18,6 +18,51 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15554">
+    <display-name>Aston Villa vs. Nottingham Forest</display-name>
+  </channel>
+  <programme start="20260103123000 +0000" stop="20260103150000 +0000" channel="ppv-15554">
+    <title lang="en">Aston Villa vs. Nottingham Forest</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15519">
+    <display-name>Celta Vigo vs. Valencia</display-name>
+  </channel>
+  <programme start="20260103130000 +0000" stop="20260103153000 +0000" channel="ppv-15519">
+    <title lang="en">Celta Vigo vs. Valencia</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15555">
+    <display-name>Brighton &amp; Hove Albion vs. Burnley</display-name>
+  </channel>
+  <programme start="20260103150000 +0000" stop="20260103173000 +0000" channel="ppv-15555">
+    <title lang="en">Brighton &amp; Hove Albion vs. Burnley</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15524">
+    <display-name>Osasuna vs. Athletic Club</display-name>
+  </channel>
+  <programme start="20260103151500 +0000" stop="20260103174500 +0000" channel="ppv-15524">
+    <title lang="en">Osasuna vs. Athletic Club</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15575">
+    <display-name>AS Monaco vs. Lyon</display-name>
+  </channel>
+  <programme start="20260103160000 +0000" stop="20260103183000 +0000" channel="ppv-15575">
+    <title lang="en">AS Monaco vs. Lyon</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/caba358be42ecd3169de963faa2443a1-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15696">
     <display-name>Senegal vs. Sudan</display-name>
   </channel>
@@ -27,6 +72,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/dda7b3e8a55243bc50228ec8758acdf3-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15528">
+    <display-name>Elche vs. Villarreal</display-name>
+  </channel>
+  <programme start="20260103173000 +0000" stop="20260103200000 +0000" channel="ppv-15528">
+    <title lang="en">Elche vs. Villarreal</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/b22be3ec863d8e26f174380ad5dc34ef-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15699">
     <display-name>Mali vs. Tunisia</display-name>
   </channel>
@@ -35,6 +89,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15530">
+    <display-name>Espanyol vs. Barcelona</display-name>
+  </channel>
+  <programme start="20260103200000 +0000" stop="20260103223000 +0000" channel="ppv-15530">
+    <title lang="en">Espanyol vs. Barcelona</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15588">
     <display-name>AEW: Saturday Night Collision</display-name>
