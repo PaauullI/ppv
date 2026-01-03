@@ -9,15 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15707">
-    <display-name>Utah Jazz vs. Golden State Warriors</display-name>
-  </channel>
-  <programme start="20260104030000 +0000" stop="20260104054800 +0000" channel="ppv-15707">
-    <title lang="en">Utah Jazz vs. Golden State Warriors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/e06c569d1c9d7ee8198e03302dca17fb-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -44,24 +35,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15706">
-    <display-name>Montreal Canadiens vs. St. Louis Blues</display-name>
-  </channel>
-  <programme start="20260103210000 +0000" stop="20260104000000 +0000" channel="ppv-15706">
-    <title lang="en">Montreal Canadiens vs. St. Louis Blues</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/35d5d8bad2c4719c0acccc9eeba31e7e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15716">
-    <display-name>Boston Bruins vs. Vancouver Canucks</display-name>
-  </channel>
-  <programme start="20260104030000 +0000" stop="20260104060000 +0000" channel="ppv-15716">
-    <title lang="en">Boston Bruins vs. Vancouver Canucks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/c20df4cbdc9c0005fe87eb9001428d85-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15588">
     <display-name>AEW: Saturday Night Collision</display-name>
