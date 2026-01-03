@@ -27,15 +27,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15718">
-    <display-name>Virginia Cavaliers vs. NC State Wolfpack</display-name>
-  </channel>
-  <programme start="20260103160000 +0000" stop="20260103193000 +0000" channel="ppv-15718">
-    <title lang="en">Virginia Cavaliers vs. NC State Wolfpack</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/b7973cedf918aea5f177807fe9ee3ae1-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15719">
     <display-name>Kentucky Wildcats vs. Alabama Crimson Tide</display-name>
   </channel>
@@ -180,33 +171,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15568">
-    <display-name>Juventus vs. Lecce</display-name>
-  </channel>
-  <programme start="20260103170000 +0000" stop="20260103193000 +0000" channel="ppv-15568">
-    <title lang="en">Juventus vs. Lecce</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/04ab1cc40cd1afed4b09282f3c42097e-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15528">
-    <display-name>Elche vs. Villarreal</display-name>
-  </channel>
-  <programme start="20260103173000 +0000" stop="20260103200000 +0000" channel="ppv-15528">
-    <title lang="en">Elche vs. Villarreal</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/b22be3ec863d8e26f174380ad5dc34ef-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15557">
-    <display-name>AFC Bournemouth vs. Arsenal</display-name>
-  </channel>
-  <programme start="20260103173000 +0000" stop="20260103200000 +0000" channel="ppv-15557">
-    <title lang="en">AFC Bournemouth vs. Arsenal</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/6c93cdbd0b519cd15b015b8f489a9c21-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15576">
     <display-name>Nice vs. Strasbourg</display-name>
   </channel>
@@ -243,14 +207,41 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15695">
-    <display-name>Pittsburgh Penguins vs. Detroit Red Wings</display-name>
+  <channel id="ppv-15577">
+    <display-name>Lille vs. Stade Rennais</display-name>
   </channel>
-  <programme start="20260103170000 +0000" stop="20260103200000 +0000" channel="ppv-15695">
-    <title lang="en">Pittsburgh Penguins vs. Detroit Red Wings</title>
+  <programme start="20260103200500 +0000" stop="20260103223500 +0000" channel="ppv-15577">
+    <title lang="en">Lille vs. Stade Rennais</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/d83a89c1f64b35597807c6e1f9937175-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15698">
+    <display-name>Utah Mammoth vs. New Jersey Devils</display-name>
+  </channel>
+  <programme start="20260103200000 +0000" stop="20260103230000 +0000" channel="ppv-15698">
+    <title lang="en">Utah Mammoth vs. New Jersey Devils</title>
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/98879917ee58a09071c1acde5a70bfbe-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/eb477b8c78820adf2e7b5a692a6e0926-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15701">
+    <display-name>Buffalo Sabres vs. Columbus Blue Jackets</display-name>
+  </channel>
+  <programme start="20260103200000 +0000" stop="20260103230000 +0000" channel="ppv-15701">
+    <title lang="en">Buffalo Sabres vs. Columbus Blue Jackets</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/4a3f2e0c34f3c9da5686b0d53692a373-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15704">
+    <display-name>Philadelphia Flyers vs. Edmonton Oilers</display-name>
+  </channel>
+  <programme start="20260103203000 +0000" stop="20260103233000 +0000" channel="ppv-15704">
+    <title lang="en">Philadelphia Flyers vs. Edmonton Oilers</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/77b2f3939c9e854cd9ba3ba9e1d0cc5f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
