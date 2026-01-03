@@ -108,6 +108,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/fd008669a65aff537a94f44e796a1b24-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15686">
+    <display-name>Memphis Grizzlies vs. Los Angeles Lakers</display-name>
+  </channel>
+  <programme start="20260103033000 +0000" stop="20260103061800 +0000" channel="ppv-15686">
+    <title lang="en">Memphis Grizzlies vs. Los Angeles Lakers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/7d12fe485bfc0c7a83c3356bd9426830-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
