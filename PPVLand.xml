@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15441">
-    <display-name>Arizona Wildcats vs. SMU Mustangs</display-name>
-  </channel>
-  <programme start="20260103010000 +0000" stop="20260103043000 +0000" channel="ppv-15441">
-    <title lang="en">Arizona Wildcats vs. SMU Mustangs</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15442">
-    <display-name>Wake Forest Demon Deacons vs. Mississippi State Bulldogs</display-name>
-  </channel>
-  <programme start="20260103010000 +0000" stop="20260103043000 +0000" channel="ppv-15442">
-    <title lang="en">Wake Forest Demon Deacons vs. Mississippi State Bulldogs</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15443">
     <display-name>Illinois State Redbirds vs. Montana State Bobcats</display-name>
   </channel>
@@ -26,15 +8,6 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15684">
-    <display-name>Sacramento Kings vs. Phoenix Suns</display-name>
-  </channel>
-  <programme start="20260103020000 +0000" stop="20260103044800 +0000" channel="ppv-15684">
-    <title lang="en">Sacramento Kings vs. Phoenix Suns</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/9e7b38a944455d8e49310ac56afb46d9-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15685">
     <display-name>Oklahoma City Thunder vs. Golden State Warriors</display-name>
@@ -54,6 +27,15 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/7d12fe485bfc0c7a83c3356bd9426830-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15707">
+    <display-name>Utah Jazz vs. Golden State Warriors</display-name>
+  </channel>
+  <programme start="20260104030000 +0000" stop="20260104054800 +0000" channel="ppv-15707">
+    <title lang="en">Utah Jazz vs. Golden State Warriors</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/e06c569d1c9d7ee8198e03302dca17fb-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -62,6 +44,24 @@
     <sub-title>Darts</sub-title>
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15696">
+    <display-name>Senegal vs. Sudan</display-name>
+  </channel>
+  <programme start="20260103160000 +0000" stop="20260103180000 +0000" channel="ppv-15696">
+    <title lang="en">Senegal vs. Sudan</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/dda7b3e8a55243bc50228ec8758acdf3-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15699">
+    <display-name>Mali vs. Tunisia</display-name>
+  </channel>
+  <programme start="20260103190000 +0000" stop="20260103210000 +0000" channel="ppv-15699">
+    <title lang="en">Mali vs. Tunisia</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15677">
     <display-name>Seattle Kraken vs. Vancouver Canucks</display-name>
@@ -80,6 +80,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/d275e5cfc51e87cf4443ff297353ead3-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15706">
+    <display-name>Montreal Canadiens vs. St. Louis Blues</display-name>
+  </channel>
+  <programme start="20260103210000 +0000" stop="20260104000000 +0000" channel="ppv-15706">
+    <title lang="en">Montreal Canadiens vs. St. Louis Blues</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/35d5d8bad2c4719c0acccc9eeba31e7e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15716">
+    <display-name>Boston Bruins vs. Vancouver Canucks</display-name>
+  </channel>
+  <programme start="20260104030000 +0000" stop="20260104060000 +0000" channel="ppv-15716">
+    <title lang="en">Boston Bruins vs. Vancouver Canucks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/c20df4cbdc9c0005fe87eb9001428d85-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15588">
     <display-name>AEW: Saturday Night Collision</display-name>
