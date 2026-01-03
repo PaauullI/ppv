@@ -36,15 +36,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15519">
-    <display-name>Celta Vigo vs. Valencia</display-name>
-  </channel>
-  <programme start="20260103130000 +0000" stop="20260103153000 +0000" channel="ppv-15519">
-    <title lang="en">Celta Vigo vs. Valencia</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15566">
     <display-name>Genoa vs. Pisa</display-name>
   </channel>
@@ -108,6 +99,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/dda7b3e8a55243bc50228ec8758acdf3-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15568">
+    <display-name>Juventus vs. Lecce</display-name>
+  </channel>
+  <programme start="20260103170000 +0000" stop="20260103193000 +0000" channel="ppv-15568">
+    <title lang="en">Juventus vs. Lecce</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/04ab1cc40cd1afed4b09282f3c42097e-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15528">
     <display-name>Elche vs. Villarreal</display-name>
   </channel>
@@ -116,6 +116,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/b22be3ec863d8e26f174380ad5dc34ef-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15557">
+    <display-name>AFC Bournemouth vs. Arsenal</display-name>
+  </channel>
+  <programme start="20260103173000 +0000" stop="20260103200000 +0000" channel="ppv-15557">
+    <title lang="en">AFC Bournemouth vs. Arsenal</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/6c93cdbd0b519cd15b015b8f489a9c21-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15699">
     <display-name>Mali vs. Tunisia</display-name>
