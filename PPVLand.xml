@@ -27,33 +27,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15720">
-    <display-name>Oklahoma State Cowboys vs. Texas Tech Red Raiders</display-name>
-  </channel>
-  <programme start="20260103180000 +0000" stop="20260103213000 +0000" channel="ppv-15720">
-    <title lang="en">Oklahoma State Cowboys vs. Texas Tech Red Raiders</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/5c043a765f0851a7ff7bc36d69739cad-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15721">
-    <display-name>Auburn Tigers vs. Georgia Bulldogs</display-name>
-  </channel>
-  <programme start="20260103180000 +0000" stop="20260103213000 +0000" channel="ppv-15721">
-    <title lang="en">Auburn Tigers vs. Georgia Bulldogs</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/d6637f8c5f15c28f168218f2ccb883a8-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15722">
-    <display-name>BYU Cougars vs. Kansas State Wildcats</display-name>
-  </channel>
-  <programme start="20260103183000 +0000" stop="20260103220000 +0000" channel="ppv-15722">
-    <title lang="en">BYU Cougars vs. Kansas State Wildcats</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/58f2b099834e259caa58d511e051d6d9-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15723">
     <display-name>Houston Cougars vs. Cincinnati Bearcats</display-name>
   </channel>
@@ -198,15 +171,6 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15577">
-    <display-name>Lille vs. Stade Rennais</display-name>
-  </channel>
-  <programme start="20260103200500 +0000" stop="20260103223500 +0000" channel="ppv-15577">
-    <title lang="en">Lille vs. Stade Rennais</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d83a89c1f64b35597807c6e1f9937175-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15698">
     <display-name>Utah Mammoth vs. New Jersey Devils</display-name>
   </channel>
@@ -251,6 +215,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/e502a426f2997bc5938cf59120f91104-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15588">
+    <display-name>AEW: Saturday Night Collision</display-name>
+  </channel>
+  <programme start="20260104010000 +0000" stop="20260104040000 +0000" channel="ppv-15588">
+    <title lang="en">AEW: Saturday Night Collision</title>
+    <sub-title>Wrestling</sub-title>
+    <category>Wrestling</category>
+    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
