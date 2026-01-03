@@ -9,15 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15685">
-    <display-name>Oklahoma City Thunder vs. Golden State Warriors</display-name>
-  </channel>
-  <programme start="20260103030000 +0000" stop="20260103054800 +0000" channel="ppv-15685">
-    <title lang="en">Oklahoma City Thunder vs. Golden State Warriors</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/fd008669a65aff537a94f44e796a1b24-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15686">
     <display-name>Memphis Grizzlies vs. Los Angeles Lakers</display-name>
   </channel>
