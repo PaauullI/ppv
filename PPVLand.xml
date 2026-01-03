@@ -9,15 +9,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15686">
-    <display-name>Memphis Grizzlies vs. Los Angeles Lakers</display-name>
-  </channel>
-  <programme start="20260103033000 +0000" stop="20260103061800 +0000" channel="ppv-15686">
-    <title lang="en">Memphis Grizzlies vs. Los Angeles Lakers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/7d12fe485bfc0c7a83c3356bd9426830-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15707">
     <display-name>Utah Jazz vs. Golden State Warriors</display-name>
   </channel>
@@ -53,24 +44,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15677">
-    <display-name>Seattle Kraken vs. Vancouver Canucks</display-name>
-  </channel>
-  <programme start="20260103033000 +0000" stop="20260103063000 +0000" channel="ppv-15677">
-    <title lang="en">Seattle Kraken vs. Vancouver Canucks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/6baba361bfde9eba6c11c078269db3bb-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15679">
-    <display-name>Minnesota Wild vs. Anaheim Ducks</display-name>
-  </channel>
-  <programme start="20260103033000 +0000" stop="20260103063000 +0000" channel="ppv-15679">
-    <title lang="en">Minnesota Wild vs. Anaheim Ducks</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/d275e5cfc51e87cf4443ff297353ead3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15706">
     <display-name>Montreal Canadiens vs. St. Louis Blues</display-name>
