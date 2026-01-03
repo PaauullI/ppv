@@ -27,6 +27,141 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15718">
+    <display-name>Virginia Cavaliers vs. NC State Wolfpack</display-name>
+  </channel>
+  <programme start="20260103160000 +0000" stop="20260103193000 +0000" channel="ppv-15718">
+    <title lang="en">Virginia Cavaliers vs. NC State Wolfpack</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/b7973cedf918aea5f177807fe9ee3ae1-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15719">
+    <display-name>Kentucky Wildcats vs. Alabama Crimson Tide</display-name>
+  </channel>
+  <programme start="20260103170000 +0000" stop="20260103203000 +0000" channel="ppv-15719">
+    <title lang="en">Kentucky Wildcats vs. Alabama Crimson Tide</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/1b3c74f42cc241c1987ed81539062ceb-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15720">
+    <display-name>Oklahoma State Cowboys vs. Texas Tech Red Raiders</display-name>
+  </channel>
+  <programme start="20260103180000 +0000" stop="20260103213000 +0000" channel="ppv-15720">
+    <title lang="en">Oklahoma State Cowboys vs. Texas Tech Red Raiders</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/5c043a765f0851a7ff7bc36d69739cad-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15721">
+    <display-name>Auburn Tigers vs. Georgia Bulldogs</display-name>
+  </channel>
+  <programme start="20260103180000 +0000" stop="20260103213000 +0000" channel="ppv-15721">
+    <title lang="en">Auburn Tigers vs. Georgia Bulldogs</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/d6637f8c5f15c28f168218f2ccb883a8-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15722">
+    <display-name>BYU Cougars vs. Kansas State Wildcats</display-name>
+  </channel>
+  <programme start="20260103183000 +0000" stop="20260103220000 +0000" channel="ppv-15722">
+    <title lang="en">BYU Cougars vs. Kansas State Wildcats</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/58f2b099834e259caa58d511e051d6d9-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15723">
+    <display-name>Houston Cougars vs. Cincinnati Bearcats</display-name>
+  </channel>
+  <programme start="20260103190000 +0000" stop="20260103223000 +0000" channel="ppv-15723">
+    <title lang="en">Houston Cougars vs. Cincinnati Bearcats</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/bb7fb6aa1586ee47df581cda62ea968c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15724">
+    <display-name>Vanderbilt Commodores vs. South Carolina Gamecocks</display-name>
+  </channel>
+  <programme start="20260103190000 +0000" stop="20260103223000 +0000" channel="ppv-15724">
+    <title lang="en">Vanderbilt Commodores vs. South Carolina Gamecocks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/9afb89a7f9fd34525085c9a7375003e6-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15725">
+    <display-name>Kansas Jayhawks vs. UCF Knights</display-name>
+  </channel>
+  <programme start="20260103190000 +0000" stop="20260103223000 +0000" channel="ppv-15725">
+    <title lang="en">Kansas Jayhawks vs. UCF Knights</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/028ec12ed732d2bd73d32acd627b28ea-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15727">
+    <display-name>Tennessee Volunteers vs. Arkansas Razorbacks</display-name>
+  </channel>
+  <programme start="20260103200000 +0000" stop="20260103233000 +0000" channel="ppv-15727">
+    <title lang="en">Tennessee Volunteers vs. Arkansas Razorbacks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/5cc168882a1848fa3bb5daada26abe02-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15728">
+    <display-name>Duke Blue Devils vs. Florida State Seminoles</display-name>
+  </channel>
+  <programme start="20260103204500 +0000" stop="20260104001500 +0000" channel="ppv-15728">
+    <title lang="en">Duke Blue Devils vs. Florida State Seminoles</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/3e23826439bba5a80e194ae7e867e720-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15729">
+    <display-name>Arizona Wildcats vs. Utah Utes</display-name>
+  </channel>
+  <programme start="20260103210000 +0000" stop="20260104003000 +0000" channel="ppv-15729">
+    <title lang="en">Arizona Wildcats vs. Utah Utes</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/01297b592bcf711757224d4e5ea2aabe-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15730">
+    <display-name>UCLA Bruins vs. Iowa Hawkeyes</display-name>
+  </channel>
+  <programme start="20260103230000 +0000" stop="20260104023000 +0000" channel="ppv-15730">
+    <title lang="en">UCLA Bruins vs. Iowa Hawkeyes</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/6c8986ddb3126fa9b5005f666075d7d1-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15731">
+    <display-name>Illinois Fighting Illini vs. Penn State Nittany Lions</display-name>
+  </channel>
+  <programme start="20260104000000 +0000" stop="20260104033000 +0000" channel="ppv-15731">
+    <title lang="en">Illinois Fighting Illini vs. Penn State Nittany Lions</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/fb3cd5e9a6da61b60fab860a8e76fedc-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15732">
+    <display-name>Purdue Boilermakers vs. Wisconsin Badgers</display-name>
+  </channel>
+  <programme start="20260104010000 +0000" stop="20260104043000 +0000" channel="ppv-15732">
+    <title lang="en">Purdue Boilermakers vs. Wisconsin Badgers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/693237a3167960c6889b30fdbc1804b5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15733">
+    <display-name>Florida Gators vs. Missouri Tigers</display-name>
+  </channel>
+  <programme start="20260104013000 +0000" stop="20260104050000 +0000" channel="ppv-15733">
+    <title lang="en">Florida Gators vs. Missouri Tigers</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/49c9b198ce8a9c2d03872259fc2315f2-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-14899">
     <display-name>World Darts Championship</display-name>
   </channel>
@@ -36,33 +171,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15555">
-    <display-name>Brighton &amp; Hove Albion vs. Burnley</display-name>
-  </channel>
-  <programme start="20260103150000 +0000" stop="20260103173000 +0000" channel="ppv-15555">
-    <title lang="en">Brighton &amp; Hove Albion vs. Burnley</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15556">
-    <display-name>Wolverhampton Wanderers vs. West Ham United</display-name>
-  </channel>
-  <programme start="20260103150000 +0000" stop="20260103173000 +0000" channel="ppv-15556">
-    <title lang="en">Wolverhampton Wanderers vs. West Ham United</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15524">
-    <display-name>Osasuna vs. Athletic Club</display-name>
-  </channel>
-  <programme start="20260103151500 +0000" stop="20260103174500 +0000" channel="ppv-15524">
-    <title lang="en">Osasuna vs. Athletic Club</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15575">
     <display-name>AS Monaco vs. Lyon</display-name>
   </channel>
@@ -71,15 +179,6 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/caba358be42ecd3169de963faa2443a1-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15696">
-    <display-name>Senegal vs. Sudan</display-name>
-  </channel>
-  <programme start="20260103160000 +0000" stop="20260103180000 +0000" channel="ppv-15696">
-    <title lang="en">Senegal vs. Sudan</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/dda7b3e8a55243bc50228ec8758acdf3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15568">
     <display-name>Juventus vs. Lecce</display-name>
@@ -108,6 +207,15 @@
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/6c93cdbd0b519cd15b015b8f489a9c21-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15576">
+    <display-name>Nice vs. Strasbourg</display-name>
+  </channel>
+  <programme start="20260103180000 +0000" stop="20260103203000 +0000" channel="ppv-15576">
+    <title lang="en">Nice vs. Strasbourg</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/09a5c0b3d8ee8f06111ce21a91f713fe-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15699">
     <display-name>Mali vs. Tunisia</display-name>
   </channel>
@@ -134,15 +242,6 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/98879917ee58a09071c1acde5a70bfbe-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15588">
-    <display-name>AEW: Saturday Night Collision</display-name>
-  </channel>
-  <programme start="20260104010000 +0000" stop="20260104040000 +0000" channel="ppv-15588">
-    <title lang="en">AEW: Saturday Night Collision</title>
-    <sub-title>Wrestling</sub-title>
-    <category>Wrestling</category>
-    <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
   <channel id="ppv-5112">
     <display-name>24/7 South Park</display-name>
