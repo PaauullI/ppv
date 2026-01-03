@@ -36,24 +36,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15566">
-    <display-name>Genoa vs. Pisa</display-name>
-  </channel>
-  <programme start="20260103140000 +0000" stop="20260103163000 +0000" channel="ppv-15566">
-    <title lang="en">Genoa vs. Pisa</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/c4f90c733633c35581ce8a35bdd42890-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15567">
-    <display-name>Sassuolo vs. Parma</display-name>
-  </channel>
-  <programme start="20260103140000 +0000" stop="20260103163000 +0000" channel="ppv-15567">
-    <title lang="en">Sassuolo vs. Parma</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/9eb03ce38bc9fb160a0b08cd6f3168fa-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15555">
     <display-name>Brighton &amp; Hove Albion vs. Burnley</display-name>
   </channel>
@@ -143,6 +125,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15695">
+    <display-name>Pittsburgh Penguins vs. Detroit Red Wings</display-name>
+  </channel>
+  <programme start="20260103170000 +0000" stop="20260103200000 +0000" channel="ppv-15695">
+    <title lang="en">Pittsburgh Penguins vs. Detroit Red Wings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/98879917ee58a09071c1acde5a70bfbe-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15588">
     <display-name>AEW: Saturday Night Collision</display-name>
