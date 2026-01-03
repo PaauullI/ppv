@@ -36,15 +36,6 @@
     <category>Darts</category>
     <icon src="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15554">
-    <display-name>Aston Villa vs. Nottingham Forest</display-name>
-  </channel>
-  <programme start="20260103123000 +0000" stop="20260103150000 +0000" channel="ppv-15554">
-    <title lang="en">Aston Villa vs. Nottingham Forest</title>
-    <sub-title>Football</sub-title>
-    <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15519">
     <display-name>Celta Vigo vs. Valencia</display-name>
   </channel>
@@ -80,6 +71,15 @@
     <sub-title>Football</sub-title>
     <category>Football</category>
     <icon src="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15556">
+    <display-name>Wolverhampton Wanderers vs. West Ham United</display-name>
+  </channel>
+  <programme start="20260103150000 +0000" stop="20260103173000 +0000" channel="ppv-15556">
+    <title lang="en">Wolverhampton Wanderers vs. West Ham United</title>
+    <sub-title>Football</sub-title>
+    <category>Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15524">
     <display-name>Osasuna vs. Athletic Club</display-name>
