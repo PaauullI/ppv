@@ -27,42 +27,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15671">
-    <display-name>San Antonio Spurs vs. Indiana Pacers</display-name>
-  </channel>
-  <programme start="20260103000000 +0000" stop="20260103024800 +0000" channel="ppv-15671">
-    <title lang="en">San Antonio Spurs vs. Indiana Pacers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/f5272e08162b4e799a046432ff00ca7b-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15674">
-    <display-name>Brooklyn Nets vs. Washington Wizards</display-name>
-  </channel>
-  <programme start="20260103000000 +0000" stop="20260103024800 +0000" channel="ppv-15674">
-    <title lang="en">Brooklyn Nets vs. Washington Wizards</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/c9fdd6ca780610bf8ac9631557ad0914-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15676">
-    <display-name>Denver Nuggets vs. Cleveland Cavaliers</display-name>
-  </channel>
-  <programme start="20260103003000 +0000" stop="20260103031800 +0000" channel="ppv-15676">
-    <title lang="en">Denver Nuggets vs. Cleveland Cavaliers</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/ac4f39bafabdb7a55affbe1be7fb2842-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15680">
-    <display-name>Atlanta Hawks vs. New York Knicks</display-name>
-  </channel>
-  <programme start="20260103003000 +0000" stop="20260103031800 +0000" channel="ppv-15680">
-    <title lang="en">Atlanta Hawks vs. New York Knicks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/b788992a27c64c9dc0f9063e96d446a3-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15681">
     <display-name>Orlando Magic vs. Chicago Bulls</display-name>
   </channel>
@@ -143,6 +107,24 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/ea8cf20c2a3fd6f878e7e815ef35bc77-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15677">
+    <display-name>Seattle Kraken vs. Vancouver Canucks</display-name>
+  </channel>
+  <programme start="20260103033000 +0000" stop="20260103063000 +0000" channel="ppv-15677">
+    <title lang="en">Seattle Kraken vs. Vancouver Canucks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/6baba361bfde9eba6c11c078269db3bb-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15679">
+    <display-name>Minnesota Wild vs. Anaheim Ducks</display-name>
+  </channel>
+  <programme start="20260103033000 +0000" stop="20260103063000 +0000" channel="ppv-15679">
+    <title lang="en">Minnesota Wild vs. Anaheim Ducks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/d275e5cfc51e87cf4443ff297353ead3-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15587">
     <display-name>WWE: Friday Night Smackdown</display-name>
