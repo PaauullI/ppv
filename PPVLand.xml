@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-15602">
-    <display-name>Carolina Panthers vs. Tampa Bay Buccaneers</display-name>
-  </channel>
-  <programme start="20260103213000 +0000" stop="20260104010000 +0000" channel="ppv-15602">
-    <title lang="en">Carolina Panthers vs. Tampa Bay Buccaneers</title>
-    <sub-title>American Football</sub-title>
-    <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/d21d821ca231f5d046abfe0819a9bc31-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15605">
     <display-name>Seattle Seahawks vs. San Francisco 49ers</display-name>
   </channel>
@@ -26,15 +17,6 @@
     <sub-title>American Football</sub-title>
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15694">
-    <display-name>Minnesota Timberwolves vs. Miami Heat</display-name>
-  </channel>
-  <programme start="20260103220000 +0000" stop="20260104004800 +0000" channel="ppv-15694">
-    <title lang="en">Minnesota Timberwolves vs. Miami Heat</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/4b0e782cda8e405c73b55e8c072f794f-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15730">
     <display-name>UCLA Bruins vs. Iowa Hawkeyes</display-name>
@@ -180,6 +162,15 @@
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/ec18a6c0ed81d2ad797d7ef0fe73347b-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15715">
+    <display-name>Minnesota Wild vs. Los Angeles Kings</display-name>
+  </channel>
+  <programme start="20260104020000 +0000" stop="20260104050000 +0000" channel="ppv-15715">
+    <title lang="en">Minnesota Wild vs. Los Angeles Kings</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/419039fd232589802c4ea9b3bbfd1606-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15588">
     <display-name>AEW: Saturday Night Collision</display-name>
   </channel>
@@ -189,6 +180,9 @@
     <category>Wrestling</category>
     <icon src="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-5112">
+    <display-name>24/7 South Park</display-name>
+  </channel>
   <channel id="ppv-3663">
     <display-name>24/7 COWS</display-name>
   </channel>
@@ -197,5 +191,23 @@
     <sub-title>24/7 Streams</sub-title>
     <category>24/7 Streams</category>
     <icon src="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-8008">
+    <display-name>24/7 Family Guy</display-name>
+  </channel>
+  <programme start="20250118080000 +0000" stop="20250118090000 +0000" channel="ppv-8008">
+    <title lang="en">24/7 Family Guy</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/familyguy/preview.jpg" />
+  </programme>
+  <channel id="ppv-5191">
+    <display-name>24/7 The Simpsons</display-name>
+  </channel>
+  <programme start="20250118102800 +0000" stop="20250118102800 +0000" channel="ppv-5191">
+    <title lang="en">24/7 The Simpsons</title>
+    <sub-title>24/7 Streams</sub-title>
+    <category>24/7 Streams</category>
+    <icon src="https://thumbs.poocloud.in/thesimpsons/preview.jpg" />
   </programme>
 </tv>
