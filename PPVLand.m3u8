@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/tampabaybuccaneers/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15605" tvg-name="Seattle Seahawks vs. San Francisco 49ers" tvg-logo="https://api.ppv.to/assets/thumb/39529cbbb40bc30029e03703485ebd33-thumbnail.jpg" group-title="🏈 NFL",Seattle Seahawks vs. San Francisco 49ers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -14,21 +14,6 @@ https://gg.poocloud.in/sanfrancisco49ers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ppv-15727" tvg-name="Tennessee Volunteers vs. Arkansas Razorbacks" tvg-logo="https://api.ppv.to/assets/thumb/5cc168882a1848fa3bb5daada26abe02-thumbnail.jpg" group-title="🏈 NCAA College Football",Tennessee Volunteers vs. Arkansas Razorbacks
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ESPN2/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15728" tvg-name="Duke Blue Devils vs. Florida State Seminoles" tvg-logo="https://api.ppv.to/assets/thumb/3e23826439bba5a80e194ae7e867e720-thumbnail.jpg" group-title="🏈 NCAA College Football",Duke Blue Devils vs. Florida State Seminoles
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/CBS/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15729" tvg-name="Arizona Wildcats vs. Utah Utes" tvg-logo="https://api.ppv.to/assets/thumb/01297b592bcf711757224d4e5ea2aabe-thumbnail.jpg" group-title="🏈 NCAA College Football",Arizona Wildcats vs. Utah Utes
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/Peacock/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15694" tvg-name="Minnesota Timberwolves vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/4b0e782cda8e405c73b55e8c072f794f-thumbnail.jpg" group-title="🏀 NBA",Minnesota Timberwolves vs. Miami Heat
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -54,36 +39,66 @@ https://gg.poocloud.in/newyorkknicks/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/torontoraptors/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15702" tvg-name="Charlotte Hornets vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/4db7ca61f500660fbb363ebe70f3c521-thumbnail.jpg" group-title="🏀 NBA",Charlotte Hornets vs. Chicago Bulls
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15703" tvg-name="Portland Trail Blazers vs. San Antonio Spurs" tvg-logo="https://api.ppv.to/assets/thumb/d8b8db0f5f8c63b10d0c8af9f61f3d55-thumbnail.jpg" group-title="🏀 NBA",Portland Trail Blazers vs. San Antonio Spurs
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15732" tvg-name="Purdue Boilermakers vs. Wisconsin Badgers" tvg-logo="https://api.ppv.to/assets/thumb/693237a3167960c6889b30fdbc1804b5-thumbnail.jpg" group-title="🏈 NCAA College Football",Purdue Boilermakers vs. Wisconsin Badgers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/FOX/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15705" tvg-name="Houston Rockets vs. Dallas Mavericks" tvg-logo="https://api.ppv.to/assets/thumb/58ca315a5c0fd70ca0b8e76419361870-thumbnail.jpg" group-title="🏀 NBA",Houston Rockets vs. Dallas Mavericks
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/dallasmavericks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15733" tvg-name="Florida Gators vs. Missouri Tigers" tvg-logo="https://api.ppv.to/assets/thumb/49c9b198ce8a9c2d03872259fc2315f2-thumbnail.jpg" group-title="🏈 NCAA College Football",Florida Gators vs. Missouri Tigers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/SECN/index.m3u8
+https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ppv-15734" tvg-name="Amanda Serrano vs. Reina Tellez" tvg-logo="https://api.ppv.to/assets/thumb/ad82e80a6b6868dfd69dbc8998ec1f4b-thumbnail.jpg" group-title="AMANDA SERRANO VS. REINA TELLEZ",Amanda Serrano vs. Reina Tellez
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/daznboxing/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ppv-15704" tvg-name="Philadelphia Flyers vs. Edmonton Oilers" tvg-logo="https://api.ppv.to/assets/thumb/77b2f3939c9e854cd9ba3ba9e1d0cc5f-thumbnail.jpg" group-title="🏒 NHL",Philadelphia Flyers vs. Edmonton Oilers
+https://gg.poocloud.in/daznboxing/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15735" tvg-name="Australia vs. England" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="🏏 Cricket",Australia vs. England
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/edmontonoilers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ppv-15706" tvg-name="Montreal Canadiens vs. St. Louis Blues" tvg-logo="https://api.ppv.to/assets/thumb/35d5d8bad2c4719c0acccc9eeba31e7e-thumbnail.jpg" group-title="🏒 NHL",Montreal Canadiens vs. St. Louis Blues
+https://gg.poocloud.in/ashes/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15710" tvg-name="Winnipeg Jets vs. Ottawa Senators" tvg-logo="https://api.ppv.to/assets/thumb/8a6efcd8a619969573325b847bd2b4fd-thumbnail.jpg" group-title="🏒 NHL",Winnipeg Jets vs. Ottawa Senators
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15708" tvg-name="Tampa Bay Lightning vs. San Jose Sharks" tvg-logo="https://api.ppv.to/assets/thumb/e502a426f2997bc5938cf59120f91104-thumbnail.jpg" group-title="🏒 NHL",Tampa Bay Lightning vs. San Jose Sharks
+https://gg.poocloud.in/ottawasenators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15711" tvg-name="Toronto Maple Leafs vs. New York Islanders" tvg-logo="https://api.ppv.to/assets/thumb/ebb36d896836d60752235bc4f21408ec-thumbnail.jpg" group-title="🏒 NHL",Toronto Maple Leafs vs. New York Islanders
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/sanjosesharks/index.m3u8
+https://gg.poocloud.in/newyorkislanders/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15712" tvg-name="Chicago Blackhawks vs. Washington Capitals" tvg-logo="https://api.ppv.to/assets/thumb/668caa82cd62bf83eedd576de45cbd53-thumbnail.jpg" group-title="🏒 NHL",Chicago Blackhawks vs. Washington Capitals
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/washingtoncapitals/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15713" tvg-name="Colorado Avalanche vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/d467759c3aafdde1cbd2790a53a3a40e-thumbnail.jpg" group-title="🏒 NHL",Colorado Avalanche vs. Carolina Hurricanes
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ppv-15714" tvg-name="Nashville Predators vs. Calgary Flames" tvg-logo="https://api.ppv.to/assets/thumb/ec18a6c0ed81d2ad797d7ef0fe73347b-thumbnail.jpg" group-title="🏒 NHL",Nashville Predators vs. Calgary Flames
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/calgaryflames/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15588" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="🤼 AEW",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su

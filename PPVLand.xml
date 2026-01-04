@@ -27,33 +27,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15727">
-    <display-name>Tennessee Volunteers vs. Arkansas Razorbacks</display-name>
-  </channel>
-  <programme start="20260103200000 +0000" stop="20260103233000 +0000" channel="ppv-15727">
-    <title lang="en">Tennessee Volunteers vs. Arkansas Razorbacks</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/5cc168882a1848fa3bb5daada26abe02-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15728">
-    <display-name>Duke Blue Devils vs. Florida State Seminoles</display-name>
-  </channel>
-  <programme start="20260103204500 +0000" stop="20260104001500 +0000" channel="ppv-15728">
-    <title lang="en">Duke Blue Devils vs. Florida State Seminoles</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/3e23826439bba5a80e194ae7e867e720-thumbnail.jpg" />
-  </programme>
-  <channel id="ppv-15729">
-    <display-name>Arizona Wildcats vs. Utah Utes</display-name>
-  </channel>
-  <programme start="20260103210000 +0000" stop="20260104003000 +0000" channel="ppv-15729">
-    <title lang="en">Arizona Wildcats vs. Utah Utes</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/01297b592bcf711757224d4e5ea2aabe-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15694">
     <display-name>Minnesota Timberwolves vs. Miami Heat</display-name>
   </channel>
@@ -99,6 +72,24 @@
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/76fa0ea6fc1310ecd5e12bbb6c6376c6-thumbnail.jpg" />
   </programme>
+  <channel id="ppv-15702">
+    <display-name>Charlotte Hornets vs. Chicago Bulls</display-name>
+  </channel>
+  <programme start="20260104010000 +0000" stop="20260104034800 +0000" channel="ppv-15702">
+    <title lang="en">Charlotte Hornets vs. Chicago Bulls</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/4db7ca61f500660fbb363ebe70f3c521-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15703">
+    <display-name>Portland Trail Blazers vs. San Antonio Spurs</display-name>
+  </channel>
+  <programme start="20260104010000 +0000" stop="20260104034800 +0000" channel="ppv-15703">
+    <title lang="en">Portland Trail Blazers vs. San Antonio Spurs</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/d8b8db0f5f8c63b10d0c8af9f61f3d55-thumbnail.jpg" />
+  </programme>
   <channel id="ppv-15732">
     <display-name>Purdue Boilermakers vs. Wisconsin Badgers</display-name>
   </channel>
@@ -107,6 +98,15 @@
     <sub-title>Basketball</sub-title>
     <category>Basketball</category>
     <icon src="https://api.ppv.to/assets/thumb/693237a3167960c6889b30fdbc1804b5-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15705">
+    <display-name>Houston Rockets vs. Dallas Mavericks</display-name>
+  </channel>
+  <programme start="20260104013000 +0000" stop="20260104041800 +0000" channel="ppv-15705">
+    <title lang="en">Houston Rockets vs. Dallas Mavericks</title>
+    <sub-title>Basketball</sub-title>
+    <category>Basketball</category>
+    <icon src="https://api.ppv.to/assets/thumb/58ca315a5c0fd70ca0b8e76419361870-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15733">
     <display-name>Florida Gators vs. Missouri Tigers</display-name>
@@ -126,32 +126,59 @@
     <category>Combat Sports</category>
     <icon src="https://api.ppv.to/assets/thumb/ad82e80a6b6868dfd69dbc8998ec1f4b-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15704">
-    <display-name>Philadelphia Flyers vs. Edmonton Oilers</display-name>
+  <channel id="ppv-15735">
+    <display-name>Australia vs. England</display-name>
   </channel>
-  <programme start="20260103203000 +0000" stop="20260103233000 +0000" channel="ppv-15704">
-    <title lang="en">Philadelphia Flyers vs. Edmonton Oilers</title>
-    <sub-title>Ice Hockey</sub-title>
-    <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/77b2f3939c9e854cd9ba3ba9e1d0cc5f-thumbnail.jpg" />
+  <programme start="20260103233000 +0000" stop="20260104093000 +0000" channel="ppv-15735">
+    <title lang="en">Australia vs. England</title>
+    <sub-title>Cricket</sub-title>
+    <category>Cricket</category>
+    <icon src="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15706">
-    <display-name>Montreal Canadiens vs. St. Louis Blues</display-name>
+  <channel id="ppv-15710">
+    <display-name>Winnipeg Jets vs. Ottawa Senators</display-name>
   </channel>
-  <programme start="20260103210000 +0000" stop="20260104000000 +0000" channel="ppv-15706">
-    <title lang="en">Montreal Canadiens vs. St. Louis Blues</title>
+  <programme start="20260104000000 +0000" stop="20260104030000 +0000" channel="ppv-15710">
+    <title lang="en">Winnipeg Jets vs. Ottawa Senators</title>
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/35d5d8bad2c4719c0acccc9eeba31e7e-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/8a6efcd8a619969573325b847bd2b4fd-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15708">
-    <display-name>Tampa Bay Lightning vs. San Jose Sharks</display-name>
+  <channel id="ppv-15711">
+    <display-name>Toronto Maple Leafs vs. New York Islanders</display-name>
   </channel>
-  <programme start="20260103210000 +0000" stop="20260104000000 +0000" channel="ppv-15708">
-    <title lang="en">Tampa Bay Lightning vs. San Jose Sharks</title>
+  <programme start="20260104000000 +0000" stop="20260104030000 +0000" channel="ppv-15711">
+    <title lang="en">Toronto Maple Leafs vs. New York Islanders</title>
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
-    <icon src="https://api.ppv.to/assets/thumb/e502a426f2997bc5938cf59120f91104-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/ebb36d896836d60752235bc4f21408ec-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15712">
+    <display-name>Chicago Blackhawks vs. Washington Capitals</display-name>
+  </channel>
+  <programme start="20260104000000 +0000" stop="20260104030000 +0000" channel="ppv-15712">
+    <title lang="en">Chicago Blackhawks vs. Washington Capitals</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/668caa82cd62bf83eedd576de45cbd53-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15713">
+    <display-name>Colorado Avalanche vs. Carolina Hurricanes</display-name>
+  </channel>
+  <programme start="20260104000000 +0000" stop="20260104030000 +0000" channel="ppv-15713">
+    <title lang="en">Colorado Avalanche vs. Carolina Hurricanes</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/d467759c3aafdde1cbd2790a53a3a40e-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15714">
+    <display-name>Nashville Predators vs. Calgary Flames</display-name>
+  </channel>
+  <programme start="20260104000000 +0000" stop="20260104030000 +0000" channel="ppv-15714">
+    <title lang="en">Nashville Predators vs. Calgary Flames</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/ec18a6c0ed81d2ad797d7ef0fe73347b-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15588">
     <display-name>AEW: Saturday Night Collision</display-name>
