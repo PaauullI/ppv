@@ -18,15 +18,6 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-15730">
-    <display-name>UCLA Bruins vs. Iowa Hawkeyes</display-name>
-  </channel>
-  <programme start="20260103230000 +0000" stop="20260104023000 +0000" channel="ppv-15730">
-    <title lang="en">UCLA Bruins vs. Iowa Hawkeyes</title>
-    <sub-title>Basketball</sub-title>
-    <category>Basketball</category>
-    <icon src="https://api.ppv.to/assets/thumb/6c8986ddb3126fa9b5005f666075d7d1-thumbnail.jpg" />
-  </programme>
   <channel id="ppv-15731">
     <display-name>Illinois Fighting Illini vs. Penn State Nittany Lions</display-name>
   </channel>
@@ -170,6 +161,15 @@
     <sub-title>Ice Hockey</sub-title>
     <category>Ice Hockey</category>
     <icon src="https://api.ppv.to/assets/thumb/419039fd232589802c4ea9b3bbfd1606-thumbnail.jpg" />
+  </programme>
+  <channel id="ppv-15716">
+    <display-name>Boston Bruins vs. Vancouver Canucks</display-name>
+  </channel>
+  <programme start="20260104030000 +0000" stop="20260104060000 +0000" channel="ppv-15716">
+    <title lang="en">Boston Bruins vs. Vancouver Canucks</title>
+    <sub-title>Ice Hockey</sub-title>
+    <category>Ice Hockey</category>
+    <icon src="https://api.ppv.to/assets/thumb/c20df4cbdc9c0005fe87eb9001428d85-thumbnail.jpg" />
   </programme>
   <channel id="ppv-15588">
     <display-name>AEW: Saturday Night Collision</display-name>
